@@ -1,0 +1,3275 @@
+,Source,Freq,Class,Country
+1,National Institutes of Health Clinical Center (CC),4491,Government,United States
+2,National Cancer Institute (NCI),3458,Government,United States
+3,GlaxoSmithKline,3401,Pharma,United Kingdom
+4,Pfizer,2929,Pharma,United States
+5,Novartis,2836,Pharma,United States
+6,AstraZeneca,2535,Pharma,United Kingdom
+7,Mayo Clinic,2191,Academic,United States
+8,Merck Sharp & Dohme Corp.,2169,Pharma,United States
+9,M.D. Anderson Cancer Center,2167,Academic,United States
+10,Assistance Publique - Hôpitaux de Paris,2033,Academic,France
+11,Boehringer Ingelheim,1898,Pharma,Germany
+12,Massachusetts General Hospital,1885,Academic,United States
+13,Sanofi,1840,Pharma,France
+14,Assiut University,1834,Academic,Egypt
+15,VA Office of Research and Development,1818,Government,United States
+16,Duke University,1760,Academic,United States
+17,Hoffmann-La Roche,1753,Pharma,Switzerland
+18,National Taiwan University Hospital,1668,Academic,Taiwan
+19,National Institute of Allergy and Infectious Diseases (NIAID),1660,Government,United States
+20,Cairo University,1654,Academic,Egypt
+21,Stanford University,1644,Academic,United States
+22,"University of California, San Francisco",1639,Academic,United States
+23,Eli Lilly and Company,1601,Pharma,United States
+24,University of Pittsburgh,1522,Academic,United States
+25,Memorial Sloan Kettering Cancer Center,1449,Academic,United States
+26,Bayer,1393,Pharma,Germany
+27,Seoul National University Hospital,1365,Academic,South Korea
+28,Washington University School of Medicine,1286,Academic,United States
+29,Johns Hopkins University,1271,Academic,United States
+30,University of Pennsylvania,1195,Academic,United States
+31,Yale University,1184,Academic,United States
+32,Bristol-Myers Squibb,1152,Academic,United States
+33,Hospices Civils de Lyon,1137,Academic,France
+34,University of Michigan,1055,Academic,United States
+35,"University Health Network, Toronto",1053,Academic,Canada
+36,Emory University,1047,Academic,United States
+37,"University of North Carolina, Chapel Hill",1016,Academic,United States
+38,Northwestern University,1011,Academic,United States
+39,Novo Nordisk A/S,1008,Pharma,United States
+40,University of Washington,993,Academic,United States
+41,"University of Colorado, Denver",991,Academic,United States
+42,Yonsei University,982,Academic,South Korea
+43,University of British Columbia,965,Academic,Canada
+44,NYU Langone Health,956,Academic,United States
+45,University of Aarhus,951,Academic,Denmark
+46,Sun Yat-sen University,934,Academic,China
+47,University of Alabama at Birmingham,913,Academic,United States
+48,University of Florida,906,Academic,United States
+49,Takeda,884,Pharma,Japan
+50,Medical University of Vienna,876,Academic,Austria
+51,University of Sao Paulo,866,Academic,Brazil
+52,Columbia University,860,Academic,United States
+53,Astellas Pharma Inc,857,Pharma,Japan
+54,[Redacted],852,NA,NA
+55,University of Zurich,849,Academic,Switzerland
+56,University of Minnesota,826,Academic,United States
+57,"Rigshospitalet, Denmark",815,Academic,Denmark
+58,"University of California, Los Angeles",796,Academic,United States
+59,Wake Forest University Health Sciences,792,Academic,United States
+60,"University of Wisconsin, Madison",784,Academic,United States
+61,Brigham and Women's Hospital,776,Academic,United States
+62,Dana-Farber Cancer Institute,773,Academic,United States
+63,"University Hospital, Montpellier",763,Academic,France
+64,Samsung Medical Center,751,Academic,South Korea
+65,Indiana University,749,Academic,United States
+66,Amgen,746,Pharma,United States
+67,"National Heart, Lung, and Blood Institute (NHLBI)",718,Government,United States
+68,AbbVie,713,Pharma,United States
+69,Vanderbilt University Medical Center,702,Academic,United States
+70,University of Texas Southwestern Medical Center,701,Academic,United States
+71,Chinese University of Hong Kong,697,Academic,China
+72,"Charite University, Berlin, Germany",690,Academic,Germany
+73,Karolinska Institutet,688,Academic,Sweden
+74,"University of California, San Diego",688,Academic,United States
+75,University of Utah,681,Academic,United States
+76,Radboud University,671,Academic,Netherlands
+77,Oslo University Hospital,666,Academic,Norway
+78,"University Hospital, Basel, Switzerland",663,Academic,Switzerland
+79,The Cleveland Clinic,662,Academic,United States
+80,The University of Hong Kong,654,Academic,China
+81,Weill Medical College of Cornell University,648,Academic,United States
+82,University of Chicago,644,Academic,United States
+83,Ain Shams University,642,Academic,Egypt
+84,Hadassah Medical Organization,625,Academic,Israel
+85,Maastricht University Medical Center,618,Academic,Netherlands
+86,McMaster University,613,Academic,Canada
+87,Universitaire Ziekenhuizen Leuven,613,Academic,Belgium
+88,"Janssen Research & Development, LLC",612,Pharma,Belgium
+89,Sheba Medical Center,612,Academic,Israel
+90,"University of California, Davis",607,Academic,United States
+91,University of Miami,607,Academic,United States
+92,Chang Gung Memorial Hospital,597,Academic,Taiwan
+93,Icahn School of Medicine at Mount Sinai,597,Academic,United States
+94,Baylor College of Medicine,593,Academic,United States
+95,Alcon Research,575,Pharma,Switzerland
+96,Imperial College London,571,Academic,United Kingdom
+97,Medical University of South Carolina,563,Academic,United States
+98,Eisai Inc.,560,Pharma,Japan
+99,"The University of Texas Health Science Center, Houston",550,Academic,United States
+100,University of Oxford,547,Academic,United Kingdom
+101,University of Rochester,543,Academic,United States
+102,Nantes University Hospital,542,Academic,France
+103,Allergan,535,Pharma,Ireland
+104,University of Southern California,532,Academic,United States
+105,"University Hospital, Grenoble",530,Academic,France
+106,Lawson Health Research Institute,529,Academic,Canada
+107,Assistance Publique Hopitaux De Marseille,527,Academic,France
+108,Asan Medical Center,525,Academic,South Korea
+109,Oregon Health and Science University,523,Academic,United States
+110,"University Hospital, Clermont-Ferrand",516,Academic,France
+111,University of Virginia,516,Academic,United States
+112,Gilead Sciences,514,Pharma,United States
+113,University of Alberta,504,Academic,Canada
+114,Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins,486,Academic,United States
+115,"University of Maryland, Baltimore",483,Academic,United States
+116,"University Hospital, Bordeaux",482,Academic,France
+117,Wyeth is now a wholly owned subsidiary of Pfizer,481,Pharma,United States
+118,University of Iowa,480,Academic,United States
+119,Fudan University,478,Academic,China
+120,Ohio State University,478,Academic,United States
+121,"University Hospital Inselspital, Berne",477,Academic,Switzerland
+122,"Children's Hospital Medical Center, Cincinnati",473,Academic,United States
+123,"University Hospital, Toulouse",473,Academic,France
+124,Peking Union Medical College Hospital,472,Academic,China
+125,Tel-Aviv Sourasky Medical Center,472,Academic,Israel
+126,Mansoura University,471,Academic,Egypt
+127,"University Hospital, Strasbourg, France",471,Academic,France
+128,Boston Children's Hospital,467,Academic,United States
+129,NIH AIDS Clinical Trials Information Service,467,Government,United States
+130,Alliance for Clinical Trials in Oncology,466,Government,United States
+131,Mahidol University,466,Academic,Thailand
+132,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",465,Pharma,United States
+133,UCB Pharma,452,Pharma,Belgium
+134,Virginia Commonwealth University,448,Academic,United States
+135,The Hospital for Sick Children,446,Academic,Canada
+136,Case Comprehensive Cancer Center,445,Academic,United States
+137,Shire,441,Pharma,United States
+138,Abbott Medical Devices,440,Pharma,United States
+139,"Genentech, Inc.",439,Pharma,United States
+140,University of Calgary,436,Academic,Canada
+141,University of Kansas Medical Center,436,Academic,United States
+142,"University Hospital, Ghent",430,Academic,Belgium
+143,Fred Hutchinson Cancer Research Center,428,Academic,United States
+144,"University Hospital, Lille",424,Academic,France
+145,Norwegian University of Science and Technology,422,Academic,Norway
+146,University of Sao Paulo General Hospital,417,Academic,Brazil
+147,Rambam Health Care Campus,415,Academic,Israel
+148,Ottawa Hospital Research Institute,412,Academic,Canada
+149,Sunnybrook Health Sciences Centre,412,Academic,Canada
+150,Federal University of São Paulo,410,Academic,Brazil
+151,"University College, London",410,Academic,United Kingdom
+152,Celgene,409,Pharma,United States
+153,Children's Oncology Group,398,Government,United States
+154,University of Copenhagen,389,Academic,Denmark
+155,City of Hope Medical Center,387,Academic,United States
+156,University of Manitoba,383,Academic,Canada
+157,Medical College of Wisconsin,380,Academic,United States
+158,University Medical Center Groningen,379,Academic,Netherlands
+159,New York State Psychiatric Institute,378,Academic,United States
+160,Odense University Hospital,378,Academic,Denmark
+161,Thomas Jefferson University,376,Academic,United States
+162,Children's Hospital of Philadelphia,375,Academic,United States
+163,Boston Scientific Corporation,371,Pharma,United States
+164,Centre Hospitalier Universitaire de Nice,371,Academic,France
+165,Milton S. Hershey Medical Center,370,Academic,United States
+166,Beth Israel Deaconess Medical Center,369,Academic,United States
+167,Abbott,367,Pharma,United States
+168,Centre Hospitalier Universitaire de Nīmes,364,Academic,France
+169,"Rutgers, The State University of New Jersey",362,Academic,United States
+170,"Central Hospital, Nancy, France",361,Academic,France
+171,Teva Pharmaceutical Industries,360,Pharma,Israel
+172,Rennes University Hospital,359,Academic,France
+173,Dartmouth-Hitchcock Medical Center,358,Academic,United States
+174,H. Lee Moffitt Cancer Center and Research Institute,358,Academic,United States
+175,University of Nebraska,357,Academic,United States
+176,"University of California, Irvine",355,Academic,United States
+177,Centre Hospitalier Universitaire de Saint Etienne,352,Academic,France
+178,"University Hospital, Geneva",352,Academic,Switzerland
+179,Biogen,351,Pharma,United States
+180,Meir Medical Center,351,Academic,Israel
+181,Rabin Medical Center,351,Academic,Israel
+182,Hospital de Clinicas de Porto Alegre,346,Academic,Brazil
+183,Centre Hospitalier Universitaire Dijon,344,Academic,France
+184,Cedars-Sinai Medical Center,343,Academic,United States
+185,University of Kentucky,343,Academic,United States
+186,"Centre Hospitalier Universitaire, Amiens",340,Academic,France
+187,"University Hospital, Brest",333,Academic,France
+188,"St. Michael's Hospital, Toronto",332,Academic,Canada
+189,University Hospital Tuebingen,330,Academic,Germany
+190,McGill University Health Centre/Research Institute of the McGill University Health Centre,326,Academic,United States
+191,Hacettepe University,320,Academic,Turkey
+192,Northwell Health,320,Academic,United States
+193,"Daiichi Sankyo, Inc.",319,Pharma,Japan
+194,St. Jude Children's Research Hospital,317,Academic,United States
+195,"University Hospital, Caen",315,Academic,France
+196,Roswell Park Cancer Institute,313,Academic,United States
+197,"National University Hospital, Singapore",311,Academic,Singapore
+198,Vanderbilt University,311,Academic,United States
+199,European Organisation for Research and Treatment of Cancer - EORTC,308,Academic,Belgium
+200,National Institute on Drug Abuse (NIDA),306,Government,United States
+201,University of Arizona,302,Academic,United States
+202,University of Arkansas,302,Academic,United States
+203,Centre Hospitalier Universitaire de Besancon,300,Academic,France
+204,The University of Texas Health Science Center at San Antonio,298,Academic,United States
+205,UMC Utrecht,298,Academic,Netherlands
+206,Nationwide Children's Hospital,295,Academic,United States
+207,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),294,Government,United States
+208,University of Nottingham,293,Academic,United Kingdom
+209,University of Toronto,291,Academic,Canada
+210,Chinese PLA General Hospital,288,Academic,China
+211,Southwest Oncology Group,288,Government,United States
+212,"University Hospital, Angers",288,Academic,France
+213,Ohio State University Comprehensive Cancer Center,286,Academic,United States
+214,Medical University of Graz,285,Academic,Austria
+215,University of Roma La Sapienza,284,Academic,Italy
+216,University of Edinburgh,282,Academic,United Kingdom
+217,Abramson Cancer Center of the University of Pennsylvania,280,Academic,United States
+218,Centers for Disease Control and Prevention,280,Government,United States
+219,Hillel Yaffe Medical Center,279,Academic,Israel
+220,University of Illinois at Chicago,279,Academic,United States
+221,Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA),275,Academic,Netherlands
+222,"Merck KGaA, Darmstadt, Germany",275,Pharma,Germany
+223,MedImmune LLC,274,Pharma,United States
+224,Kaiser Permanente,272,Academic,United States
+225,Laval University,272,Academic,Canada
+226,Montefiore Medical Center,269,Academic,United States
+227,Heidelberg University,268,Academic,Germany
+228,University of Cincinnati,267,Academic,United States
+229,Hvidovre University Hospital,266,Academic,Denmark
+230,University of South Florida,264,Academic,United States
+231,Rush University Medical Center,262,Academic,United States
+232,"Jiangsu HengRui Medicine Co., Ltd.",261,Pharma,China
+233,University of Oklahoma,260,Academic,United States
+234,"University Hospital, Rouen",258,Academic,France
+235,Boston Medical Center,257,Academic,United States
+236,Hospital Clinic of Barcelona,257,Academic,Spain
+237,UNC Lineberger Comprehensive Cancer Center,256,Academic,United States
+238,Zimmer Biomet,256,Pharma,United States
+239,"Institut National de la Santé Et de la Recherche Médicale, France",255,Academic,France
+240,Universitätsklinikum Hamburg-Eppendorf,255,Academic,Germany
+241,China Medical University Hospital,254,Academic,China
+242,King's College London,254,Academic,United Kingdom
+243,Queen's University,253,Academic,Canada
+244,Jonsson Comprehensive Cancer Center,252,Academic,United States
+245,Cliniques universitaires Saint-Luc- Université Catholique de Louvain,250,Academic,Belgium
+246,London School of Hygiene and Tropical Medicine,247,Academic,United Kingdom
+247,University of Missouri-Columbia,247,Academic,United States
+248,Seoul National University Bundang Hospital,244,Academic,South Korea
+249,University of Louisville,244,Academic,United States
+250,Nova Scotia Health Authority,242,Academic,Canada
+251,Johns Hopkins Bloomberg School of Public Health,241,Academic,United States
+252,KU Leuven,240,Academic,Belgium
+253,Chinese Academy of Medical Sciences,238,Academic,China
+254,The Hong Kong Polytechnic University,237,Academic,China
+255,University of Michigan Rogel Cancer Center,237,Academic,United States
+256,Uppsala University,236,Academic,Sweden
+257,Eastern Cooperative Oncology Group,235,Government,United States
+258,Peking University People's Hospital,235,Academic,China
+259,Shanghai Jiao Tong University School of Medicine,234,Academic,China
+260,Bispebjerg Hospital,232,Academic,Denmark
+261,Georgetown University,232,Academic,United States
+262,Karolinska University Hospital,232,Academic,Sweden
+263,"Masonic Cancer Center, University of Minnesota",229,Academic,United States
+264,Peking University,229,Academic,China
+265,"HaEmek Medical Center, Israel",228,Academic,Israel
+266,"Second Affiliated Hospital, School of Medicine, Zhejiang University",228,Academic,China
+267,Ipsen,226,Pharma,France
+268,Technische Universität München,226,Academic,Germany
+269,University of New Mexico,224,Academic,United States
+270,Dr. Reddy's Laboratories Limited,223,Pharma,India
+271,Helsinki University Central Hospital,222,Academic,Finland
+272,Centre for Addiction and Mental Health,221,Academic,Canada
+273,University Hospitals Cleveland Medical Center,221,Academic,United States
+274,Xijing Hospital,220,Academic,China
+275,Nestlé,219,Pharma,United States
+276,Ferring Pharmaceuticals,216,Pharma,Switzerland
+277,Loma Linda University,216,Academic,United States
+278,Herlev Hospital,214,Academic,Denmark
+279,Shanghai Zhongshan Hospital,214,Academic,China
+280,ViiV Healthcare,214,Pharma,United States
+281,Boston University,213,Academic,United States
+282,Centre hospitalier de l'Université de Montréal (CHUM),212,Academic,Canada
+283,University of Southern Denmark,210,Academic,Denmark
+284,Federico II University,209,Academic,Italy
+285,Fondation Ophtalmologique Adolphe de Rothschild,209,Academic,France
+286,Assaf-Harofeh Medical Center,205,Academic,Israel
+287,"Bausch Health Americas, Inc.",205,Pharma,United States
+288,Istanbul University,203,Academic,Turkey
+289,Regeneron Pharmaceuticals,203,Pharma,United States
+290,"Taipei Veterans General Hospital, Taiwan",203,Academic,Taiwan
+291,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),202,Government,United States
+292,Far Eastern Memorial Hospital,202,Academic,Taiwan
+293,Universitair Ziekenhuis Brussel,202,Academic,Belgium
+294,Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,201,Academic,Spain
+295,Postgraduate Institute of Medical Education and Research,201,Academic,India
+296,RWTH Aachen University,201,Academic,Germany
+297,Ludwig-Maximilians - University of Munich,200,Academic,Germany
+298,National Center for Complementary and Integrative Health (NCCIH),200,Government,United States
+299,Turku University Hospital,199,Academic,Finland
+300,Pennington Biomedical Research Center,198,Academic,United States
+301,University of Erlangen-Nürnberg Medical School,198,Academic,Germany
+302,"University of Massachusetts, Worcester",198,Academic,United States
+303,Tanta University,197,Academic,Egypt
+304,Technische Universität Dresden,197,Academic,Germany
+305,Shandong University,196,Academic,China
+306,Tehran University of Medical Sciences,196,Academic,Iran
+307,Université de Sherbrooke,195,Academic,Canada
+308,Vanderbilt-Ingram Cancer Center,195,Academic,United States
+309,Brown University,193,Academic,United States
+310,LEO Pharma,193,Pharma,Denmark
+311,"Otsuka Pharmaceutical Development & Commercialization, Inc.",193,Pharma,Japan
+312,RenJi Hospital,193,Academic,China
+313,Catholic University of the Sacred Heart,192,Academic,Italy
+314,Region Skane,192,Academic,Sweden
+315,"University Hospital, Limoges",192,Academic,France
+316,VU University Medical Center,190,Academic,Netherlands
+317,AHS Cancer Control Alberta,189,Academic,Canada
+318,Groupe Hospitalier Paris Saint Joseph,189,Academic,France
+319,Haukeland University Hospital,189,Academic,Norway
+320,CHU de Reims,188,Academic,France
+321,Göteborg University,188,Academic,Sweden
+322,Aga Khan University,187,Academic,Pakistan
+323,Erasmus Medical Center,186,Academic,Netherlands
+324,Gynecologic Oncology Group,184,Government,United States
+325,Nanfang Hospital of Southern Medical University,184,Academic,China
+326,"Sahlgrenska University Hospital, Sweden",184,Academic,Sweden
+327,Chong Kun Dang Pharmaceutical,183,Pharma,South Korea
+328,Medical University of Warsaw,182,Academic,Poland
+329,Poitiers University Hospital,181,Academic,France
+330,Royal Marsden NHS Foundation Trust,181,Academic,United Kingdom
+331,"University Hospital, Tours",181,Academic,France
+332,University of Saskatchewan,181,Academic,Canada
+333,Shahid Beheshti University of Medical Sciences,180,Academic,Iran
+334,Johann Wolfgang Goethe University Hospital,178,Academic,Germany
+335,Ruijin Hospital,178,Academic,China
+336,Henry Ford Health System,177,Academic,United States
+337,Medtronic Cardiac Rhythm and Heart Failure,177,Pharma,United States
+338,Umeå University,177,Academic,Sweden
+339,Canadian Cancer Trials Group,176,Academic,Canada
+340,Office of Rare Diseases (ORD),176,Government,United States
+341,Guy's and St Thomas' NHS Foundation Trust,174,Academic,United Kingdom
+342,"National Cancer Center, Korea",174,Academic,South Korea
+343,Wayne State University,174,Academic,United States
+344,Indonesia University,173,Academic,Indonesia
+345,OHSU Knight Cancer Institute,173,Academic,United States
+346,"SCRI Development Innovations, LLC",172,Pharma,United States
+347,Teva Pharmaceuticals USA,171,Pharma,Israel
+348,"The University of Texas Medical Branch, Galveston",171,Academic,United States
+349,H. Lundbeck A/S,170,Pharma,Denmark
+350,"Hospital for Special Surgery, New York",170,Academic,United States
+351,Incyte Corporation,170,Pharma,United States
+352,Albert Einstein College of Medicine,169,Academic,United States
+353,Hopital Foch,169,Academic,France
+354,Aarhus University Hospital,168,Academic,Denmark
+355,Forest Laboratories,168,Pharma,United States
+356,"Gustave Roussy, Cancer Campus, Grand Paris",168,Academic,France
+357,University of Cologne,168,Academic,Germany
+358,Fox Chase Cancer Center,166,Academic,United States
+359,National Center for Research Resources (NCRR),166,Government,United States
+360,Shaare Zedek Medical Center,166,Academic,Israel
+361,Sheffield Teaching Hospitals NHS Foundation Trust,166,Academic,United Kingdom
+362,Lund University,165,Academic,Sweden
+363,Temple University,165,Academic,United States
+364,University of Vermont,165,Academic,United States
+365,Chulalongkorn University,163,Academic,Thailand
+366,French National Institute for Health and Medical Research-French National Agency for Research on AIDS and Viral Hepatitis (Inserm-ANRS),163,Academic,France
+367,West China Hospital,163,Academic,China
+368,Kaohsiung Medical University Chung-Ho Memorial Hospital,162,Academic,Taiwan
+369,Penn State University,162,Academic,United States
+370,Seattle Children's Hospital,162,Academic,United States
+371,Leiden University Medical Center,161,Academic,Netherlands
+372,Tufts University,161,Academic,United States
+373,UConn Health,161,Academic,United States
+374,Zealand University Hospital,160,Academic,Denmark
+375,Medtronic - MITG,159,Pharma,Ireland
+376,Huazhong University of Science and Technology,158,Academic,China
+377,University Ghent,158,Academic,Belgium
+378,University of Texas at Austin,158,Academic,United States
+379,Taipei Medical University WanFang Hospital,157,Academic,Taiwan
+380,Istituto Clinico Humanitas,156,Academic,Italy
+381,McGill University,156,Academic,Canada
+382,Singapore General Hospital,156,Academic,Singapore
+383,"Western University, Canada",154,Academic,Canada
+384,Mylan Pharmaceuticals,153,Pharma,United States
+385,Capital Medical University,152,Academic,China
+386,Peking University Third Hospital,152,Academic,China
+387,Radiation Therapy Oncology Group,152,Government,United States
+388,University Medical Centre Ljubljana,152,Academic,Slovenia
+389,William Beaumont Hospitals,152,Academic,United States
+390,"Johnson & Johnson Vision Care, Inc.",151,Pharma,United States
+391,University of Leeds,151,Academic,United Kingdom
+392,University of Liege,151,Academic,Belgium
+393,Centre Hospitalier Universitaire Vaudois,150,Academic,France
+394,Universidade Federal de Pernambuco,150,Academic,Brazil
+395,Hannover Medical School,149,Academic,Germany
+396,IRCCS San Raffaele,149,Academic,Italy
+397,Aristotle University Of Thessaloniki,148,Academic,Greece
+398,Baylor Research Institute,148,Academic,United States
+399,Children's Mercy Hospital Kansas City,148,Academic,United States
+400,Children's National Research Institute,148,Academic,United States
+401,University of Nove de Julho,148,Academic,Brazil
+402,Peking University First Hospital,147,Academic,China
+403,"University of Campinas, Brazil",147,Academic,Brazil
+404,University of Malaya,147,Academic,Malaysia
+405,Vertex Pharmaceuticals Incorporated,147,Pharma,United States
+406,The Miriam Hospital,146,Academic,United States
+407,Barbara Ann Karmanos Cancer Institute,145,Academic,United States
+408,EMD Serono,145,Pharma,United States
+409,"Institute of Liver and Biliary Sciences, India",145,Academic,India
+410,"University Hospital, Gentofte, Copenhagen",145,Academic,Denmark
+411,Bausch & Lomb Incorporated,144,Pharma,Canada
+412,Hospital Universitari Vall d'Hebron Research Institute,144,Academic,Spain
+413,"International Centre for Diarrhoeal Disease Research, Bangladesh",144,Academic,Bangladesh
+414,The Netherlands Cancer Institute,143,Academic,Netherlands
+415,U.S. Army Medical Research and Development Command,143,Government,United States
+416,University of Birmingham,141,Academic,United Kingdom
+417,Mclean Hospital,140,Academic,United States
+418,Changhai Hospital,139,Academic,China
+419,Chiesi Farmaceutici S.p.A.,139,Pharma,Italy
+420,Mitsubishi Tanabe Pharma Corporation,139,Pharma,Japan
+421,Soroka University Medical Center,139,Academic,Israel
+422,St. Louis University,139,Academic,United States
+423,University of Valencia,139,Academic,Spain
+424,Augusta University,138,Academic,United States
+425,Cambridge University Hospitals NHS Foundation Trust,138,Academic,United Kingdom
+426,Sunovion,138,Pharma,United States
+427,The Catholic University of Korea,138,Academic,South Korea
+428,Atrium Health,137,Academic,United States
+429,Johnson & Johnson Consumer and Personal Products Worldwide,137,Pharma,United States
+430,Tampere University Hospital,137,Academic,Finland
+431,Ajou University School of Medicine,136,Academic,South Korea
+432,Bezmialem Vakif University,135,Academic,Turkey
+433,Kasr El Aini Hospital,135,Academic,Egypt
+434,Rhode Island Hospital,135,Academic,United States
+435,University Hospital Muenster,135,Academic,Germany
+436,University of Oslo,135,Academic,Norway
+437,Actelion,134,Pharma,Switzerland
+438,Fourth Military Medical University,134,Academic,China
+439,Hanmi Pharmaceutical Company Limited,134,Pharma,South Korea
+440,Isfahan University of Medical Sciences,134,Academic,Iran
+441,Johannes Gutenberg University Mainz,134,Academic,Germany
+442,Swiss Federal Institute of Technology,134,Academic,Switzerland
+443,UNICANCER,134,Academic,Switzerland
+444,"Heinrich-Heine University, Duesseldorf",133,Academic,Germany
+445,Institut Paoli-Calmettes,133,Academic,France
+446,NHS Greater Glasgow and Clyde,133,Academic,United Kingdom
+447,Tufts Medical Center,133,Academic,United States
+448,Queen Mary University of London,132,Academic,United Kingdom
+449,State University of New York - Upstate Medical University,132,Academic,United States
+450,Stony Brook University,132,Academic,United States
+451,Universidad de Granada,132,Academic,Spain
+452,"University of Turin, Italy",132,Academic,Italy
+453,First Affiliated Hospital Xi'an Jiaotong University,131,Academic,China
+454,Mallinckrodt,131,Pharma,United Kingdom
+455,University of Lausanne Hospitals,130,Academic,Switzerland
+456,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",130,Academic,China
+457,Zagazig University,130,Academic,Egypt
+458,Hasselt University,129,Academic,Belgium
+459,"University Hospital, Antwerp",129,Academic,Belgium
+460,Aalborg University Hospital,128,Academic,Denmark
+461,State University of New York at Buffalo,128,Academic,United States
+462,University of Ulm,128,Academic,Germany
+463,George Washington University,127,Academic,United States
+464,National Cheng-Kung University Hospital,127,Academic,Taiwan
+465,National Institute on Aging (NIA),127,Government,United States
+466,University of Milan,127,Academic,Italy
+467,Arizona State University,126,Academic,United States
+468,Brugmann University Hospital,126,Academic,Belgium
+469,Centre Leon Berard,126,Academic,France
+470,Ottawa Heart Institute Research Corporation,126,Academic,Canada
+471,University of Manchester,126,Academic,United Kingdom
+472,Alexion Pharmaceuticals,125,Pharma,United States
+473,"All India Institute of Medical Sciences, New Delhi",125,Academic,India
+474,St. Justine's Hospital,125,Academic,Canada
+475,Abbott Nutrition,124,Pharma,United States
+476,Khon Kaen University,124,Academic,Thailand
+477,Purdue University,124,Academic,United States
+478,The First Affiliated Hospital with Nanjing Medical University,124,Academic,China
+479,University of Schleswig-Holstein,124,Academic,Germany
+480,Parc de Salut Mar,123,Academic,Spain
+481,Ann & Robert H Lurie Children's Hospital of Chicago,122,Academic,United States
+482,Marmara University,122,Academic,Turkey
+483,Shanghai Mental Health Center,122,Academic,China
+484,University Hospital Heidelberg,122,Academic,Germany
+485,GE Healthcare,121,Pharma,United States
+486,Swiss Group for Clinical Cancer Research,121,Academic,Switzerland
+487,University of Illinois at Urbana-Champaign,121,Academic,United States
+488,Bial - Portela C S.A.,120,Pharma,Portugal
+489,"First Affiliated Hospital, Sun Yat-Sen University",120,Academic,China
+490,"Otsuka Pharmaceutical Co., Ltd.",120,Pharma,Japan
+491,University of Dundee,120,Academic,United Kingdom
+492,University of Leipzig,120,Academic,Germany
+493,University of Oulu,120,Academic,Finland
+494,Zhejiang University,120,Academic,China
+495,Federal University of Minas Gerais,119,Academic,Brazil
+496,Harvard School of Public Health,119,Academic,United States
+497,University of Athens,119,Academic,Greece
+498,Loyola University,118,Academic,United States
+499,American University of Beirut Medical Center,117,Academic,Lebanon
+500,British Columbia Cancer Agency,116,Academic,Canada
+501,Corporacion Parc Tauli,116,Academic,Spain
+502,"Fuda Cancer Hospital, Guangzhou",116,Academic,China
+503,Gazi University,115,Academic,Turkey
+504,Tongji Hospital,115,Academic,China
+505,Nanjing Medical University,114,Academic,China
+506,St. Olavs Hospital,114,Academic,Norway
+507,Tianjin Medical University Cancer Institute and Hospital,114,Academic,China
+508,Ain Shams Maternity Hospital,113,Academic,Egypt
+509,Ege University,113,Academic,Turkey
+510,Kanuni Sultan Suleyman Training and Research Hospital,113,Academic,Turkey
+511,Linkoeping University,113,Academic,Sweden
+512,Sandoz,113,Pharma,Germany
+513,"Smith & Nephew, Inc.",113,Pharma,United Kingdom
+514,University of Padova,112,Academic,Italy
+515,Carmel Medical Center,111,Academic,Israel
+516,Creighton University,111,Academic,United States
+517,University of Bern,111,Academic,Switzerland
+518,"Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",110,Pharma,China
+519,Janssen Pharmaceutical K.K.,110,Pharma,Belgium
+520,"University Hospital, Bonn",110,Academic,Germany
+521,"Intermountain Health Care, Inc.",109,Academic,United States
+522,Children's Hospital of Fudan University,108,Academic,China
+523,Coloplast A/S,108,Pharma,Denmark
+524,HealthPartners Institute,108,Academic,United States
+525,"Mount Sinai Hospital, Canada",108,Academic,United States
+526,Rockefeller University,108,Academic,United States
+527,Huashan Hospital,107,Academic,China
+528,Medical University Innsbruck,107,Academic,Austria
+529,University of Chile,107,Academic,Chile
+530,Baxter Healthcare Corporation,106,Pharma,United States
+531,Bayside Health,106,Academic,United States
+532,Istituto Ortopedico Rizzoli,106,Academic,Italy
+533,University of Aberdeen,106,Academic,United Kingdom
+534,Pontificia Universidad Catolica de Chile,105,Academic,Chile
+535,University Hospital of North Norway,105,Academic,Norway
+536,Vastra Gotaland Region,105,Academic,Sweden
+537,"Kyowa Kirin Co., Ltd.",104,Pharma,Japan
+538,Shiraz University of Medical Sciences,104,Academic,Iran
+539,"Southeast University, China",104,Academic,China
+540,Azienda Ospedaliera Universitaria di Bologna Policlinico S. Orsola Malpighi,103,Academic,Italy
+541,Erasme University Hospital,103,Academic,Belgium
+542,Jordi Gol i Gurina Foundation,103,Academic,Spain
+543,Ruhr University of Bochum,103,Academic,Germany
+544,University of Bergen,103,Academic,Norway
+545,West-Ward Pharmaceutical,103,Pharma,United States
+546,Wolfson Medical Center,103,Academic,Israel
+547,CHU de Quebec-Universite Laval,102,Academic,Canada
+548,CSL Behring,102,Pharma,United States
+549,"Glostrup University Hospital, Copenhagen",102,Academic,Denmark
+550,Gynuity Health Projects,102,Academic,United States
+551,Ranbaxy Inc.,102,Pharma,India
+552,Royal Brompton & Harefield NHS Foundation Trust,102,Academic,United Kingdom
+553,University Medicine Greifswald,102,Academic,Germany
+554,Wageningen University,102,Academic,Netherlands
+555,Zhejiang Cancer Hospital,102,Academic,China
+556,FDA Office of Orphan Products Development,101,Government,United States
+557,"Fondazione IRCCS Istituto Nazionale dei Tumori, Milano",101,Academic,Italy
+558,Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran,101,Academic,Peru
+559,Makerere University,101,Academic,Uganda
+560,Meshalkin Research Institute of Pathology of Circulation,101,Academic,Russia
+561,National Jewish Health,101,Academic,United States
+562,University of Helsinki,101,Academic,Finland
+563,University of Tennessee,101,Academic,United States
+564,Centre Oscar Lambret,100,Academic,France
+565,"Coopervision, Inc.",100,Pharma,United States
+566,The Methodist Hospital System,100,Academic,United States
+567,Universidade Federal do Rio de Janeiro,100,Academic,Brazil
+568,Beijing Cancer Hospital,99,Academic,China
+569,Children's Hospital Los Angeles,99,Academic,United States
+570,Cook Group Incorporated,99,Pharma,United States
+571,Drexel University,99,Academic,United States
+572,Kuopio University Hospital,99,Academic,Finland
+573,St. Joseph's Healthcare Hamilton,99,Academic,United States
+574,Institut du Cancer de Montpellier - Val d'Aurelle,98,Academic,France
+575,"Seattle Genetics, Inc.",98,Pharma,United States
+576,Baskent University,97,Academic,Turkey
+577,Jaeb Center for Health Research,97,Academic,United States
+578,Medstar Health Research Institute,97,Academic,United States
+579,"Samuel Lunenfeld Research Institute, Mount Sinai Hospital",97,Academic,Canada
+580,Seoul St. Mary's Hospital,97,Academic,South Korea
+581,Actavis Inc.,96,Pharma,United States
+582,Deutsches Herzzentrum Muenchen,96,Academic,Germany
+583,Guangdong Provincial People's Hospital,96,Academic,China
+584,"National University, Singapore",96,Academic,Singapore
+585,Northumbria University,96,Academic,United Kingdom
+586,Ankara University,95,Academic,Turkey
+587,Daewoong Pharmaceutical Co. LTD.,95,Pharma,South Korea
+588,Danish Headache Center,95,Academic,Denmark
+589,Florida State University,95,Academic,United States
+590,University of Cape Town,95,Academic,South Africa
+591,Endo Pharmaceuticals,94,Pharma,Ireland
+592,University of Bologna,94,Academic,Italy
+593,University of Mississippi Medical Center,94,Academic,United States
+594,University of Campania Luigi Vanvitelli,93,Academic,Italy
+595,Arkansas Children's Hospital Research Institute,92,Academic,United States
+596,Barts & The London NHS Trust,92,Academic,United Kingdom
+597,Beijing Tiantan Hospital,92,Academic,China
+598,Case Western Reserve University,92,Academic,United States
+599,Guang'anmen Hospital of China Academy of Chinese Medical Sciences,92,Academic,China
+600,Hoosier Cancer Research Network,92,Academic,United States
+601,Shirley Ryan AbilityLab,92,Academic,United States
+602,West Virginia University,92,Academic,United States
+603,Aalborg University,91,Academic,Denmark
+604,Idorsia Pharmaceuticals Ltd.,91,Pharma,Switzerland
+605,Mario Negri Institute for Pharmacological Research,91,Pharma,Italy
+606,TC Erciyes University,91,Academic,Turkey
+607,University of Leicester,91,Academic,United Kingdom
+608,Alexandria University,90,Academic,Egypt
+609,Children's Healthcare of Atlanta,90,Academic,United States
+610,"Dong-A ST Co., Ltd.",90,Pharma,South Korea
+611,Gruppo Italiano Malattie EMatologiche dell'Adulto,90,Academic,Italy
+612,University of South Carolina,90,Academic,United States
+613,PATH,89,Pharma,United States
+614,"University Hospital, Linkoeping",89,Academic,Sweden
+615,Kessler Foundation,88,Pharma,United States
+616,"Orion Corporation, Orion Pharma",88,Pharma,Finland
+617,"Southwest Hospital, China",88,Academic,China
+618,Taichung Veterans General Hospital,88,Academic,Taiwan
+619,"Third Affiliated Hospital, Sun Yat-Sen University",88,Academic,China
+620,Edwards Lifesciences,87,Pharma,United States
+621,Wenzhou Medical University,87,Academic,China
+622,Butler Hospital,86,Academic,United States
+623,Federal University of Rio Grande do Sul,86,Academic,Brazil
+624,Gachon University Gil Medical Center,86,Academic,South Korea
+625,Massachusetts Eye and Ear Infirmary,86,Academic,United States
+626,PETHEMA Foundation,86,Academic,Spain
+627,Riphah International University,86,Academic,Pakistan
+628,Solvay Pharmaceuticals,86,Pharma,Belgium
+629,University Hospital Freiburg,86,Academic,Germany
+630,BioMarin Pharmaceutical,85,Pharma,United States
+631,"Charles University, Czech Republic",85,Academic,Czech Republic
+632,Hamilton Health Sciences Corporation,85,Academic,Canada
+633,Inje University,85,Academic,South Korea
+634,IRCCS Policlinico S. Matteo,85,Academic,Italy
+635,Nemours Children's Clinic,85,Academic,United States
+636,Université de Montréal,85,Academic,Canada
+637,Jewish General Hospital,84,Academic,Canada
+638,"Jinling Hospital, China",84,Academic,China
+639,Maastricht Radiation Oncology,84,Academic,Netherlands
+640,Mashhad University of Medical Sciences,84,Academic,Iran
+641,Michigan State University,84,Academic,United States
+642,"National Health Research Institutes, Taiwan",84,Academic,Taiwan
+643,Royan Institute,84,Academic,Iran
+644,Taipei Medical University,84,Academic,Taiwan
+645,TriHealth Inc.,84,Academic,United States
+646,University of Jena,84,Academic,Germany
+647,University of Reading,84,Academic,United Kingdom
+648,University of Turku,84,Academic,Finland
+649,Cantonal Hospital of St. Gallen,83,Academic,Switzerland
+650,Central South University,83,Academic,China
+651,"Chinese Academy of Medical Sciences, Fuwai Hospital",83,Academic,China
+652,Galapagos NV,83,Pharma,Belgium
+653,Institut Bergonié,83,Academic,France
+654,Manchester University NHS Foundation Trust,83,Academic,United Kingdom
+655,"Merz North America, Inc.",83,Pharma,United States
+656,Philipps University Marburg Medical Center,83,Academic,Germany
+657,Prince of Songkla University,83,Academic,Thailand
+658,Shanghai University of Traditional Chinese Medicine,83,Academic,China
+659,University of Cambridge,83,Academic,United Kingdom
+660,"Xuanwu Hospital, Beijing",83,Academic,China
+661,Dokuz Eylul University,82,Academic,Turkey
+662,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,82,Academic,Italy
+663,Hospital Universitari de Bellvitge,82,Academic,Spain
+664,King's College Hospital NHS Trust,82,Academic,United Kingdom
+665,University of Glasgow,82,Academic,Poland
+666,Beijing Chao Yang Hospital,81,Academic,China
+667,Benha University,81,Academic,Egypt
+668,Chonbuk National University Hospital,81,Academic,South Korea
+669,Minia University,81,Academic,South Korea
+670,National Institute of Environmental Health Sciences (NIEHS),81,Government,United States
+671,Population Health Research Institute,81,Academic,Canada
+672,RAND,81,Pharma,United States
+673,Texas Tech University Health Sciences Center,81,Academic,United States
+674,Wills Eye,81,Academic,United States
+675,Brooke Army Medical Center,80,Academic,United States
+676,C. R. Bard,80,Pharma,United States
+677,Federal University of Health Science of Porto Alegre,80,Academic,United States
+678,The First Affiliated Hospital of Guangzhou Medical University,80,Academic,China
+679,Ziv Hospital,80,Academic,Israel
+680,Hospital Italiano de Buenos Aires,79,Academic,Argentina
+681,Inonu University,79,Academic,Turkey
+682,LG Life Sciences,79,Pharma,South Korea
+683,MetroHealth Medical Center,79,Academic,United States
+684,Ono Pharmaceutical Co. Ltd,79,Pharma,Japan
+685,Universita di Verona,79,Academic,Italy
+686,Universiteit Antwerpen,79,Academic,Belgium
+687,University Hospital Southampton NHS Foundation Trust,79,Academic,United Kingdom
+688,Centre Hospitalier Intercommunal Creteil,78,Academic,France
+689,Chiang Mai University,78,Academic,Thailand
+690,Christiana Care Health Services,78,Academic,United States
+691,Damascus University,78,Academic,Syria
+692,King Faisal Specialist Hospital & Research Center,78,Academic,Saudi Arabia
+693,Lille Catholic University,78,Academic,France
+694,Universidade Federal de Sao Carlos,78,Academic,Brazil
+695,University of Alexandria,78,Academic,Egypt
+696,BeiGene,77,Pharma,China
+697,Galderma,77,Pharma,United States
+698,Hospital General Universitario Gregorio Marañon,77,Academic,Spain
+699,Institut Claudius Regaud,77,Academic,France
+700,"St George's, University of London",77,Academic,United Kingdom
+701,Tata Memorial Hospital,77,Academic,India
+702,"Tibotec Pharmaceuticals, Ireland",77,Pharma,Ireland
+703,"University Hospital, Akershus",77,Academic,Norway
+704,University of Thessaly,77,Academic,Greece
+705,"Boryung Pharmaceutical Co., Ltd",76,Pharma,South Korea
+706,Hospital Israelita Albert Einstein,76,Academic,Brazil
+707,Kirby Institute,76,Academic,Australia
+708,KK Women's and Children's Hospital,76,Academic,Singapore
+709,Tulane University,76,Academic,United States
+710,AO Innovation Translation Center,75,Academic,Switzerland
+711,"Centocor, Inc.",75,Pharma,United States
+712,"Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",75,Academic,Italy
+713,Konkuk University Medical Center,75,Academic,South Korea
+714,Maimonides Medical Center,75,Academic,United States
+715,Shanghai 10th People's Hospital,75,Academic,China
+716,Tri-Service General Hospital,75,Academic,Taiwan
+717,Universitätsmedizin Mannheim,75,Academic,Germany
+718,AdventHealth,74,Academic,United States
+719,Beni-Suef University,74,Academic,Egypt
+720,Denver Health and Hospital Authority,74,Academic,United States
+721,Hartford Hospital,74,Academic,United States
+722,"Janssen Korea, Ltd., Korea",74,Pharma,South Korea
+723,Spaulding Rehabilitation Hospital,74,Academic,United States
+724,Yuhan Corporation,74,Pharma,South Korea
+725,Zhujiang Hospital,74,Academic,China
+726,Al-Azhar University,73,Academic,Egypt
+727,Bnai Zion Medical Center,73,Academic,Israel
+728,Helse Stavanger HF,73,Academic,Norway
+729,King Saud University,73,Academic,Saudi Arabia
+730,Kyungpook National University Hospital,73,Academic,South Korea
+731,Postgraduate Institute of Dental Sciences Rohtak,73,Academic,India
+732,Rijnstate Hospital,73,Academic,Netherlands
+733,Singapore National Eye Centre,73,Academic,Singapore
+734,University Hospital Ostrava,73,Academic,Czech Republic
+735,Azidus Brasil,72,Pharma,Brazil
+736,Boston University Charles River Campus,72,Academic,United States
+737,Centre Francois Baclesse,72,Academic,France
+738,"Clinica Universidad de Navarra, Universidad de Navarra",72,Academic,Spain
+739,"Coordinación de Investigación en Salud, Mexico",72,Academic,Mexico
+740,Maisonneuve-Rosemont Hospital,72,Academic,Canada
+741,"National Cancer Institute, Naples",72,Government,United States
+742,National Yang Ming University,72,Academic,Taiwan
+743,Torrent Pharmaceuticals Limited,72,Pharma,India
+744,Universidade do Porto,72,Academic,Portugal
+745,"University Children's Hospital, Zurich",72,Academic,Switzerland
+746,University of Connecticut,72,Academic,United States
+747,Beijing Friendship Hospital,71,Academic,China
+748,China National Center for Cardiovascular Diseases,71,Academic,China
+749,Cukurova University,71,Academic,Turkey
+750,Grünenthal GmbH,71,Pharma,Germany
+751,Hull University Teaching Hospitals NHS Trust,71,Academic,United Kingdom
+752,Institut Curie,71,Academic,France
+753,"Ionis Pharmaceuticals, Inc.",71,Pharma,United States
+754,"Millennium Pharmaceuticals, Inc.",71,Pharma,United States
+755,NorthShore University HealthSystem,71,Academic,United States
+756,Pamukkale University,71,Academic,Turkey
+757,The Leeds Teaching Hospitals NHS Trust,71,Academic,United Kingdom
+758,United Therapeutics,71,Pharma,United States
+759,"University Hospital, Essen",71,Academic,Germany
+760,"Alkermes, Inc.",70,Pharma,United States
+761,Biotronik SE & Co. KG,70,Pharma,Germany
+762,Children's Hospital of Eastern Ontario,70,Academic,Canada
+763,Cornell University,70,Academic,United States
+764,First Affiliated Hospital of Zhejiang University,70,Academic,China
+765,Fondazione Don Carlo Gnocchi Onlus,70,Academic,Italy
+766,Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center,70,Academic,United States
+767,Region Örebro County,70,Academic,Sweden
+768,Steno Diabetes Center Copenhagen,70,Academic,Denmark
+769,Third Military Medical University,70,Academic,China
+770,University of Giessen,70,Academic,Germany
+771,Centre d'Investigation Clinique et Technologique 805,69,Academic,France
+772,Cordis Corporation,69,Pharma,United States
+773,Fujian Medical University,69,Academic,China
+774,Henan Cancer Hospital,69,Academic,China
+775,Shanghai Chest Hospital,69,Academic,China
+776,St. Luke's-Roosevelt Hospital Center,69,Academic,United States
+777,Universidade Federal do Rio Grande do Norte,69,Academic,Brazil
+778,Vejle Hospital,69,Academic,Denmark
+779,Vrije Universiteit Brussel,69,Academic,Belgium
+780,Hamad Medical Corporation,68,Academic,Qatar
+781,"Hospital Authority, Hong Kong",68,Academic,China
+782,Kaohsiung Veterans General Hospital.,68,Academic,Taiwan
+783,Mackay Memorial Hospital,68,Academic,Taiwan
+784,New Mexico Cancer Care Alliance,68,Academic,United States
+785,San Diego State University,68,Academic,United States
+786,"The University of Tennessee, Knoxville",68,Academic,United States
+787,Universidade Estadual Paulista Júlio de Mesquita Filho,68,Academic,Brazil
+788,University at Buffalo,68,Academic,United States
+789,University of Delaware,68,Academic,United States
+790,University of Hawaii,68,Academic,United States
+791,University of Southampton,68,Academic,United Kingdom
+792,University of Sydney,68,Academic,Australia
+793,French Cardiology Society,67,Academic,France
+794,InSightec,67,Pharma,Israel
+795,"Institute of Cancer Research, United Kingdom",67,Academic,United Kingdom
+796,Jagiellonian University,67,Academic,Poland
+797,Montreal Heart Institute,67,Academic,Canada
+798,Regional Hospital Holstebro,67,Academic,Denmark
+799,Rothman Institute Orthopaedics,67,Pharma,United States
+800,Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University,67,Academic,China
+801,China Academy of Chinese Medical Sciences,66,Academic,China
+802,Groupe Hospitalier Pitie-Salpetriere,66,Academic,France
+803,HK inno.N Corporation,66,Pharma,South Korea
+804,Medtronic Cardiovascular,66,Pharma,United States
+805,Medtronic Endovascular,66,Pharma,United States
+806,"Nanjing First Hospital, Nanjing Medical University",66,Academic,China
+807,Oxford University Hospitals NHS Trust,66,Academic,United States
+808,Q-Med AB,66,Pharma,Sweden
+809,Universidad Complutense de Madrid,66,Academic,Spain
+810,Beijing Anzhen Hospital,65,Academic,China
+811,Copenhagen University Hospital at Herlev,65,Academic,Denmark
+812,Cubist Pharmaceuticals LLC,65,Pharma,United States
+813,Janssen-Cilag International NV,65,Pharma,Belgium
+814,Joslin Diabetes Center,65,Academic,United States
+815,Korea University Anam Hospital,65,Academic,South Korea
+816,Medical Universtity of Lodz,65,Academic,Poland
+817,"Queen's University, Belfast",65,Academic,Ireland
+818,ResMed,65,Pharma,United States
+819,University of Luebeck,65,Academic,Germany
+820,University of Waterloo,65,Academic,Canada
+821,Western Galilee Hospital-Nahariya,65,Academic,Israel
+822,Aarhus University Hospital Skejby,64,Academic,Denmark
+823,Goethe University,64,Academic,Germany
+824,Hennepin Healthcare Research Institute,64,Academic,United States
+825,Instituto de Investigación Hospital Universitario La Paz,64,Academic,Spain
+826,Istanbul Medipol University Hospital,64,Academic,Turkey
+827,Istituto Ortopedico Galeazzi,64,Academic,Italy
+828,Kyunghee University Medical Center,64,Academic,South Korea
+829,Shalvata Mental Health Center,64,Academic,Israel
+830,"Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine",64,Academic,China
+831,Universidad Rey Juan Carlos,64,Academic,Spain
+832,University College Cork,64,Academic,Ireland
+833,"University of California, Berkeley",64,Academic,United States
+834,University of Liverpool,64,Academic,United Kingdom
+835,AIDS Clinical Trials Group,63,Academic,United States
+836,Aswan University Hospital,63,Academic,Egypt
+837,IWK Health Centre,63,Academic,Canada
+838,Martin-Luther-Universität Halle-Wittenberg,63,Academic,Germany
+839,Newcastle-upon-Tyne Hospitals NHS Trust,63,Academic,United Kingdom
+840,Providence Health & Services,63,Pharma,United States
+841,Spectrum Health Hospitals,63,Academic,United States
+842,Tang-Du Hospital,63,Academic,China
+843,Texas A&M University,63,Academic,United States
+844,Albany Medical College,62,Academic,United States
+845,Balgrist University Hospital,62,Academic,Switzerland
+846,Centre Hospitalier Régional Metz-Thionville,62,Academic,France
+847,Fundación Pública Andaluza para la gestión de la Investigación en Sevilla,62,Pharma,Spain
+848,Germans Trias i Pujol Hospital,62,Academic,Spain
+849,Institut Cancerologie de l'Ouest,62,Academic,France
+850,"Instituto Valenciano de Infertilidad, IVI VALENCIA",62,Pharma,Spain
+851,Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University,62,Academic,China
+852,The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School,62,Academic,China
+853,Universität Duisburg-Essen,62,Academic,Germany
+854,University of Malaga,62,Academic,Spain
+855,First Affiliated Hospital of Harbin Medical University,61,Academic,China
+856,First Hospital of Jilin University,61,Academic,China
+857,French National Agency for Research on AIDS and Viral Hepatitis,61,Academic,France
+858,Green Cross Corporation,61,Pharma,South Korea
+859,Hutchison Medipharma Limited,61,Pharma,China
+860,Medtronic Spinal and Biologics,61,Pharma,United States
+861,National Eye Institute (NEI),61,Government,United States
+862,NSABP Foundation Inc,61,Academic,United States
+863,Oregon Research Institute,61,Academic,United States
+864,Taro Pharmaceuticals USA,61,Pharma,United States
+865,University of Jordan,61,Academic,Jordan
+866,Catharina Ziekenhuis Eindhoven,60,Academic,Netherlands
+867,Guangzhou Institute of Respiratory Disease,60,Academic,China
+868,Hackensack Meridian Health,60,Academic,United States
+869,"Institute of Tropical Medicine, Belgium",60,Academic,Belgium
+870,Lexicon Pharmaceuticals,60,Pharma,United States
+871,National and Kapodistrian University of Athens,60,Academic,Greece
+872,"National Cancer Centre, Singapore",60,Academic,Singapore
+873,Unilever R&D,60,Pharma,United Kingdom
+874,University Hospital of Ferrara,60,Academic,Italy
+875,University of East Anglia,60,Academic,United Kingdom
+876,University of Exeter,60,Academic,United Kingdom
+877,University of Ottawa,60,Academic,Canada
+878,University of Regensburg,60,Academic,Germany
+879,Zekai Tahir Burak Women's Health Research and Education Hospital,60,Academic,Turkey
+880,Colorado State University,59,Academic,United States
+881,"Ethicon, Inc.",59,Pharma,United States
+882,Geisinger Clinic,59,Academic,United States
+883,Hôpital le Vinatier,59,Academic,France
+884,Kocaeli University,59,Academic,Turkey
+885,Merz Pharmaceuticals GmbH,59,Pharma,Germany
+886,NICHD Neonatal Research Network,59,Academic,United States
+887,"Northern Orthopaedic Division, Denmark",59,Academic,Denmark
+888,Octapharma,59,Pharma,Switzerland
+889,Shriners Hospitals for Children,59,Academic,United States
+890,The Medicines Company,59,Pharma,United States
+891,The University of New South Wales,59,Academic,Australia
+892,Universidad Católica San Antonio de Murcia,59,Academic,Spain
+893,Università degli Studi dell'Insubria,59,Academic,Italy
+894,Université Catholique de Louvain,59,Academic,Belgium
+895,University of Parma,59,Academic,Italy
+896,ALK-Abelló A/S,58,Pharma,Denmark
+897,Cancer Trials Ireland,58,Academic,Ireland
+898,Fisher and Paykel Healthcare,58,Pharma,New Zealand
+899,Hellenic Oncology Research Group,58,Academic,Greece
+900,Instituto do Cancer do Estado de São Paulo,58,Academic,Brazil
+901,Jules Bordet Institute,58,Academic,Belgium
+902,Procter and Gamble,58,Pharma,United States
+903,Repros Therapeutics Inc.,58,Pharma,United States
+904,The HIV Netherlands Australia Thailand Research Collaboration,58,Academic,Netherlands
+905,University Magna Graecia,58,Academic,Italy
+906,University of Guadalajara,58,Academic,Mexico
+907,UPECLIN HC FM Botucatu Unesp,58,Academic,Brazil
+908,Warner Chilcott,58,Pharma,United States
+909,3M,57,Pharma,United States
+910,Centre Hospitalier Universitaire de la Réunion,57,Academic,France
+911,Changhua Christian Hospital,57,Academic,Taiwan
+912,East Carolina University,57,Academic,United States
+913,Fundacion Clinic per a la Recerca Biomédica,57,Pharma,Spain
+914,"Hugo W. Moser Research Institute at Kennedy Krieger, Inc.",57,Academic,United States
+915,Jazz Pharmaceuticals,57,Pharma,Ireland
+916,"Sixth Affiliated Hospital, Sun Yat-sen University",57,Academic,China
+917,St. Antonius Hospital,57,Academic,Netherlands
+918,Texas Woman's University,57,Academic,United States
+919,Theravance Biopharma,57,Pharma,United Kingdom
+920,"University Hospital, Gasthuisberg",57,Academic,Belgium
+921,"University of Colorado, Boulder",57,Academic,United States
+922,Versailles Hospital,57,Academic,United States
+923,Walter Reed Army Medical Center,57,Academic,United States
+924,Biocad,56,Pharma,Russia
+925,Burzynski Research Institute,56,Pharma,United States
+926,Campus Bio-Medico University,56,Academic,Italy
+927,"China Medical University, China",56,Academic,China
+928,Fondazione Italiana Linfomi ONLUS,56,Academic,Italy
+929,Hospital Universitario Dr. Jose E. Gonzalez,56,Academic,Mexico
+930,Keimyung University Dongsan Medical Center,56,Academic,South Korea
+931,New York University,56,Academic,United States
+932,University of Houston,56,Academic,United States
+933,Aesculap AG,55,Pharma,Germany
+934,Aljazeera Hospital,55,Academic,Saudi Arabia
+935,Attikon Hospital,55,Academic,Greece
+936,Centre Hospitalier Departemental Vendee,55,Academic,France
+937,Chinese Academy of Sciences,55,Academic,China
+938,Eastern Hepatobiliary Surgery Hospital,55,Academic,China
+939,Gangnam Severance Hospital,55,Academic,South Korea
+940,Great Ormond Street Hospital for Children NHS Foundation Trust,55,Academic,United Kingdom
+941,Korea University,55,Academic,South Korea
+942,Medtronic Bakken Research Center,55,Academic,Netherlands
+943,Medtronic Diabetes,55,Pharma,United States
+944,"Pacira Pharmaceuticals, Inc",55,Pharma,United States
+945,Purdue Pharma LP,55,Pharma,United States
+946,Shengjing Hospital,55,Academic,China
+947,Skane University Hospital,55,Academic,Sweden
+948,"Spectrum Pharmaceuticals, Inc",55,Pharma,United States
+949,UCSF Benioff Children’s Hospital Oakland,55,Academic,United States
+950,"University Hospitals, Leicester",55,Academic,United Kingdom
+951,University of Monastir,55,Academic,Tunisia
+952,Vienna Institute for Research in Ocular Surgery,55,Academic,Austria
+953,Ataturk University,54,Academic,Turkey
+954,Cardenal Herrera University,54,Academic,Spain
+955,Changi General Hospital,54,Academic,Singapore
+956,Instituto de Cardiologia do Rio Grande do Sul,54,Academic,Brazil
+957,Medical University of Silesia,54,Academic,Poland
+958,Medicines for Malaria Venture,54,Academic,Switzerland
+959,Pharmacyclics LLC.,54,Pharma,United States
+960,Rio de Janeiro State University,54,Academic,Brazil
+961,Tel Aviv University,54,Academic,Israel
+962,The Christie NHS Foundation Trust,54,Academic,United Kingdom
+963,Tokat Gaziosmanpasa University,54,Academic,Turkey
+964,"Translational Research Center for Medical Innovation, Kobe, Hyogo, Japan",54,Academic,Japan
+965,"United States Naval Medical Center, San Diego",54,Academic,United States
+966,University College Dublin,54,Academic,Ireland
+967,University of Alcala,54,Academic,Spain
+968,W.L.Gore & Associates,54,Pharma,United States
+969,Women and Infants Hospital of Rhode Island,54,Academic,United States
+970,Xiangya Hospital of Central South University,54,Academic,China
+971,Dow University of Health Sciences,53,Academic,Pakistan
+972,Frederiksberg University Hospital,53,Academic,Denmark
+973,Istanbul Medeniyet University,53,Academic,Turkey
+974,Istituto Scientifico Romagnolo per lo Studio e la cura dei Tumori,53,Academic,Italy
+975,Lahey Clinic,53,Academic,United States
+976,Ramathibodi Hospital,53,Academic,Thailand
+977,Shandong Cancer Hospital and Institute,53,Academic,China
+978,University of Pisa,53,Academic,Italy
+979,Walter Reed National Military Medical Center,53,Academic,United States
+980,Women's College Hospital,53,Academic,Canada
+981,Wuerzburg University Hospital,53,Academic,Germany
+982,Albert Einstein Healthcare Network,52,Academic,United States
+983,Andalusian Network for Design and Translation of Advanced Therapies,52,Academic,Spain
+984,Avid Radiopharmaceuticals,52,Pharma,United States
+985,"Betta Pharmaceuticals Co., Ltd.",52,Pharma,China
+986,Centogene AG Rostock,52,Pharma,Germany
+987,Centre Hospitalier Universitaire Saint Pierre,52,Academic,Belgium
+988,Chonnam National University Hospital,52,Academic,South Korea
+989,Chung Shan Medical University,52,Academic,Taiwan
+990,"CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",52,Pharma,China
+991,Federal University of Uberlandia,52,Academic,Brazil
+992,FHI 360,52,Pharma,United States
+993,HealthCore-NERI,52,Pharma,United States
+994,Innovent Biologics (Suzhou) Co. Ltd.,52,Pharma,China
+995,Lee's Pharmaceutical Limited,52,Pharma,China
+996,Medtronic Vascular,52,Pharma,United States
+997,National Nutrition and Food Technology Institute,52,Academic,Iran
+998,Nordsjaellands Hospital,52,Academic,Denmark
+999,Ochsner Health System,52,Academic,United States
+1000,Universidad de Antioquia,52,Academic,Colombia
+1001,University of Modena and Reggio Emilia,52,Academic,Italy
+1002,"Wuhan Union Hospital, China",52,Academic,China
+1003,AIDS Malignancy Consortium,51,Academic,United States
+1004,Akdeniz University,51,Academic,Turkey
+1005,Asociación para Evitar la Ceguera en México,51,Academic,Mexico
+1006,Bandim Health Project,51,Academic,Guinea Bissau
+1007,"Bangabandhu Sheikh Mujib Medical University, Dhaka, Bangladesh",51,Academic,Bangladesh
+1008,Beijing Tongren Hospital,51,Academic,China
+1009,Beth Israel Medical Center,51,Academic,United States
+1010,Daping Hospital and the Research Institute of Surgery of the Third Military Medical University,51,Academic,China
+1011,"Hospital San Carlos, Madrid",51,Academic,Spain
+1012,Innovative Medical,51,Pharma,United States
+1013,Louisiana State University Health Sciences Center in New Orleans,51,Academic,United States
+1014,PTC Therapeutics,51,Pharma,United States
+1015,R-Pharm,51,Pharma,Russia
+1016,Thammasat University,51,Academic,Thailand
+1017,"University Hospital, Saarland",51,Academic,Germany
+1018,University of Lausanne,51,Academic,Switzerland
+1019,University of Rome Tor Vergata,51,Academic,Italy
+1020,University of Ulster,51,Academic,Ireland
+1021,Yuzuncu Yıl University,51,Academic,United Kingdom
+1022,Acibadem University,50,Academic,Turkey
+1023,AIO-Studien-gGmbH,50,Academic,Germany
+1024,Instituto Mexicano del Seguro Social,50,Academic,Mexico
+1025,INSYS Therapeutics Inc,50,Pharma,United States
+1026,Logan College of Chiropractic,50,Academic,United States
+1027,Maharishi Markendeswar University (Deemed to be University),50,Academic,India
+1028,Masimo Corporation,50,Pharma,United States
+1029,Ontario Clinical Oncology Group (OCOG),50,Academic,Canada
+1030,Policlinico Hospital,50,Academic,Italy
+1031,Severance Hospital,50,Academic,South Korea
+1032,"St. Joseph's Hospital and Medical Center, Phoenix",50,Academic,United States
+1033,Universiti Sains Malaysia,50,Academic,Malaysia
+1034,University of Melbourne,50,Academic,Australia
+1035,University of Surrey,50,Academic,United Kingdom
+1036,Uppsala University Hospital,50,Academic,Sweden
+1037,"Air Force Military Medical University, China",56,Academic,China
+1038,Seagen Inc.,53,Pharma,United States
+1039,Shenzhen Geno-Immune Medical Institute,44,Pharma,China
+1040,"Clinical Nutrition Research Center, Illinois Institute of Technology",42,Academic,United States
+1041,Jordan University of Science and Technology,42,Academic,Jordan
+1042,Istanbul University-Cerrahpasa,41,Academic,Turkey
+1043,Institute of Hematology & Blood Diseases Hospital,40,Academic,China
+1044,"National Cancer Institute, Egypt",39,Academic,Egypt
+1045,New York Medical College,39,Academic,United States
+1046,Centre Hospitalier Régional d'Orléans,38,Academic,France
+1047,"Sumitomo Dainippon Pharma Oncology, Inc",38,Pharma,United States
+1048,"Sunshine Lake Pharma Co., Ltd.",38,Pharma,China
+1049,Fujian Cancer Hospital,37,Academic,China
+1050,"Shanghai Junshi Bioscience Co., Ltd.",37,Pharma,China
+1051,EMS,36,Academic,United States
+1052,"Haisco Pharmaceutical Group Co., Ltd.",36,Pharma,China
+1053,Janssen Vaccines & Prevention B.V.,35,Pharma,Netherlands
+1054,University of Electronic Science and Technology of China,35,Academic,China
+1055,Florida International University,34,Academic,United States
+1056,Investigación en Hemofilia y Fisioterapia,34,Academic,Spain
+1057,Rajavithi Hospital,34,Academic,Thailand
+1058,Universiti Putra Malaysia,34,Academic,Malaysia
+1059,University of Seville,34,Academic,Spain
+1060,Menoufia University,33,Academic,Egypt
+1061,NRG Oncology,33,Academic,United States
+1062,Universidade Federal Fluminense,33,Academic,Brazil
+1063,Guangxi Medical University,32,Academic,China
+1064,LG Chem,32,Pharma,South Korea
+1065,Medipol University,32,Academic,Turkey
+1066,Shanghai Changzheng Hospital,32,Academic,China
+1067,Universidad de Zaragoza,32,Academic,Spain
+1068,University Hospital Schleswig-Holstein,32,Academic,Germany
+1069,Xinqiao Hospital of Chongqing,32,Academic,China
+1070,Academic and Community Cancer Research United,31,Academic,United States
+1071,"Cancer Institute and Hospital, Chinese Academy of Medical Sciences",31,Academic,United States
+1072,Eastern Mediterranean University,31,Academic,Cyprus
+1073,Izmir Katip Celebi University,31,Academic,Turkey
+1074,The Lymphoma Academic Research Organisation,31,Academic,France
+1075,"Zhongshan Ophthalmic Center, Sun Yat-sen University",31,Academic,China
+1076,Akeso,30,Pharma,China
+1077,Big Ten Cancer Research Consortium,30,Academic,United States
+1078,Centre Georges Francois Leclerc,30,Academic,United States
+1079,Maastricht University,30,Academic,Netherlands
+1080,"Suzhou Zelgen Biopharmaceuticals Co.,Ltd",30,Pharma,China
+1081,The First Affiliated Hospital of Soochow University,30,Academic,China
+1082,University of Bath,30,Academic,United Kingdom
+1083,University of Haifa,30,Academic,Israel
+1084,University of Sheffield,30,Academic,United Kingdom
+1085,"Agios Pharmaceuticals, Inc.",29,Pharma,United States
+1086,Ascentage Pharma Group Inc.,29,Pharma,United States
+1087,"Clinical Nutrition Research Centre, Singapore",29,Academic,Singapore
+1088,Grifols Therapeutics LLC,29,Pharma,Spain
+1089,Taipei Medical University Shuang Ho Hospital,29,Academic,Taiwan
+1090,Tan Tock Seng Hospital,29,Academic,Singapore
+1091,Universitat Jaume I,29,Academic,Spain
+1092,Abant Izzet Baysal University,28,Academic,Turkey
+1093,Acerta Pharma BV,28,Pharma,Netherlands
+1094,Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia,28,Academic,Italy
+1095,Duke-NUS Graduate Medical School,28,Academic,Singapore
+1096,Kangbuk Samsung Hospital,28,Academic,South Korea
+1097,Makassed General Hospital,28,Academic,Lebanon
+1098,Medy-Tox,28,Pharma,South Korea
+1099,Memorial University of Newfoundland,28,Academic,Canada
+1100,Ryerson University,28,Academic,Canada
+1101,Second Affiliated Hospital of Wenzhou Medical University,28,Academic,China
+1102,Selcuk University,28,Academic,Turkey
+1103,Servier,28,Pharma,France
+1104,Shanghai Henlius Biotech,28,Pharma,China
+1105,Sonova AG,28,Pharma,Switzerland
+1106,The University of Texas at Dallas,28,Academic,United States
+1107,University of Basel,28,Academic,Switzerland
+1108,Celltrion,27,Pharma,South Korea
+1109,Guangdong Provincial Hospital of Traditional Chinese Medicine,27,Academic,China
+1110,"NantKwest, Inc.",27,Pharma,United States
+1111,National University of Malaysia,27,Academic,Malaysia
+1112,"Peter MacCallum Cancer Centre, Australia",27,Academic,Australia
+1113,"Shanghai Pulmonary Hospital, Shanghai, China",27,Academic,China
+1114,Sir Mortimer B. Davis - Jewish General Hospital,27,Academic,Canada
+1115,South Valley University,27,Academic,Egypt
+1116,Universidad Autonoma de Madrid,27,Academic,Spain
+1117,Universidad Autonoma de Nuevo Leon,27,Academic,Mexico
+1118,Universidad Europea de Madrid,27,Academic,Spain
+1119,Universidade Cidade de Sao Paulo,27,Academic,Brazil
+1120,Washington State University,27,Academic,United States
+1121,Alnylam Pharmaceuticals,26,Pharma,United States
+1122,Aydin Adnan Menderes University,26,Academic,Turkey
+1123,Azienda Ospedaliera Universitaria Integrata Verona,26,Academic,Italy
+1124,Centre Antoine Lacassagne,26,Academic,France
+1125,Herlev and Gentofte Hospital,26,Academic,Denmark
+1126,I.M. Sechenov First Moscow State Medical University,26,Academic,Russia
+1127,Korea University Guro Hospital,26,Academic,South Korea
+1128,"Laureate Institute for Brain Research, Inc.",26,Academic,United States
+1129,Liverpool John Moores University,26,Academic,United Kingdom
+1130,Luye Pharma Group Ltd.,26,Pharma,China
+1131,Murdoch Childrens Research Institute,26,Academic,Australia
+1132,Palo Alto Veterans Institute for Research,26,Academic,United States
+1133,PepsiCo Global R&D,26,Pharma,United States
+1134,RemeGen,26,Pharma,China
+1135,Sage Therapeutics,26,Pharma,United States
+1136,Virginia Polytechnic Institute and State University,26,Academic,United States
+1137,Basque Health Service,25,Academic,Spain
+1138,Ciusss de L'Est de l'Île de Montréal,25,Academic,Canada
+1139,Corcept Therapeutics,25,Pharma,United States
+1140,Drugs for Neglected Diseases,25,Academic,Switzerland
+1141,Holland Bloorview Kids Rehabilitation Hospital,25,Academic,Canada
+1142,Institut de Recherches Cliniques de Montreal,25,Academic,Canada
+1143,Instituto de Investigacion Sanitaria La Fe,25,Academic,Spain
+1144,Isra University,25,Academic,Pakistan
+1145,Mereo BioPharma,25,Pharma,United Kingdom
+1146,Ohio University,25,Academic,United States
+1147,Royal Devon and Exeter NHS Foundation Trust,25,Academic,United Kingdom
+1148,Sohag University,25,Academic,Egypt
+1149,Suez Canal University,25,Academic,Egypt
+1150,The University of Queensland,25,Academic,Australia
+1151,University of Castilla-La Mancha,25,Academic,Spain
+1152,University of Pecs,25,Academic,Hungary
+1153,Affiliated Hospital to Academy of Military Medical Sciences,24,Academic,China
+1154,BTL Industries Ltd.,24,Pharma,United Kingdom
+1155,Carilion Clinic,24,Academic,United States
+1156,"Ente Ospedaliero Cantonale, Bellinzona",24,Academic,Switzerland
+1157,European Institute of Oncology,24,Academic,Italy
+1158,Eye & ENT Hospital of Fudan University,24,Academic,China
+1159,Federation Francophone de Cancerologie Digestive,24,Academic,France
+1160,Institut für Klinische Krebsforschung IKF GmbH at Krankenhaus Nordwest,24,Academic,Germany
+1161,Kahramanmaras Sutcu Imam University,24,Academic,Turkey
+1162,King Abdullah International Medical Research Center,24,Academic,Saudi Arabia
+1163,Kırıkkale University,24,Academic,Turkey
+1164,Lady Davis Institute,24,Academic,Canada
+1165,Loughborough University,24,Academic,United Kingdom
+1166,"Mental Health Services in the Capital Region, Denmark",24,Academic,Denmark
+1167,Mike O'Callaghan Military Hospital,24,Academic,United States
+1168,"National University of Ireland, Galway, Ireland",24,Academic,Ireland
+1169,Oslo Metropolitan University,24,Academic,Norway
+1170,Puerta de Hierro University Hospital,24,Academic,Spain
+1171,Shenzhen Second People's Hospital,24,Academic,China
+1172,Sinocelltech Ltd.,24,Pharma,China
+1173,St. Petersburg State Pavlov Medical University,24,Academic,Russia
+1174,"TG Therapeutics, Inc.",24,Pharma,United States
+1175,The First Affiliated Hospital of Zhengzhou University,24,Academic,China
+1176,The Second Hospital of Nanjing Medical University,24,Academic,China
+1177,Universidad Peruana Cayetano Heredia,24,Academic,Peru
+1178,Università Vita-Salute San Raffaele,24,Academic,Italy
+1179,University of Georgia,24,Academic,United States
+1180,Xiyuan Hospital of China Academy of Chinese Medical Sciences,24,Academic,China
+1181,Xuzhou Medical University,24,Academic,China
+1182,Basque Country University,23,Academic,Spain
+1183,Centre Henri Becquerel,23,Academic,France
+1184,"Clovis Oncology, Inc.",23,Pharma,United States
+1185,CMC Ambroise Paré,23,Academic,France
+1186,Federal University of Pelotas,23,Academic,Brazil
+1187,FibroGen,23,Pharma,United States
+1188,Glaukos Corporation,23,Pharma,United States
+1189,Hospital do Coracao,23,Academic,Brazil
+1190,Karyopharm Therapeutics Inc,23,Pharma,United States
+1191,New York Institute of Technology,23,Academic,United States
+1192,Qilu Hospital of Shandong University,23,Academic,China
+1193,"Qilu Pharmaceutical Co., Ltd.",23,Pharma,China
+1194,Swiss Tropical & Public Health Institute,23,Academic,Switzerland
+1195,Universidad de Almeria,23,Academic,Spain
+1196,"University of Massachusetts, Amherst",23,Academic,United States
+1197,Venus Concept,23,Pharma,Canada
+1198,BioNTech SE,22,Pharma,Germany
+1199,Centre Hospitalier St Anne,22,Academic,France
+1200,Centre Jean Perrin,22,Academic,France
+1201,CStone Pharmaceuticals,22,Pharma,China
+1202,Federal University of Paraíba,22,Academic,Brazil
+1203,Fondation Lenval,22,Academic,France
+1204,Harbin Medical University,22,Academic,China
+1205,Henry M. Jackson Foundation for the Advancement of Military Medicine,22,Academic,United States
+1206,Inova Health Care Services,22,Academic,United States
+1207,King Abdulaziz University,22,Academic,Saudi Arabia
+1208,Lund University Hospital,22,Academic,Sweden
+1209,"Örebro University, Sweden",22,Academic,Sweden
+1210,Pusan National University Yangsan Hospital,22,Academic,South Korea
+1211,RAI Services Company,22,Pharma,United States
+1212,RTI International,22,Academic,United States
+1213,Saint-Joseph University,22,Academic,United States
+1214,Shanghai East Hospital,22,Academic,China
+1215,Sharp HealthCare,22,Academic,United States
+1216,Texas Tech University,22,Academic,United States
+1217,The University of The West Indies,22,Academic,Jamaica
+1218,Universidade Estadual de Londrina,22,Academic,Brazil
+1219,Universitat Internacional de Catalunya,22,Academic,Spain
+1220,University of Barcelona,22,Academic,Spain
+1221,University of Coimbra,22,Academic,Portugal
+1222,University of Eastern Finland,22,Academic,Finland
+1223,University of Guelph,22,Academic,Canada
+1224,University of Oregon,22,Academic,United States
+1225,University Tunis El Manar,22,Academic,Tunisia
+1226,Wuhan University,22,Academic,China
+1227,Advocate Health Care,21,Academic,United States
+1228,"Astex Pharmaceuticals, Inc.",21,Pharma,United States
+1229,"Central Institute of Mental Health, Mannheim",21,Academic,Germany
+1230,Cochlear,21,Pharma,Australia
+1231,"Copenhagen University Hospital, Hvidovre",21,Academic,Denmark
+1232,Eskisehir Osmangazi University,21,Academic,Turkey
+1233,Galderma R&D,21,Pharma,United States
+1234,Institut de Cancérologie de Lorraine,21,Academic,France
+1235,Institut Pasteur,21,Academic,France
+1236,Intergroupe Francophone de Cancerologie Thoracique,21,Academic,France
+1237,IRCCS Eugenio Medea,21,Academic,Italy
+1238,Kafrelsheikh University,21,Academic,Egypt
+1239,MedSIR,21,Pharma,Spain
+1240,"National University Health System, Singapore",21,Academic,Singapore
+1241,Prisma Health-Upstate,21,Academic,United States
+1242,Syneron Medical,21,Pharma,United States
+1243,Taipei Medical University Hospital,21,Academic,Taiwan
+1244,Universidad de Murcia,21,Academic,Spain
+1245,Universidade Federal de Santa Maria,21,Academic,Brazil
+1246,Universiti Kebangsaan Malaysia Medical Centre,21,Academic,Malaysia
+1247,University of Tromso,21,Academic,Norway
+1248,"Aclaris Therapeutics, Inc.",20,Pharma,United States
+1249,"Athenex, Inc.",20,Pharma,United States
+1250,Aveiro University,20,Academic,Portugal
+1251,"Beijing Pins Medical Co., Ltd",20,Pharma,China
+1252,Enanta Pharmaceuticals,20,Pharma,China
+1253,Fakultas Kedokteran Universitas Indonesia,20,Academic,Indonesia
+1254,"Federal Research Institute of Pediatric Hematology, Oncology and Immunology",20,Academic,Russia
+1255,General Hospital of Ningxia Medical University,20,Academic,China
+1256,Georgia State University,20,Academic,United States
+1257,Harokopio University,20,Academic,Greece
+1258,Hospital General Universitario Elche,20,Academic,Spain
+1259,Ibn Sina Hospital,20,Academic,Iraq
+1260,Institut de Cancérologie de la Loire,20,Academic,France
+1261,Lithuanian University of Health Sciences,20,Academic,Lithuania
+1262,MacroGenics,20,Pharma,United States
+1263,Maria Sklodowska-Curie Institute - Oncology Center,20,Academic,Poland
+1264,Materia Medica Holding,20,Pharma,Russia
+1265,"National Defense Medical Center, Taiwan",20,Academic,Taiwan
+1266,Neurocrine Biosciences,20,Pharma,United States
+1267,Sihuan Pharmaceutical Holdings Group Ltd.,20,Pharma,China
+1268,"Sinovac Biotech Co., Ltd",20,Pharma,China
+1269,Sir Run Run Shaw Hospital,20,Academic,China
+1270,Stichting Hemato-Oncologie voor Volwassenen Nederland,20,Academic,Netherlands
+1271,"Taiho Oncology, Inc.",20,Academic,United States
+1272,"Tesaro, Inc.",20,Academic,United States
+1273,The Cooper Health System,20,Academic,United States
+1274,The Second Hospital of Hebei Medical University,20,Academic,China
+1275,"Translational Research Institute for Metabolism and Diabetes, Florida",20,Academic,United States
+1276,"University of Auckland, New Zealand",20,Academic,New Zealand
+1277,University of Brasilia,20,Academic,Brazil
+1278,University of Jaén,20,Academic,Spain
+1279,University of Regina,20,Academic,Canada
+1280,ACADIA Pharmaceuticals Inc.,19,Pharma,United States
+1281,Akebia Therapeutics,19,Pharma,United States
+1282,argenx,19,Pharma,Netherlands
+1283,Auburn University,19,Academic,United States
+1284,Azienda Ospedaliero-Universitaria Careggi,19,Academic,Italy
+1285,Barretos Cancer Hospital,19,Academic,Brazil
+1286,"Biohaven Pharmaceuticals, Inc.",19,Pharma,United States
+1287,"Biosense Webster, Inc.",19,Pharma,United States
+1288,Cutera Inc.,19,Pharma,United States
+1289,Damanhour University,19,Academic,Egypt
+1290,"Fifth Affiliated Hospital, Sun Yat-Sen University",19,Academic,China
+1291,"Gamaleya Research Institute of Epidemiology and Microbiology, Health Ministry of the Russian Federation",19,Academic,Russia
+1292,General Hospital of Shenyang Military Region,19,Academic,China
+1293,Guangzhou University of Traditional Chinese Medicine,19,Academic,China
+1294,Hawler Medical University,19,Academic,Iraq
+1295,Hebei Medical University,19,Academic,China
+1296,Hebei Medical University Fourth Hospital,19,Academic,China
+1297,Inovio Pharmaceuticals,19,Pharma,United States
+1298,"Instituto Nacional de Cancer, Brazil",19,Academic,Brazil
+1299,James J. Peters Veterans Affairs Medical Center,19,Academic,United States
+1300,Krishnadevaraya College of Dental Sciences & Hospital,19,Academic,India
+1301,Maimónides Biomedical Research Institute of Córdoba,19,Academic,Spain
+1302,Medical University of Lublin,19,Academic,Poland
+1303,"ModernaTX, Inc.",19,Pharma,United States
+1304,Monash University,19,Academic,Australia
+1305,NMP Medical Research Institute,19,Academic,India
+1306,Oticon Medical,19,Pharma,France
+1307,São Paulo State University,19,Academic,Brazil
+1308,Second Affiliated Hospital of Guangzhou Medical University,19,Academic,China
+1309,Shanghai First Maternity and Infant Hospital,19,Academic,China
+1310,The First Affiliated Hospital of Dalian Medical University,19,Academic,China
+1311,The George Institute,19,Academic,Australia
+1312,Tomsk National Research Medical Center of the Russian Academy of Sciences,19,Academic,Russia
+1313,Ultragenyx Pharmaceutical Inc,19,Pharma,United States
+1314,University of Limerick,19,Academic,Ireland
+1315,"University of Split, School of Medicine",19,Academic,Croatia
+1316,VA Connecticut Healthcare System,19,Academic,United States
+1317,Zealand Pharma,19,Pharma,Denmark
+1318,Zhengzhou University,19,Academic,China
+1319,Zuyderland Medisch Centrum,19,Academic,Netherlands
+1320,Aretaieion University Hospital,18,Academic,Greece
+1321,"Asian Institute of Gastroenterology, India",18,Academic,India
+1322,B.P. Koirala Institute of Health Sciences,18,Academic,Nepal
+1323,Beijing 302 Hospital,18,Academic,China
+1324,Bursa Yüksek İhtisas Education and Research Hospital,18,Academic,Turkey
+1325,Chang Gung University,18,Academic,Taiwan
+1326,Faculdade de Ciências Médicas da Santa Casa de São Paulo,18,Academic,Brazil
+1327,First People's Hospital of Hangzhou,18,Academic,China
+1328,Fundacion para la Investigacion Biomedica del Hospital Universitario Ramon y Cajal,18,Academic,Spain
+1329,Fundación Pública Andaluza para la Investigación de Málaga en Biomedicina y Salud,18,Academic,Spain
+1330,GERCOR - Multidisciplinary Oncology Cooperative Group,18,Pharma,France
+1331,Harvard University,18,Academic,United States
+1332,Hong Kong Baptist University,18,Academic,China
+1333,IHU Strasbourg,18,Academic,France
+1334,IlDong Pharmaceutical Co Ltd,18,Pharma,South Korea
+1335,Institute for Clinical and Experimental Medicine,18,Academic,Czech Republic
+1336,Istituti Clinici Scientifici Maugeri SpA,18,Pharma,Italy
+1337,Janssen Sciences Ireland UC,18,Pharma,Ireland
+1338,Jena University Hospital,18,Academic,Germany
+1339,Loewenstein Hospital,18,Academic,Israel
+1340,Lumos Pharma,18,Pharma,United States
+1341,"MiMedx Group, Inc.",18,Pharma,United States
+1342,New York City Health and Hospitals Corporation,18,Academic,United States
+1343,Oregon State University,18,Academic,United States
+1344,Ospedale San Raffaele,18,Academic,Italy
+1345,Ostfold Hospital Trust,18,Academic,Norway
+1346,Pakistan Institute of Living and Learning,18,Academic,Pakistan
+1347,Reproductive & Genetic Hospital of CITIC-Xiangya,18,Academic,China
+1348,"Sarepta Therapeutics, Inc.",18,Pharma,United States
+1349,Schön Klinik Berchtesgadener Land,18,Academic,Germany
+1350,Second Xiangya Hospital of Central South University,18,Academic,China
+1351,Shin Kong Wu Ho-Su Memorial Hospital,18,Academic,Taiwan
+1352,Sichuan University,18,Academic,China
+1353,"Sorrento Therapeutics, Inc.",18,Pharma,United States
+1354,Sun Pharma Advanced Research Company Limited,18,Pharma,India
+1355,Universidad Miguel Hernandez de Elche,18,Academic,Spain
+1356,Universidade Federal de Goias,18,Academic,Brazil
+1357,Universidade Metodista de Piracicaba,18,Academic,Brazil
+1358,University of Belgrade,18,Academic,Serbia
+1359,"University of Nevada, Las Vegas",18,Academic,United States
+1360,USDA Grand Forks Human Nutrition Research Center,18,Academic,United States
+1361,"Alliance Foundation Trials, LLC.",17,Pharma,United States
+1362,ARCAGY/ GINECO GROUP,17,Academic,France
+1363,Azienda Ospedaliera Città della Salute e della Scienza di Torino,17,Academic,Italy
+1364,Bakirkoy Dr. Sadi Konuk Research and Training Hospital,17,Academic,Turkey
+1365,Boston College,17,Academic,United States
+1366,Catalysis SL,17,Pharma,Spain
+1367,Derming SRL,17,Pharma,Italy
+1368,Fayoum University Hospital,17,Academic,Egypt
+1369,Fondazione I.R.C.C.S. Istituto Neurologico Carlo Besta,17,Academic,Italy
+1370,"GeneScience Pharmaceuticals Co., Ltd.",17,Pharma,China
+1371,Geropharm,17,Pharma,Russia
+1372,GW Research Ltd,17,Pharma,United Kingdom
+1373,"Hanlim Pharm. Co., Ltd.",17,Pharma,South Korea
+1374,Heron Therapeutics,17,Pharma,United States
+1375,I.R.C.C.S. Fondazione Santa Lucia,17,Academic,Italy
+1376,Imperial College Healthcare NHS Trust,17,Academic,United Kingdom
+1377,Italian Sarcoma Group,17,Academic,Italy
+1378,Jiangsu Province Centers for Disease Control and Prevention,17,Academic,China
+1379,King Edward Medical University,17,Academic,Pakistan
+1380,"Klein Buendel, Inc.",17,Academic,United States
+1381,"Mathematica Policy Research, Inc.",17,Academic,United States
+1382,Medical University of Bialystok,17,Academic,Poland
+1383,National Taipei University of Nursing and Health Sciences,17,Academic,Taiwan
+1384,NHS Lothian,17,Academic,United Kingdom
+1385,Northeastern University,17,Academic,United States
+1386,Oklahoma State University,17,Academic,United States
+1387,"OPKO Health, Inc.",17,Pharma,United States
+1388,Posit Science Corporation,17,Pharma,United States
+1389,Poznan University of Life Sciences,17,Academic,Poland
+1390,Poznan University of Medical Sciences,17,Academic,Poland
+1391,"Reata Pharmaceuticals, Inc.",17,Pharma,United States
+1392,Riyadh Colleges of Dentistry and Pharmacy,17,Academic,Saudi Arabia
+1393,Russian Academy of Medical Sciences,17,Academic,Russia
+1394,Saglik Bilimleri Universitesi Gulhane Tip Fakultesi,17,Academic,Turkey
+1395,Shahid Beheshti University,17,Academic,Iran
+1396,Sheffield Hallam University,17,Academic,United Kingdom
+1397,Shionogi Inc.,17,Pharma,United States
+1398,Sichuan Cancer Hospital and Research Institute,17,Academic,China
+1399,"St. Paul's Hospital, Canada",17,Academic,Canada
+1400,Sun Pharma Global FZE,17,Pharma,Canada
+1401,"Taisho Pharmaceutical Co., Ltd.",17,Pharma,Japan
+1402,The First People's Hospital of Changzhou,17,Academic,China
+1403,Université Libre de Bruxelles,17,Academic,Belgium
+1404,University Hospital Bispebjerg and Frederiksberg,17,Academic,Denmark
+1405,University of Bari,17,Academic,Italy
+1406,University of Central Florida,17,Academic,United States
+1407,University of Hohenheim,17,Academic,Germany
+1408,"University of Maryland, College Park",17,Academic,United States
+1409,University of Palermo,17,Academic,Italy
+1410,University Of Perugia,17,Academic,Italy
+1411,Xijing Hospital of Digestive Diseases,17,Academic,China
+1412,Yangzhou University,17,Academic,China
+1413,Zeltiq Aesthetics,17,Pharma,United States
+1414,Zhongda Hospital,17,Academic,China
+1415,AB Science,16,Pharma,France
+1416,Adiyaman University Research Hospital,16,Academic,Turkey
+1417,"All India Institute of Medical Sciences, Bhubaneswar",16,Academic,India
+1418,Antalya Training and Research Hospital,16,Academic,Turkey
+1419,"Apellis Pharmaceuticals, Inc.",16,Pharma,United States
+1420,Belfast Health and Social Care Trust,16,Academic,Ireland
+1421,Benaroya Research Institute,16,Academic,United States
+1422,Biosearch S.A.,16,Pharma,Spain
+1423,Buddhist Tzu Chi General Hospital,16,Academic,Taiwan
+1424,Cancer Research UK,16,Academic,United Kingdom
+1425,Carnegie Mellon University,16,Academic,United States
+1426,Center Eugene Marquis,16,Academic,France
+1427,Chengdu University of Traditional Chinese Medicine,16,Academic,China
+1428,Danderyd Hospital,16,Academic,Sweden
+1429,Diskapi Teaching and Research Hospital,16,Academic,Turkey
+1430,"Genexine, Inc.",16,Pharma,South Korea
+1431,Genmab,16,Pharma,Denmark
+1432,"Genor Biopharma Co., Ltd.",16,Pharma,China
+1433,Groupe Oncologie Radiotherapie Tete et Cou,16,Academic,France
+1434,Guangdong Association of Clinical Trials,16,Academic,China
+1435,GWT-TUD GmbH,16,Pharma,Germany
+1436,"Hebei Senlang Biotechnology Inc., Ltd.",16,Pharma,China
+1437,Hospital Universitario 12 de Octubre,16,Academic,Spain
+1438,Instituto Nacional de Cancerologia de Mexico,16,Academic,Mexico
+1439,Iowa State University,16,Academic,United States
+1440,Istanbul Physical Medicine Rehabilitation Training and Research Hospital,16,Academic,Turkey
+1441,"Jiangsu Hansoh Pharmaceutical Co., Ltd.",16,Pharma,China
+1442,John Wayne Cancer Institute,16,Academic,United States
+1443,Laboratorios Sophia S.A de C.V.,16,Academic,Mexico
+1444,"Mitsubishi Tanabe Pharma Development America, Inc.",16,Pharma,United States
+1445,Multidisciplinary Association for Psychedelic Studies,16,Academic,United States
+1446,National Cheng Kung University,16,Academic,Taiwan
+1447,Neurological Associates of West Los Angeles,16,Academic,United States
+1448,Newcastle University,16,Academic,United Kingdom
+1449,Niguarda Hospital,16,Academic,Italy
+1450,Nottingham University Hospitals NHS Trust,16,Academic,United Kingdom
+1451,Nova Southeastern University,16,Academic,United States
+1452,Ondokuz Mayıs University,16,Academic,Turkey
+1453,Philogen S.p.A.,16,Pharma,Italy
+1454,Pusan National University Hospital,16,Academic,South Korea
+1455,Semmelweis University,16,Academic,Hungary
+1456,Shandong Provincial Hospital,16,Academic,China
+1457,Shenzhen People's Hospital,16,Academic,China
+1458,St. Boniface Hospital,16,Academic,Canada
+1459,Szeged University,16,Academic,Hungary
+1460,The Second Affiliated Hospital of Chongqing Medical University,16,Academic,China
+1461,Universidad de León,16,Academic,Spain
+1462,University Hospital Center of Martinique,16,Academic,France
+1463,"University of Missouri, Kansas City",16,Academic,United States
+1464,University of Santiago de Compostela,16,Academic,Spain
+1465,"University of Witwatersrand, South Africa",16,Academic,South Africa
+1466,VA Greater Los Angeles Healthcare System,16,Academic,United States
+1467,Western Sydney Local Health District,16,Academic,Australia
+1468,Wroclaw Medical University,16,Academic,Poland
+1469,Ankara Yildirim Beyazıt University,15,Academic,Turkey
+1470,Atridia Pty Ltd.,15,Pharma,Australia
+1471,Australian and New Zealand Intensive Care Research Centre,15,Academic,Australia
+1472,AZ Sint-Jan AV,15,Academic,Belgium
+1473,"Beijing InnoCare Pharma Tech Co., Ltd.",15,Pharma,China
+1474,Bio-Thera Solutions,15,Pharma,China
+1475,Brock University,15,Academic,Canada
+1476,Burke Medical Research Institute,15,Academic,United States
+1477,Celldex Therapeutics,15,Pharma,United States
+1478,Dammam University,15,Academic,Saudi Arabia
+1479,Diskapi Yildirim Beyazit Education and Research Hospital,15,Academic,Turkey
+1480,Dompé Farmaceutici S.p.A,15,Pharma,Italy
+1481,Eastern Virginia Medical School,15,Academic,United States
+1482,Federal University of Juiz de Fora,15,Academic,Brazil
+1483,"Friends Research Institute, Inc.",15,Academic,United States
+1484,Fundación para el Fomento de la Investigación Sanitaria y Biomédica de la Comunitat Valenciana,15,Academic,Spain
+1485,Fundación para la Investigación del Hospital Clínico de Valencia,15,Academic,Spain
+1486,"Gerencia de Atención Primaria, Madrid",15,Academic,Spain
+1487,Glasgow Caledonian University,15,Academic,Poland
+1488,"Jeil Pharmaceutical Co., Ltd.",15,Pharma,South Korea
+1489,Jhpiego,15,Academic,United States
+1490,Kent State University,15,Academic,United States
+1491,Maine Medical Center,15,Academic,United States
+1492,Major Extremity Trauma Research Consortium,15,Academic,United States
+1493,MedtronicNeuro,15,Pharma,United States
+1494,Moorfields Eye Hospital NHS Foundation Trust,15,Academic,United Kingdom
+1495,"Naurex, Inc, an affiliate of Allergan plc",15,Pharma,United States
+1496,Neutec Ar-Ge San ve Tic A.Ş,15,Pharma,Turkey
+1497,"Pearl Therapeutics, Inc.",15,Pharma,United States
+1498,"PersonGen BioTherapeutics (Suzhou) Co., Ltd.",15,Pharma,China
+1499,Physiol,15,Pharma,Belgium
+1500,Pomeranian Medical University Szczecin,15,Academic,Poland
+1501,RSP Systems A/S,15,Pharma,Denmark
+1502,Saglik Bilimleri Universitesi,15,Academic,Turkey
+1503,Second Affiliated Hospital of Xi'an Jiaotong University,15,Academic,China
+1504,Sociedad Española de Neumología y Cirugía Torácica,15,Academic,Spain
+1505,Sorlandet Hospital HF,15,Academic,Norway
+1506,South Egypt Cancer Institute,15,Academic,Egypt
+1507,Stryker Orthopaedics,15,Pharma,United States
+1508,Taipei City Hospital,15,Academic,Taiwan
+1509,Trans-Tasman Radiation Oncology Group (TROG),15,Academic,Australia
+1510,UCSF Benioff Children's Hospital Oakland,15,Academic,United States
+1511,Universidade Federal de Santa Catarina,15,Academic,Brazil
+1512,University Hospital Hradec Kralove,15,Academic,Czech Republic
+1513,University Hospital of Patras,15,Academic,Greece
+1514,University of Baghdad,15,Academic,Iraq
+1515,University of Cadiz,15,Academic,Spain
+1516,University of Victoria,15,Academic,Canada
+1517,VA Palo Alto Health Care System,15,Academic,United States
+1518,Vedic Lifesciences Pvt. Ltd.,15,Pharma,India
+1519,"Verastem, Inc.",15,Pharma,United States
+1520,A.O. Ospedale Papa Giovanni XXIII,14,Academic,Italy
+1521,Addpharma Inc.,14,Pharma,Ghana
+1522,"Allife Medical Science and Technology Co., Ltd.",14,Academic,China
+1523,Arbeitsgemeinschaft medikamentoese Tumortherapie,14,Academic,Austria
+1524,ARCIM Institute Academic Research in Complementary and Integrative Medicine,14,Academic,Germany
+1525,Arcispedale Santa Maria Nuova-IRCCS,14,Academic,Italy
+1526,Arena Pharmaceuticals,14,Pharma,United States
+1527,Azienda Ospedaliero Universitaria Maggiore della Carita,14,Academic,Italy
+1528,Babes-Bolyai University,14,Academic,Romania
+1529,Bavarian Nordic,14,Pharma,Denmark
+1530,Centre de Recherche de l'Institut Universitaire de Cardiologie et de Pneumologie de Quebec,14,Academic,Canada
+1531,Concert Pharmaceuticals,14,Pharma,United States
+1532,Cyprus University of Technology,14,Academic,Cyprus
+1533,Dalhousie University,14,Academic,Canada
+1534,Dong-A University,14,Academic,South Korea
+1535,Duquesne University,14,Academic,United States
+1536,Fatih Sultan Mehmet Training and Research Hospital,14,Academic,Turkey
+1537,French Innovative Leukemia Organisation,14,Academic,France
+1538,"Galera Therapeutics, Inc.",14,Pharma,United States
+1539,Global Blood Therapeutics,14,Pharma,United States
+1540,Hasan Kalyoncu University,14,Academic,Turkey
+1541,Hebei Yanda Ludaopei Hospital,14,Academic,China
+1542,Immunitor LLC,14,Pharma,United Kingdom
+1543,Institut Català d'Oncologia,14,Academic,Spain
+1544,"Instituto Nacional de Salud Publica, Mexico",14,Academic,Mexico
+1545,International Breast Cancer Study Group,14,Academic,Switzerland
+1546,International Food Policy Research Institute,14,Academic,United States
+1547,IRCCS Burlo Garofolo,14,Academic,Italy
+1548,"Jiangsu Alphamab Biopharmaceuticals Co., Ltd",14,Pharma,China
+1549,Jiangxi Qingfeng Pharmaceutical Co. Ltd.,14,Pharma,China
+1550,"Kadmon Corporation, LLC",14,Pharma,United States
+1551,Mbarara University of Science and Technology,14,Academic,Uganda
+1552,"Military Institute of Medicine, Poland",14,Academic,Poland
+1553,Montana State University,14,Academic,United States
+1554,"National Rehabilitation Center, Seoul, Korea",14,Academic,South Korea
+1555,Nektar Therapeutics,14,Pharma,United States
+1556,Nobelpharma,14,Pharma,Japan
+1557,NovoCure Ltd.,14,Pharma,United States
+1558,October 6 University,14,Academic,Egypt
+1559,Okan University,14,Academic,Turkey
+1560,"OrthoCarolina Research Institute, Inc.",14,Academic,United States
+1561,Papworth Hospital NHS Foundation Trust,14,Academic,United Kingdom
+1562,Pharmtechnology LLC,14,Academic,Belarus
+1563,Phoenix Children's Hospital,14,Academic,United States
+1564,Samumed LLC,14,Pharma,United States
+1565,"Shanghai MicroPort Medical (Group) Co., Ltd.",14,Pharma,China
+1566,Shanghai Proton and Heavy Ion Center,14,Academic,China
+1567,Sisli Hamidiye Etfal Training and Research Hospital,14,Academic,Turkey
+1568,"Supernus Pharmaceuticals, Inc.",14,Pharma,United States
+1569,Syndax Pharmaceuticals,14,Pharma,United States
+1570,Tampere University,14,Academic,Finland
+1571,"Texas Tech University Health Sciences Center, El Paso",14,Academic,United States
+1572,The First Affiliated Hospital of Xiamen University,14,Academic,China
+1573,The Third Xiangya Hospital of Central South University,14,Academic,China
+1574,United States Army Research Institute of Environmental Medicine,14,Academic,United States
+1575,University Hospitals Coventry and Warwickshire NHS Trust,14,Academic,United Kingdom
+1576,University of Cagliari,14,Academic,Italy
+1577,"University of Geneva, Switzerland",14,Academic,Switzerland
+1578,University of Konstanz,14,Academic,Germany
+1579,"University of Nevada, Reno",14,Academic,United States
+1580,University of Toledo Health Science Campus,14,Academic,United States
+1581,University of Zagreb,14,Academic,Croatia
+1582,Vanda Pharmaceuticals,14,Pharma,United States
+1583,Yeungnam University College of Medicine,14,Academic,South Korea
+1584,Aarogyam UK,13,Academic,United Kingdom
+1585,Allina Health System,13,Academic,United States
+1586,AnewPharma,13,Pharma,China
+1587,Anhui Medical University,13,Academic,China
+1588,"Arcutis Biotherapeutics, Inc.",13,Pharma,United States
+1589,Assembly Biosciences,13,Pharma,United States
+1590,Association Francaise pour la Recherche Thermale,13,Academic,France
+1591,Assuta Medical Center,13,Academic,Israel
+1592,"Axsome Therapeutics, Inc.",13,Pharma,United States
+1593,Baltimore VA Medical Center,13,Academic,United States
+1594,Baqiyatallah Medical Sciences University,13,Academic,Iran
+1595,"Becton, Dickinson and Company",13,Pharma,United States
+1596,Beijing Normal University,13,Academic,China
+1597,Bellicum Pharmaceuticals,13,Pharma,United States
+1598,California Polytechnic State University-San Luis Obispo,13,Academic,United States
+1599,Centre Chirurgical Marie Lannelongue,13,Academic,France
+1600,"Centre hospitalier de Ville-Evrard, France",13,Academic,France
+1601,Centre of Postgraduate Medical Education,13,Academic,Poland
+1602,Centro Universitario La Salle,13,Academic,Spain
+1603,"City, University of London",13,Academic,United Kingdom
+1604,Clalit Health Services,13,Academic,Israel
+1605,Craig Hospital,13,Academic,United Kingdom
+1606,Cyclerion Therapeutics,13,Pharma,United States
+1607,Derince Training and Research Hospital,13,Academic,Turkey
+1608,Diakonhjemmet Hospital,13,Academic,Norway
+1609,Emergent BioSolutions,13,Pharma,United States
+1610,Eurofarma Laboratorios S.A.,13,Pharma,Brazil
+1611,Fayoum University,13,Academic,Egypt
+1612,Federal University of Bahia,13,Academic,Brazil
+1613,First Affiliated Hospital of Fujian Medical University,13,Academic,China
+1614,First Affiliated Hospital of Guangxi Medical University,13,Academic,China
+1615,Fundació Sant Joan de Déu,13,Academic,Spain
+1616,German CLL Study Group,13,Academic,Germany
+1617,German Diabetes Center,13,Academic,Germany
+1618,Global Alliance for TB Drug Development,13,Academic,United States
+1619,Groupe Francophone des Myelodysplasies,13,Academic,France
+1620,Guangzhou General Hospital of Guangzhou Military Command,13,Academic,China
+1621,Hospital Universitario La Paz,13,Academic,Spain
+1622,Hunan Province Tumor Hospital,13,Academic,China
+1623,Imam Abdulrahman Bin Faisal University,13,Academic,Saudi Arabia
+1624,"Immunomedics, Inc.",13,Pharma,United States
+1625,Institut de Recherche pour le Developpement,13,Academic,France
+1626,IRCCS Centro Neurolesi Bonino-Pulejo,13,Academic,Italy
+1627,Istinye University,13,Academic,Turkey
+1628,Iuliu Hatieganu University of Medicine and Pharmacy,13,Academic,Romania
+1629,"Kowa Research Institute, Inc.",13,Pharma,United States
+1630,"Kyowa Kirin Pharmaceutical Development, Inc.",13,Pharma,United States
+1631,Lifespan,13,Academic,United States
+1632,"Lifetech Scientific (Shenzhen) Co., Ltd.",13,Pharma,China
+1633,LivaNova,13,Pharma,United States
+1634,London Health Sciences Centre,13,Academic,United Kingdom
+1635,London North West Healthcare NHS Trust,13,Academic,United Kingdom
+1636,Marquette University,13,Academic,United States
+1637,"Maruho Co., Ltd.",13,Pharma,Japan
+1638,Medline Industries,13,Pharma,United States
+1639,Mental Health Centre Copenhagen,13,Academic,Denmark
+1640,Menzies School of Health Research,13,Academic,Australia
+1641,Ministry of Science and Technology of the People´s Republic of China,13,Academic,China
+1642,Mylan Inc.,13,Pharma,United States
+1643,"Nanjing Sanhome Pharmaceutical, Co., Ltd.",13,Pharma,China
+1644,National Taiwan University Hospital Hsin-Chu Branch,13,Academic,Taiwan
+1645,"Navy General Hospital, Beijing",13,Academic,China
+1646,"NGM Biopharmaceuticals, Inc",13,Pharma,United States
+1647,Norwegian School of Sport Sciences,13,Academic,Norway
+1648,Nutricia Research,13,Academic,Netherlands
+1649,ObsEva SA,13,Pharma,Switzerland
+1650,"Oxford University Clinical Research Unit, Vietnam",13,Academic,Vietnam
+1651,PharmaMar,13,Pharma,Spain
+1652,Portola Pharmaceuticals,13,Pharma,United States
+1653,"Psychiatric University Hospital, Zurich",13,Academic,Switzerland
+1654,PT Bio Farma,13,Pharma,Indonesia
+1655,"Puma Biotechnology, Inc.",13,Pharma,United States
+1656,"Revance Therapeutics, Inc.",13,Pharma,United States
+1657,Seattle Institute for Biomedical and Clinical Research,13,Academic,United States
+1658,"Services Hospital, Lahore",13,Academic,Pakistan
+1659,Shanghai Public Health Clinical Center,13,Academic,China
+1660,Sheffield Children's NHS Foundation Trust,13,Academic,United Kingdom
+1661,Shinshu University,13,Academic,Japan
+1662,SOLTI Breast Cancer Research Group,13,Academic,Spain
+1663,Spero Therapeutics,13,Pharma,United States
+1664,Swedish Medical Center,13,Academic,Sweden
+1665,Sykehuset i Vestfold HF,13,Academic,Norway
+1666,"TCI Co., Ltd.",13,Pharma,Taiwan
+1667,Teesside University,13,Academic,United Kingdom
+1668,Theracos,13,Pharma,United States
+1669,Toronto Rehabilitation Institute,13,Academic,Canada
+1670,Universidad Autonoma de Baja California,13,Academic,Mexico
+1671,Universidad de Guanajuato,13,Academic,Mexico
+1672,University Hospital of Mont-Godinne,13,Academic,France
+1673,"University of Dublin, Trinity College",13,Academic,Ireland
+1674,University of Florence,13,Academic,Italy
+1675,University of Lisbon,13,Academic,Portugal
+1676,University of Nebraska Lincoln,13,Academic,United States
+1677,University of Primorska,13,Academic,Slovenia
+1678,Utah State University,13,Academic,United States
+1679,Vilnius University,13,Academic,Lithuania
+1680,"Vitaflo International, Ltd",13,Pharma,United Kingdom
+1681,Wageningen University and Research,13,Academic,Netherlands
+1682,York University,13,Academic,Canada
+1683,"Zai Lab (Shanghai) Co., Ltd.",13,Pharma,China
+1684,"Acceleron Pharma, Inc.",12,Pharma,United States
+1685,ADC Therapeutics S.A.,12,Pharma,Switzerland
+1686,Aerie Pharmaceuticals,12,Pharma,United States
+1687,Agenus Inc.,12,Pharma,United States
+1688,Alabama Physical Therapy & Acupuncture,12,Academic,United States
+1689,"Aldeyra Therapeutics, Inc.",12,Pharma,United States
+1690,Alpha Tau Medical LTD.,12,Pharma,Israel
+1691,"AMAG Pharmaceuticals, Inc.",12,Pharma,United States
+1692,"Anhui Zhifei Longcom Biologic Pharmacy Co., Ltd.",12,Pharma,China
+1693,"Anika Therapeutics, Inc.",12,Pharma,United States
+1694,Applied Science Private University,12,Academic,Jordan
+1695,Aslan Pharmaceuticals,12,Academic,Singapore
+1696,Atlantic Health System,12,Academic,United States
+1697,Avanir Pharmaceuticals,12,Pharma,United States
+1698,Azienda Ospedaliero-Universitaria di Modena,12,Academic,Italy
+1699,Bambino Gesù Hospital and Research Institute,12,Academic,Italy
+1700,Banc de Sang i Teixits,12,Academic,Spain
+1701,Baptist Health South Florida,12,Academic,United States
+1702,Basilea Pharmaceutica,12,Pharma,Switzerland
+1703,Baycrest,12,Academic,United States
+1704,BioCryst Pharmaceuticals,12,Pharma,United States
+1705,Bournemouth University,12,Academic,United Kingdom
+1706,Braintree Laboratories,12,Pharma,United States
+1707,Bulent Ecevit University,12,Academic,Turkey
+1708,Bundang CHA Hospital,12,Academic,South Korea
+1709,Cambridge Health Alliance,12,Academic,United States
+1710,"Cara Therapeutics, Inc.",12,Pharma,United States
+1711,Cardiff University,12,Academic,United Kingdom
+1712,Central Jutland Regional Hospital,12,Academic,Denmark
+1713,Chengdu PLA General Hospital,12,Academic,China
+1714,China-Japan Friendship Hospital,12,Academic,China
+1715,Dalin Tzu Chi General Hospital,12,Academic,Taiwan
+1716,Dallas VA Medical Center,12,Academic,United States
+1717,David Grant U.S. Air Force Medical Center,12,Academic,United States
+1718,DePuy Orthopaedics,12,Pharma,United States
+1719,Dexa Medica Group,12,Pharma,Indonesia
+1720,"Epizyme, Inc.",12,Pharma,United States
+1721,Foamix Ltd.,12,Pharma,Israel
+1722,Fondazione Neoplasie Sangue Onlus,12,Academic,Italy
+1723,Foundation University Islamabad,12,Academic,Pakistan
+1724,German Cancer Research Center,12,Academic,Germany
+1725,Gruppo Oncologico del Nord-Ovest,12,Academic,Italy
+1726,Healeon Medical Inc,12,Pharma,United States
+1727,Health Decisions,12,Pharma,United States
+1728,"Hebrew Rehabilitation Center, Boston",12,Academic,United States
+1729,Hellenic Institute for the Study of Sepsis,12,Academic,Greece
+1730,Helse Møre og Romsdal HF,12,Academic,Norway
+1731,Helsinn Healthcare SA,12,Academic,United States
+1732,HonorHealth Research Institute,12,Pharma,United States
+1733,Institut Universitari Dexeus,12,Academic,Spain
+1734,Institute of Biophysics and Cell Engineering of National Academy of Sciences of Belarus,12,Academic,Belarus
+1735,Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz,12,Academic,Spain
+1736,Instituto Nacional de Cardiologia Ignacio Chavez,12,Academic,Mexico
+1737,Jaseng Medical Foundation,12,Academic,South Korea
+1738,Johns Hopkins All Children's Hospital,12,Academic,United States
+1739,Kaplan Medical Center,12,Academic,Israel
+1740,Mansoura University Children Hospital,12,Academic,Egypt
+1741,Melanoma and Skin Cancer Trials Limited,12,Pharma,Australia
+1742,Mersin University,12,Academic,Turkey
+1743,Mirati Therapeutics Inc.,12,Pharma,Canada
+1744,Muğla Sıtkı Koçman University,12,Academic,Turkey
+1745,Naestved Hospital,12,Academic,Denmark
+1746,"National Research Center, Egypt",12,Academic,Egypt
+1747,Navidea Biopharmaceuticals,12,Pharma,United States
+1748,Necmettin Erbakan University,12,Academic,Turkey
+1749,Paulista University,12,Academic,Brazil
+1750,Physicians Committee for Responsible Medicine,12,Academic,United States
+1751,Public Health England,12,Academic,United Kingdom
+1752,Queen Fabiola Children's University Hospital,12,Academic,Belgium
+1753,Ramsay Générale de Santé,12,Academic,France
+1754,"Royal College of Surgeons, Ireland",12,Academic,Ireland
+1755,Royal North Shore Hospital,12,Academic,Australia
+1756,Sansum Diabetes Research Institute,12,Academic,United States
+1757,School of Health Sciences Geneva,12,Academic,Switzerland
+1758,Schulthess Klinik,12,Academic,Switzerland
+1759,Scripps Health,12,Academic,United States
+1760,Second Military Medical University,12,Academic,China
+1761,Shanghai 6th People's Hospital,12,Academic,China
+1762,Simon Fraser University,12,Academic,Canada
+1763,"SK Chemicals Co., Ltd.",12,Pharma,South Korea
+1764,"SK Life Science, Inc.",12,Pharma,United States
+1765,SMG-SNU Boramae Medical Center,12,Academic,South Korea
+1766,Somogy Megyei Kaposi Mór Teaching Hospital,12,Academic,Hungary
+1767,Spanish Oncology Genito-Urinary Group,12,Academic,Spain
+1768,"St Joseph University, Beirut, Lebanon",12,Academic,Lebanon
+1769,Stem Cells Arabia,12,Academic,Jordan
+1770,Swansea University,12,Academic,United Kingdom
+1771,T.C. ORDU ÜNİVERSİTESİ,12,Academic,Turkey
+1772,"Technological Centre of Nutrition and Health, Spain",12,Academic,Spain
+1773,The Affiliated Hospital of Qingdao University,12,Academic,China
+1774,The First Affiliated Hospital of Anhui Medical University,12,Academic,China
+1775,The University of Texas at Arlington,12,Academic,United States
+1776,Tracon Pharmaceuticals Inc.,12,Pharma,United States
+1777,Trakya University,12,Academic,Turkey
+1778,Universidade Federal do Ceara,12,Academic,Brazil
+1779,Universidade Norte do Paraná,12,Academic,Brazil
+1780,Università Politecnica delle Marche,12,Academic,Italy
+1781,"University of Arkansas, Fayetteville",12,Academic,United States
+1782,University of Extremadura,12,Academic,Spain
+1783,University of Iceland,12,Academic,Iceland
+1784,University of KwaZulu,12,Academic,South Africa
+1785,University of Milano Bicocca,12,Academic,Italy
+1786,University of Salford,12,Academic,United Kingdom
+1787,University School of Physical Education in Wroclaw,12,Academic,Poland
+1788,USDA Beltsville Human Nutrition Research Center,12,Academic,United States
+1789,"USDA, Western Human Nutrition Research Center",12,Academic,United States
+1790,Yale-NUS College,12,Academic,Singapore
+1791,Yaounde Central Hospital,12,Academic,Cameroon
+1792,Yeditepe University,12,Academic,Turkey
+1793,Zhongnan Hospital,12,Academic,China
+1794,Ziekenhuis Oost-Limburg,12,Academic,Netherlands
+1795,Abivax S.A.,11,Pharma,France
+1796,AC Camargo Cancer Center,11,Academic,Brazil
+1797,Advanced Accelerator Applications,11,Academic,Israel
+1798,Ageless Regenerative Institute,11,Pharma,United States
+1799,Alios Biopharma Inc.,11,Pharma,United States
+1800,"Allakos, Inc.",11,Pharma,United States
+1801,Allegheny Singer Research Institute (also known as Allegheny Health Network Research Institute),11,Academic,United States
+1802,Altor BioScience,11,Pharma,United States
+1803,Anhui Provincial Hospital,11,Academic,China
+1804,Ankara City Hospital Bilkent,11,Academic,Turkey
+1805,"Arcus Biosciences, Inc.",11,Pharma,United States
+1806,"Arog Pharmaceuticals, Inc.",11,Pharma,United States
+1807,Asana BioSciences,11,Pharma,United States
+1808,Aurora Health Care,11,Academic,United States
+1809,"Azienda Ospedaliero, Universitaria Pisana",11,Academic,Italy
+1810,Bahçeşehir University,11,Academic,Turkey
+1811,Baystate Medical Center,11,Academic,United States
+1812,Beijing Chest Hospital,11,Academic,China
+1813,Beijing Hospital,11,Academic,China
+1814,Brasilia University Hospital,11,Academic,Brazil
+1815,Bruyere Research Institute,11,Academic,Canada
+1816,"Calithera Biosciences, Inc",11,Pharma,United States
+1817,Charles Drew University of Medicine and Science,11,Academic,United States
+1818,China National Biotec Group Company Limited,11,Pharma,China
+1819,Clinical Evaluation Research Unit at Kingston General Hospital,11,Academic,Canada
+1820,Dascena,11,Pharma,United States
+1821,Debiopharm International SA,11,Pharma,Switzerland
+1822,"Dongzhimen Hospital, Beijing",11,Academic,China
+1823,Dr. August Wolff GmbH & Co. KG Arzneimittel,11,Pharma,Germany
+1824,Erzincan University,11,Academic,Turkey
+1825,Escola Superior de Tecnologia da Saúde do Porto,11,Academic,Portugal
+1826,European Thoracic Oncology Platform,11,Academic,Switzerland
+1827,F2G Ltd.,11,Pharma,United Kingdom
+1828,"Faculty of Medicine, Sousse",11,Academic,Tunisia
+1829,Faculty Sao Leopoldo Mandic Campinas,11,Academic,Brazil
+1830,First Affiliated Hospital of Wenzhou Medical University,11,Academic,China
+1831,Fresenius Kabi,11,Pharma,Germany
+1832,Fundación de Investigación Biomédica - Hospital Universitario de La Princesa,11,Academic,Spain
+1833,Fundacion para la Investigacion y Formacion en Ciencias de la Salud,11,Academic,Spain
+1834,G. d'Annunzio University,11,Academic,Italy
+1835,Gadjah Mada University,11,Academic,Indonesia
+1836,German Breast Group,11,Academic,Germany
+1837,GlycoMimetics Incorporated,11,Pharma,United States
+1838,Grupo Espanol de Investigacion en Sarcomas,11,Academic,Spain
+1839,Guangdong Women and Children Hospital,11,Academic,China
+1840,Hangang Sacred Heart Hospital,11,Academic,South Korea
+1841,Hangzhou Cancer Hospital,11,Academic,China
+1842,Hanyang University Seoul Hospital,11,Academic,South Korea
+1843,Hebei Medical University Third Hospital,11,Academic,China
+1844,Hill-Rom,11,Pharma,United States
+1845,Hospital Civil de Guadalajara,11,Academic,Mexico
+1846,Hospital Universitario de Canarias,11,Academic,Spain
+1847,Hunter College of City University of New York,11,Academic,United States
+1848,Hunter Holmes Mcguire Veteran Affairs Medical Center,11,Academic,United States
+1849,I-Mab Biopharma Co. Ltd.,11,Pharma,China
+1850,Institut Mutualiste Montsouris,11,Academic,France
+1851,International Extranodal Lymphoma Study Group (IELSG),11,Academic,Switzerland
+1852,"Janssen Scientific Affairs, LLC",11,Pharma,United States
+1853,Jessa Hospital,11,Academic,Belgium
+1854,Kettering Health Network,11,Academic,United States
+1855,King Chulalongkorn Memorial Hospital,11,Academic,Thailand
+1856,Klinikum der Universitaet Muenchen,11,Academic,Germany
+1857,Lazarski University,11,Academic,Poland
+1858,Luzerner Kantonsspital,11,Academic,Switzerland
+1859,Medical University of Gdansk,11,Academic,Poland
+1860,"Melinta Therapeutics, Inc.",11,Pharma,United States
+1861,"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",11,Pharma,Germany
+1862,"Mirum Pharmaceuticals, Inc.",11,Pharma,United States
+1863,Misr International University,11,Academic,Egypt
+1864,Molnlycke Health Care AB,11,Pharma,Sweden
+1865,Mỹ Đức Hospital,11,Academic,Vietnam
+1866,National University of Natural Medicine,11,Academic,United States
+1867,Neuromed IRCCS,11,Academic,Italy
+1868,North Dakota State University,11,Academic,United States
+1869,Northern Arizona University,11,Academic,United States
+1870,Nutricia UK Ltd,11,Pharma,United Kingdom
+1871,OhioHealth,11,Academic,United States
+1872,Old Dominion University,11,Academic,United States
+1873,Orchard Therapeutics,11,Pharma,United Kingdom
+1874,Otsuka Beijing Research Institute,11,Academic,China
+1875,Oulu University Hospital,11,Academic,Finland
+1876,Panineeya Mahavidyalaya Institute of Dental Sciences & Research Centre,11,Academic,India
+1877,Peking Union Medical College,11,Academic,China
+1878,Polaris Group,11,Pharma,United States
+1879,"PrECOG, LLC.",11,Academic,United States
+1880,Pusan National University,11,Academic,South Korea
+1881,Reckitt Benckiser Healthcare (UK) Limited,11,Pharma,United Kingdom
+1882,Red de Terapia Celular,11,Pharma,Spain
+1883,RedHill Biopharma Limited,11,Pharma,Israel
+1884,Renmin Hospital of Wuhan University,11,Academic,China
+1885,"Research Foundation for Mental Hygiene, Inc.",11,Academic,United States
+1886,Royal Surrey County Hospital NHS Foundation Trust,11,Academic,United Kingdom
+1887,Russian Society of Colorectal Surgeons,11,Academic,Russia
+1888,Rutgers University,11,Academic,United States
+1889,"Sclnow Biotechnology Co., Ltd.",11,Pharma,China
+1890,Serum Institute of India Pvt. Ltd.,11,Academic,India
+1891,ShangHai HaiHe Pharmaceutical,11,Pharma,China
+1892,ShangHai Ji Ai Genetics & IVF Institute,11,Academic,China
+1893,"Shanghai Tongji Hospital, Tongji University School of Medicine",11,Academic,China
+1894,"Shepherd Center, Atlanta GA",11,Academic,United States
+1895,ShuGuang Hospital,11,Academic,China
+1896,Sir Ganga Ram Hospital,11,Academic,India
+1897,Sotio a.s.,11,Pharma,Czech Republic
+1898,St Stephens Aids Trust,11,Academic,United Kingdom
+1899,"State Scientific Centre of Coloproctology, Russian Federation",11,Academic,Russia
+1900,State University of New York - Downstate Medical Center,11,Academic,United States
+1901,Stealth BioTherapeutics Inc.,11,Pharma,United States
+1902,Stockholm University,11,Academic,Sweden
+1903,"Sumitomo Dainippon Pharma Co., Ltd.",11,Pharma,Japan
+1904,"Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd.",11,Pharma,China
+1905,SVS Institute of Dental Sciences,11,Academic,India
+1906,"Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation",11,Academic,Taiwan
+1907,"Tasly Pharmaceuticals, Inc.",11,Pharma,United States
+1908,Uniformed Services University of the Health Sciences,11,Academic,United States
+1909,United BioPharma,11,Pharma,Taiwan
+1910,"Universidad de los Andes, Chile",11,Academic,Chile
+1911,Universidad San Jorge,11,Academic,Spain
+1912,Università degli Studi di Brescia,11,Academic,Italy
+1913,Università degli Studi di Ferrara,11,Academic,Italy
+1914,University Hospital Dubrava,11,Academic,Croatia
+1915,University Hospital Padova,11,Academic,Italy
+1916,University of Kansas,11,Academic,United States
+1917,University of Lincoln,11,Academic,United Kingdom
+1918,University of Messina,11,Academic,Italy
+1919,University of Minho,11,Academic,Portugal
+1920,University of Pavia,11,Academic,Italy
+1921,University of Puerto Rico,11,Academic,Puerto Rico
+1922,University of Stellenbosch,11,Academic,South Africa
+1923,University of Vermont Medical Center,11,Academic,United States
+1924,University of Wyoming,11,Academic,United States
+1925,Veterans Medical Research Foundation,11,Academic,United States
+1926,Viela Bio,11,Pharma,United States
+1927,Vinmec Research Institute of Stem Cell and Gene Technology,11,Academic,Vietnam
+1928,Zeynep Kamil Maternity and Pediatric Research and Training Hospital,11,Academic,Turkey
+1929,Ache Laboratorios Farmaceuticos S.A.,10,Pharma,Brazil
+1930,Adaptimmune,10,Pharma,United States
+1931,"Aduro Biotech, Inc.",10,Pharma,United States
+1932,"Aimmune Therapeutics, Inc.",10,Pharma,United States
+1933,Akcea Therapeutics,10,Pharma,United States
+1934,"Alkahest, Inc.",10,Pharma,United States
+1935,Amicus Therapeutics,10,Pharma,United States
+1936,Andrews Research & Education Foundation,10,Academic,United States
+1937,AOBiome LLC,10,Pharma,United States
+1938,"Aragon Pharmaceuticals, Inc.",10,Pharma,United States
+1939,Ascension South East Michigan,10,Academic,United States
+1940,"AtriCure, Inc.",10,Pharma,United States
+1941,Axovant Sciences Ltd.,10,Pharma,Bermuda
+1942,"Bar-Ilan University, Israel",10,Academic,Israel
+1943,Beijing Children's Hospital,10,Academic,China
+1944,Beijing Ditan Hospital,10,Academic,China
+1945,Beijing Jishuitan Hospital,10,Academic,China
+1946,Biotronik AG,10,Pharma,Switzerland
+1947,Biruni University,10,Academic,Turkey
+1948,Bolton Medical,10,Academic,Spain
+1949,Boston Pharmaceuticals,10,Pharma,United States
+1950,California Pacific Medical Center Research Institute,10,Academic,United States
+1951,CAMC Health System,10,Academic,United States
+1952,Canterbury Christ Church University,10,Academic,United Kingdom
+1953,Cellular Biomedicine Group Ltd.,10,Pharma,United States
+1954,Celyad Oncology SA,10,Pharma,United States
+1955,Centre de Recherche de l'Institut Universitaire de Geriatrie de Montreal,10,Academic,Canada
+1956,Centre Hospitalier le Mans,10,Academic,France
+1957,Centre Hospitalier Universitaire de Pointe-a-Pitre,10,Academic,France
+1958,"Centro Universitario de Ciencias de la Salud, Mexico",10,Academic,Mexico
+1959,Cerecin,10,Pharma,Singapore
+1960,CES University,10,Academic,Colombia
+1961,Children's Hospitals and Clinics of Minnesota,10,Academic,United States
+1962,"Chipscreen Biosciences, Ltd.",10,Pharma,China
+1963,Chongqing Medical University,10,Academic,China
+1964,ClinAmygate,10,Pharma,Egypt
+1965,Composite Interceptive Med Science,10,Pharma,India
+1966,Consorzio Oncotech,10,Academic,Italy
+1967,Croma-Pharma GmbH,10,Pharma,Austria
+1968,"CytoDyn, Inc.",10,Pharma,United States
+1969,Danish Cancer Society,10,Academic,Denmark
+1970,Dasman Diabetes Institute,10,Academic,Kuwait
+1971,Direction Centrale du Service de Santé des Armées,10,Academic,France
+1972,DongGuk University,10,Academic,South Korea
+1973,"DSM Nutritional Products, Inc.",10,Pharma,Turkey
+1974,E-DA Hospital,10,Academic,Taiwan
+1975,ECRI bv,10,Academic,Netherlands
+1976,Elixir Medical Corporation,10,Pharma,United States
+1977,Englewood Hospital and Medical Center,10,Academic,United States
+1978,Epicentre,10,Academic,United States
+1979,Esperion Therapeutics,10,Pharma,United States
+1980,Exelixis,10,Pharma,United States
+1981,Firstkind Ltd,10,Pharma,United Kingdom
+1982,Food and Drug Administration (FDA),10,Academic,United States
+1983,"Foundation for Innovative New Diagnostics, Switzerland",10,Academic,Switzerland
+1984,Fundacio Lluita Contra la SIDA,10,Academic,Spain
+1985,Fuzhou General Hospital,10,Academic,China
+1986,Gachon University Gil Oriental Medical Hospital,10,Academic,South Korea
+1987,Gaziosmanpasa Taksim Research and Education Hospital,10,Academic,Turkey
+1988,German Institute of Human Nutrition,10,Academic,Germany
+1989,Gillette Children's Specialty Healthcare,10,Academic,United States
+1990,"Goldman, Butterwick, Fitzpatrick and Groff",10,Pharma,United States
+1991,"Gradalis, Inc.",10,Pharma,United States
+1992,Groupe d'Etude Therapeutique des Affections Inflammatoires Digestives,10,Academic,France
+1993,Grupo Español de Linfomas y Transplante Autólogo de Médula Ósea,10,Academic,Spain
+1994,Grupo Espanol de Tumores Neuroendocrinos,10,Academic,Spain
+1995,Grupo Espanol Multidisciplinario del Cancer Digestivo,10,Academic,Spain
+1996,Gruppo Oncologico Italiano di Ricerca Clinica,10,Academic,Italy
+1997,Guangzhou Blood Center,10,Academic,China
+1998,Guerbet,10,Pharma,France
+1999,Hallym University Medical Center,10,Academic,South Korea
+2000,Handok Inc.,10,Pharma,South Korea
+2001,Hellenic Cooperative Oncology Group,10,Academic,Germany
+2002,Henan University of Traditional Chinese Medicine,10,Academic,China
+2003,Hepatopancreatobiliary Surgery Institute of Gansu Province,10,Academic,China
+2004,Hitit University,10,Academic,Turkey
+2005,Hospital Sirio-Libanes,10,Academic,Brazil
+2006,"Huons Co., Ltd.",10,Pharma,South Korea
+2007,IBSA Institut Biochimique SA,10,Pharma,Switzerland
+2008,ID3 Medical,10,Academic,Belgium
+2009,InMode MD Ltd.,10,Pharma,United States
+2010,"Institute for the Study of Urological Diseases, Greece",10,Academic,Greece
+2011,Instituto de Investigación Marqués de Valdecilla,10,Academic,Spain
+2012,Italfarmaco,10,Pharma,Italy
+2013,"Janssen Pharmaceutica N.V., Belgium",10,Pharma,Italy
+2014,"Juul Labs, Inc.",10,Pharma,United States
+2015,Kantonsspital Winterthur KSW,10,Academic,Switzerland
+2016,Kosin University Gospel Hospital,10,Academic,South Korea
+2017,Kutahya Medical Sciences University,10,Academic,Turkey
+2018,Kyung Hee University Hospital at Gangdong,10,Academic,South Korea
+2019,Laboratorios Ordesa,10,Pharma,Spain
+2020,Ludwig Institute for Cancer Research,10,Academic,Belgium
+2021,Malmö University,10,Academic,Sweden
+2022,Maltepe University,10,Academic,Canada
+2023,MedDay Pharmaceuticals SA,10,Pharma,France
+2024,MediciNova,10,Pharma,United States
+2025,Mercy Research,10,Academic,United States
+2026,Minneapolis Veterans Affairs Medical Center,10,Academic,United States
+2027,Mongi Slim Hospital,10,Academic,Tunisia
+2028,National Cancer Center Hospital East,10,Academic,Japan
+2029,National Institute of Cancerología,10,Academic,Mexico
+2030,"National Institute of Mental Health and Neuro Sciences, India",10,Academic,India
+2031,"National Research Council, Spain",10,Academic,Spain
+2032,Navamindradhiraj University,10,Academic,Thailand
+2033,Neuroscience Trials Australia,10,Academic,Australia
+2034,NHS Tayside,10,Academic,United Kingdom
+2035,NORCE Norwegian Research Centre AS,10,Academic,Norway
+2036,Norwegian Institute of Public Health,10,Academic,Norway
+2037,"Oregon Research Behavioral Intervention Strategies, Inc.",10,Pharma,United States
+2038,Pediatric Brain Tumor Consortium,10,Academic,United States
+2039,Philip Morris Products S.A.,10,Pharma,United States
+2040,Professor Fernando Figueira Integral Medicine Institute,10,Academic,Brazil
+2041,ProofPilot,10,Pharma,United States
+2042,"Qure Healthcare, LLC",10,Pharma,United States
+2043,Recep Tayyip Erdogan University Training and Research Hospital,10,Academic,Turkey
+2044,Respirent Pharmaceuticals Co Ltd.,10,Pharma,China
+2045,Rowan University,10,Academic,United States
+2046,Sadat City University,10,Academic,Egypt
+2047,"Samsung Bioepis Co., Ltd.",10,Pharma,South Korea
+2048,Sanaria Inc.,10,Pharma,United States
+2049,Sarcoma Alliance for Research through Collaboration,10,Pharma,United States
+2050,Saskatchewan Health Authority - Regina Area,10,Academic,Canada
+2051,"Scynexis, Inc.",10,Pharma,United States
+2052,Children's Research Institute,65,Academic,United States
+2053,"Institute for Food Safety and Health, United States",39,Academic,United States
+2054,Florida Hospital,34,Academic,United States
+2055,Helsinki University,29,Academic,Finland
+2056,University of Science Malaysia,26,Academic,Malaysia
+2057,Array BioPharma,25,Pharma,United States
+2058,"Sichuan Haisco Pharmaceutical Group Co., Ltd.",25,Pharma,China
+2059,Maharishi Markendeswar University,23,Academic,India
+2060,Hennepin Healthcare Research Institute.,20,Academic,United States
+2061,Oslo and Akershus University College of Applied Sciences,20,Academic,Norway
+2062,CJ HealthCare Corporation,19,Pharma,South Korea
+2063,"OncoMed Pharmaceuticals, Inc.",18,Pharma,United States
+2064,Andalusian Initiative for Advanced Therapies - Fundación Pública Andaluza Progreso y Salud,17,Academic,Spain
+2065,Azienda Ospedaliera Spedali Civili di Brescia,17,Academic,Italy
+2066,NewLink Genetics Corporation,17,Pharma,United States
+2067,"Boston Biomedical, Inc",15,Pharma,United States
+2068,IKF Klinische Krebsforschung GmbH at Krankenhaus Nordwest,15,Pharma,Germany
+2069,St. Boniface General Hospital Research Centre,15,Academic,Canada
+2070,argenx BVBA,12,Pharma,Netherlands
+2071,Bioverativ Therapeutics Inc.,12,Pharma,United States
+2072,Plexxikon,12,Pharma,United States
+2073,"Sierra Oncology, Inc.",11,Pharma,United States
+2074,"University of Nebraska, Omaha",11,Academic,United States
+2075,Achillion Pharmaceuticals,10,Pharma,United States
+2076,Baylor Breast Care Center,10,Academic,United States
+2077,Providence VA Medical Center,10,Academic,United States
+2078,Shenyang Northern Hospital,10,Academic,China
+2079,Swiss Paraplegic Centre Nottwil,10,Academic,Switzerland
+2080,Syracuse University,10,Academic,United States
+2081,The Affiliated Hospital of the Chinese Academy of Military Medical Sciences,10,Academic,China
+2082,The Alfred,10,Academic,Australia
+2083,University of Plymouth,10,Academic,United Kingdom
+2084,Wockhardt,10,Pharma,India
+2085,Xeris Pharmaceuticals,10,Pharma,United States
+2086,"Yooyoung Pharmaceutical Co., Ltd.",10,Pharma,South Korea
+2087,Aboca Spa Societa' Agricola,9,Academic,Italy
+2088,Assuta Hospital Systems,9,Academic,Israel
+2089,Avera McKennan Hospital & University Health Center,9,Academic,United States
+2090,Brainsway,9,Academic,Israel
+2091,Celyad (formerly named Cardio3 BioSciences),9,Pharma,Belgium
+2092,Central Finland Hospital District,9,Academic,Finland
+2093,Centro Cardiologico Monzino,9,Academic,Italy
+2094,Cork University Hospital,9,Academic,Ireland
+2095,Dongfang Hospital Beijing University of Chinese Medicine,9,Academic,China
+2096,German Center for Neurodegenerative Diseases (DZNE),9,Academic,Germany
+2097,Hospital Universitario Virgen de la Arrixaca,9,Academic,Spain
+2098,"Kissei Pharmaceutical Co., Ltd.",9,Pharma,Japan
+2099,Lakehead University,9,Academic,Canada
+2100,Massachusetts Institute of Technology,9,Academic,United States
+2101,Navipharm Corporation,9,Pharma,India
+2102,New Approaches to Neuroblastoma Therapy Consortium,9,Academic,United States
+2103,"NuTech Medical, Inc",9,Pharma,United States
+2104,Ospedale Generale Di Zona Moriggia-Pelascini,9,Academic,Italy
+2105,Oswaldo Cruz Foundation,9,Academic,Brazil
+2106,"Otonomy, Inc.",9,Pharma,United States
+2107,Reckitt Benckiser LLC,9,Pharma,United States
+2108,Sangamo Therapeutics,9,Pharma,United States
+2109,Santen Inc.,9,Pharma,United States
+2110,Second Affiliated Hospital of Soochow University,9,Academic,China
+2111,"Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co., Ltd.",9,Pharma,China
+2112,"Shenzhen Hornetcorn Bio-technology Company, LTD",9,Pharma,China
+2113,"Sol-Gel Technologies, Ltd.",9,Pharma,Israel
+2114,Southern Illinois University,9,Academic,United States
+2115,Spectranetics Corporation,9,Pharma,United States
+2116,Stryker European Operations BV,9,Academic,Netherlands
+2117,Sultan Qaboos University,9,Academic,Oman
+2118,Symphogen A/S,9,Pharma,United States
+2119,Taiwan Liposome Company,9,Pharma,Taiwan
+2120,Tel Hai College,9,Academic,Israel
+2121,The Affiliated Hospital of Xuzhou Medical University,9,Academic,China
+2122,The Christ Hospital,9,Academic,United States
+2123,The George Washington University Biostatistics Center,9,Academic,United States
+2124,Tissue Tech Inc.,9,Pharma,United States
+2125,"Tolero Pharmaceuticals, Inc.",9,Pharma,United States
+2126,Universidade Federal do Piauí,9,Academic,Brazil
+2127,University of Mary Hardin-Baylor,9,Academic,United States
+2128,University of Pernambuco,9,Academic,Brazil
+2129,"University of Wisconsin, Milwaukee",9,Academic,United States
+2130,VA Eastern Colorado Health Care System,9,Academic,United States
+2131,West German Study Group,9,Academic,Germany
+2132,Zambon SpA,9,Pharma,Italy
+2133,Abdul Latif Jameel Poverty Action Lab,8,Academic,United States
+2134,Ablynx,8,Pharma,Belgium
+2135,Academisch Ziekenhuis Maastricht,8,Academic,Netherlands
+2136,"Advaxis, Inc.",8,Pharma,United States
+2137,Al-Kindy College of Medicine,8,Academic,Iraq
+2138,Algemeen Ziekenhuis Maria Middelares,8,Academic,Belgium
+2139,"American Regent, Inc.",8,Pharma,United States
+2140,"Beijing Continent Pharmaceutical Co, Ltd.",8,Pharma,China
+2141,BioSerenity,8,Pharma,France
+2142,bluebird bio,8,Pharma,France
+2143,Blueprint Medicines Corporation,8,Pharma,Switzerland
+2144,"Ceevra, Inc.",8,Pharma,United States
+2145,Centrexion Therapeutics,8,Pharma,United States
+2146,Centro Universitário Augusto Motta,8,Academic,Brazil
+2147,CosmoTech,8,Pharma,Japan
+2148,Cumberland Pharmaceuticals,8,Pharma,United States
+2149,"Cyclacel Pharmaceuticals, Inc.",8,Pharma,United States
+2150,Czech Technical University in Prague,8,Academic,Czech Republic
+2151,DBV Technologies,8,Pharma,France
+2152,Dermavant Sciences GmbH,8,Pharma,Germany
+2153,Diurnal Limited,8,Pharma,United Kingdom
+2154,DMG Dental Material Gesellschaft mbH,8,Pharma,Germany
+2155,Dr. Falk Pharma GmbH,8,Pharma,Germany
+2156,Eiger BioPharmaceuticals,8,Pharma,United States
+2157,Entasis Therapeutics,8,Pharma,United States
+2158,Escola Superior de Enfermagem de Coimbra,8,Academic,Portugal
+2159,Ewha Womans University,8,Academic,South Korea
+2160,Finnish Institute of Occupational Health,8,Academic,Finland
+2161,First Affiliated Hospital of Jinan University,8,Academic,China
+2162,"Flexion Therapeutics, Inc.",8,Pharma,United States
+2163,Francis I. Proctor Foundation,8,Academic,United States
+2164,Fraunhofer-Institute of Toxicology and Experimental Medicine,8,Academic,Germany
+2165,"G1 Therapeutics, Inc.",8,Academic,United States
+2166,Galeno Desenvolvimento de Pesquisas Clínicas,8,Academic,Brazil
+2167,George Mason University,8,Academic,United States
+2168,Hallym University Kangnam Sacred Heart Hospital,8,Academic,South Korea
+2169,Hospital Miguel Servet,8,Academic,Spain
+2170,Hospital Moinhos de Vento,8,Academic,Brazil
+2171,Innovacion y Desarrollo de Estrategias en Salud,8,Academic,Mexico
+2172,Institut National de la Recherche Agronomique,8,Academic,France
+2173,Institut Straumann AG,8,Academic,Switzerland
+2174,"Institute of Cardiology, Warsaw, Poland",8,Academic,Poland
+2175,Instituto Bernabeu,8,Academic,Spain
+2176,International AIDS Vaccine Initiative,8,Academic,United States
+2177,"International Partnership for Microbicides, Inc.",8,Pharma,United States
+2178,"IRCCS San Camillo, Venezia, Italy",8,Academic,Italy
+2179,"Ironwood Pharmaceuticals, Inc.",8,Pharma,United States
+2180,Istanbul Bilgi University,8,Academic,Turkey
+2181,Istituto Oncologico Veneto IRCCS,8,Academic,Italy
+2182,Jinan Military General Hospital,8,Academic,China
+2183,Joint Authority for Päijät-Häme Social and Health Care,8,Academic,Finland
+2184,Kantonsspital Aarau,8,Academic,Czech Republic
+2185,Kobe University,8,Academic,Japan
+2186,Korea Cancer Center Hospital,8,Academic,South Korea
+2187,"Kyoto University, Graduate School of Medicine",8,Academic,Japan
+2188,LifeBridge Health,8,Academic,United States
+2189,Maasstad Hospital,8,Academic,Netherlands
+2190,Mead Johnson Nutrition,8,Pharma,United States
+2191,Medinol Ltd.,8,Pharma,Israel
+2192,Medipost Co Ltd.,8,Academic,South Korea
+2193,"Mednax Center for Research, Education, Quality and Safety",8,Academic,United States
+2194,Mercy Health Ohio,8,Academic,United States
+2195,"Mesoblast, Ltd.",8,Pharma,United States
+2196,Midwest Center for Metabolic and Cardiovascular Research,8,Academic,United States
+2197,"Momenta Pharmaceuticals, Inc.",8,Pharma,United States
+2198,Mundipharma (China) Pharmaceutical Co. Ltd,8,Pharma,China
+2199,Myovant Sciences GmbH,8,Pharma,Germany
+2200,Nobel Biocare,8,Pharma,Sweden
+2201,Novindiet Clinic,8,Academic,Iran
+2202,"Oyster Point Pharma, Inc.",8,Pharma,United States
+2203,Parker Research Institute,8,Academic,United States
+2204,Penumbra Inc.,8,Pharma,United States
+2205,Pharmacosmos A/S,8,Pharma,Denmark
+2206,Philips Healthcare,8,Pharma,Netherlands
+2207,Philips Respironics,8,Pharma,United States
+2208,Probi AB,8,Pharma,Sweden
+2209,Qazvin University Of Medical Sciences,8,Academic,Iran
+2210,Queen Saovabha Memorial Institute,8,Academic,Thailand
+2211,Regen Lab SA,8,Pharma,Switzerland
+2212,"Regenexx, LLC",8,Pharma,United States
+2213,"Regionshospitalet Viborg, Skive",8,Academic,Denmark
+2214,Saint Luke's Health System,8,Academic,United States
+2215,Samyang Biopharmaceuticals Corporation,8,Pharma,South Korea
+2216,Sanford Health,8,Academic,United States
+2217,"Santen Pharmaceutical Co., Ltd.",8,Pharma,Japan
+2218,Seqirus,8,Pharma,United Kingdom
+2219,"Shanghai Pharmaceuticals Holding Co., Ltd",8,Pharma,China
+2220,Sichuan Provincial People's Hospital,8,Academic,China
+2221,Silver Cloud Health,8,Academic,United States
+2222,Siriraj Hospital,8,Academic,Thailand
+2223,South Dakota State University,8,Academic,United States
+2224,Spanish Breast Cancer Research Group,8,Academic,Spain
+2225,Spark Therapeutics,8,Pharma,United States
+2226,Sport and Spine Rehab Clinical Research Foundation,8,Academic,United States
+2227,Tata Memorial Centre,8,Academic,India
+2228,"Teachers College, Columbia University",8,Academic,United States
+2229,"The Baruch Padeh Medical Center, Poriya",8,Academic,Israel
+2230,The First Affiliated Hospital of Henan University of Science and Technology,8,Academic,China
+2231,The First Hospital of Qinhuangdao,8,Academic,China
+2232,"The George Institute for Global Health, China",8,Academic,China
+2233,The Guthrie Clinic,8,Academic,United States
+2234,The Rogosin Institute,8,Academic,United States
+2235,The Royal Wolverhampton Hospitals NHS Trust,8,Academic,United Kingdom
+2236,"Therapeutics, Inc.",8,Pharma,United States
+2237,ThinkWell,8,Academic,United States
+2238,Tianjin Medical University General Hospital,8,Academic,China
+2239,Tokyo University,8,Academic,Japan
+2240,Tongji University,8,Academic,China
+2241,"Tonix Pharmaceuticals, Inc.",8,Pharma,United States
+2242,Ulsan University Hospital,8,Academic,South Korea
+2243,Universidad de Valparaiso,8,Academic,Chile
+2244,Universitätsklinikum Köln,8,Academic,Germany
+2245,University Hospital Birmingham NHS Foundation Trust,8,Academic,United Kingdom
+2246,University of Colorado Denver School of Medicine Barbara Davis Center,8,Academic,United States
+2247,University of Groningen,8,Academic,Netherlands
+2248,University of North Texas Health Science Center,8,Academic,United States
+2249,University of Roehampton,8,Academic,United Kingdom
+2250,University of the State of Santa Catarina,8,Academic,Brazil
+2251,University of Tulsa,8,Academic,United States
+2252,University of Vigo,8,Academic,Spain
+2253,US Oncology Research,8,Academic,United States
+2254,Velindre NHS Trust,8,Academic,United Kingdom
+2255,Vietnam National University,8,Academic,Vietnam
+2256,West Park Healthcare Centre,8,Academic,Canada
+2257,William Marsh Rice University,8,Academic,United States
+2258,Wright State University,8,Academic,United States
+2259,"Xencor, Inc.",8,Pharma,United States
+2260,Zeria Pharmaceutical,8,Pharma,Japan
+2261,Zhejiang Hisun Pharmaceutical Co. Ltd.,8,Pharma,China
+2262,Zhejiang Provincial People’s Hospital,8,Academic,China
+2263,"Zogenix, Inc.",8,Pharma,United States
+2264,Zurich University of Applied Sciences,8,Academic,Switzerland
+2265,Zydus Discovery DMCC,8,Pharma,United Arab Emirates
+2266,Adocia,7,Pharma,France
+2267,Affiliated Cancer Hospital & Institute of Guangzhou Medical University,7,Academic,China
+2268,AHEPA University Hospital,7,Academic,Greece
+2269,Ahlia University,7,Academic,Bahrain
+2270,Aksaray University Training and Research Hospital,7,Academic,Turkey
+2271,Alfasigma S.p.A.,7,Pharma,Italy
+2272,"Ancora Heart, Inc.",7,Pharma,United States
+2273,Ankara Training and Research Hospital,7,Academic,Turkey
+2274,Appalachian State University,7,Academic,United States
+2275,Aptinyx,7,Pharma,United States
+2276,"Arcutis, Inc.",7,Pharma,United States
+2277,Arrowhead Pharmaceuticals,7,Pharma,United States
+2278,Ascension Genesys Hospital,7,Academic,United States
+2279,Association pour le Développement et l'Organisation de la Recherche en Pneumologie et sur le Sommeil,7,Academic,France
+2280,Aston University,7,Academic,United Kingdom
+2281,Aultman Health Foundation,7,Academic,United States
+2282,"AveXis, Inc.",7,Pharma,United States
+2283,Azienda Ospedaliera Universitaria Policlinico Paolo Giaccone Palermo,7,Academic,Italy
+2284,Aziende Chimiche Riunite Angelini Francesco S.p.A,7,Pharma,Italy
+2285,B. Braun Melsungen AG,7,Pharma,Germany
+2286,Barzilai Medical Center,7,Academic,Israel
+2287,Bellerophon,7,Pharma,United States
+2288,Biolab Sanus Farmaceutica,7,Pharma,Brazil
+2289,Biosensors Europe SA,7,Pharma,Switzerland
+2290,Boston Urogynecology Associates,7,Academic,United States
+2291,"Bracco Diagnostics, Inc",7,Pharma,United States
+2292,Brandeis University,7,Academic,United States
+2293,California Collaborative Treatment Group,7,Academic,United States
+2294,Can-Fite BioPharma,7,Pharma,Israel
+2295,CancerCare Manitoba,7,Academic,Canada
+2296,"Carevive Systems, Inc.",7,Pharma,United States
+2297,Carl Zeiss Meditec AG,7,Pharma,Germany
+2298,"Castle Creek Pharmaceuticals, LLC",7,Pharma,United States
+2299,Central Clinical Hospital w/Outpatient Health Center of Business Administration for the President of Russian Federation,7,Academic,Russia
+2300,Centre d’Etudes et de Recherche pour l’Intensification du Traitement du Diabète,7,Academic,France
+2301,Centre Hospitalier Esquirol,7,Academic,France
+2302,"Chengdu Kanghong Biotech Co., Ltd.",7,Pharma,China
+2303,Chinese Medical Association,7,Academic,China
+2304,Cinnagen,7,Pharma,Iran
+2305,Clinical Centre of Serbia,7,Academic,Serbia
+2306,"Clinical Research Centre, Malaysia",7,Academic,Malaysia
+2307,Collegium Medicum w Bydgoszczy,7,Academic,Poland
+2308,Constellation Pharmaceuticals,7,Pharma,United States
+2309,Deciphera Pharmaceuticals LLC,7,Pharma,United States
+2310,"Dermira, Inc.",7,Pharma,United States
+2311,Effector Therapeutics,7,Pharma,United States
+2312,"Eloxx Pharmaceuticals, Inc.",7,Pharma,United States
+2313,Enyo Pharma,7,Pharma,France
+2314,"EpicentRx, Inc.",7,Pharma,United States
+2315,Estetra,7,Pharma,Belgium
+2316,Faculdade de Medicina do ABC,7,Academic,Brazil
+2317,Fenway Community Health,7,Academic,United States
+2318,"Five Prime Therapeutics, Inc.",7,Pharma,United States
+2319,Fondazione del Piemonte per l'Oncologia,7,Academic,Italy
+2320,Fondazione Michelangelo,7,Academic,Italy
+2321,Forschungsinstitut der Diabetes Akademie Mergentheim,7,Academic,Germany
+2322,Fresenius Medical Care Deutschland GmbH,7,Pharma,Germany
+2323,"Fu Xing Hospital, Capital Medical University",7,Academic,China
+2324,"Fujifilm Pharmaceuticals U.S.A., Inc.",7,Pharma,United States
+2325,"GeneOne Life Science, Inc.",7,Pharma,South Korea
+2326,General Hospital Groeninge,7,Academic,Belgium
+2327,Genfit,7,Pharma,France
+2328,Georgia Institute of Technology,7,Academic,United States
+2329,Golden Jubilee National Hospital,7,Academic,United Kingdom
+2330,"Government Dental College and Research Institute, Bangalore",7,Academic,India
+2331,Groupe Hospitalier du Havre,7,Academic,France
+2332,GTx,7,Pharma,Switzerland
+2333,Guiyang Medical University,7,Academic,China
+2334,"Hangzhou ACEA Pharmaceutical Research Co., Ltd.",7,Pharma,China
+2335,Hanyang University,7,Academic,China
+2336,Helse Fonna,7,Academic,Norway
+2337,Herning Hospital,7,Academic,Denmark
+2338,Hôpital Européen Marseille,7,Academic,France
+2339,Hospital General de Mexico,7,Academic,Mexico
+2340,Hospital Infantil de Mexico Federico Gomez,7,Academic,Mexico
+2341,Hospital Nossa Senhora da Conceicao,7,Academic,Brazil
+2342,Howard University,7,Academic,United States
+2343,Hua Medicine Limited,7,Pharma,China
+2344,"Humacyte, Inc.",7,Pharma,United States
+2345,Humanity and Health Research Centre,7,Academic,United Kingdom
+2346,iCell Gene Therapeutics,7,Pharma,United States
+2347,Immune Design,7,Pharma,United States
+2348,InCor Heart Institute,7,Academic,Brazil
+2349,Indivior Inc.,7,Pharma,United Kingdom
+2350,InQpharm Group,7,Pharma,Malaysia
+2351,Institut d'Investigació Biomèdica de Girona Dr. Josep Trueta,7,Academic,Spain
+2352,Instituto de Oftalmología Fundación Conde de Valenciana,7,Academic,Mexico
+2353,Instituto Materno Infantil Prof. Fernando Figueira,7,Academic,Brazil
+2354,Intercept Pharmaceuticals,7,Pharma,United States
+2355,International Agency for Research on Cancer,7,Academic,France
+2356,"Intra-Cellular Therapies, Inc.",7,Pharma,United States
+2357,Intuitive Surgical,7,Pharma,United States
+2358,InventisBio Inc.,7,Pharma,China
+2359,Invicro,7,Pharma,United States
+2360,iOMEDICO AG,7,Pharma,Germany
+2361,IRCCS Policlinico S. Donato,7,Academic,Italy
+2362,"Jiangsu Simcere Pharmaceutical Co., Ltd.",7,Pharma,China
+2363,Jilin University,7,Academic,China
+2364,Juravinski Cancer Center,7,Academic,Canada
+2365,Keller Army Community Hospital,7,Academic,United States
+2366,Krankenhaus Nordwest,7,Academic,Germany
+2367,"Kura Oncology, Inc.",7,Pharma,United States
+2368,Kyunghee University,7,Academic,South Korea
+2369,L.V. Prasad Eye Institute,7,Academic,India
+2370,Liverpool School of Tropical Medicine,7,Academic,United Kingdom
+2371,"Lumicell, Inc.",7,Pharma,United States
+2372,LUTRONIC Corporation,7,Pharma,South Korea
+2373,"Matinas BioPharma Nanotechnologies, Inc.",7,Pharma,United States
+2374,MC2 Therapeutics,7,Pharma,Denmark
+2375,"MedPacto, Inc.",7,Pharma,South Korea
+2376,MeiraGTx UK II Ltd,7,Pharma,United Kingdom
+2377,Melanoma Institute Australia,7,Academic,Australia
+2378,MemorialCare Health System,7,Academic,United States
+2379,Menarini Group,7,Pharma,Italy
+2380,Menlo Therapeutics Inc.,7,Pharma,United States
+2381,Mercy Medical Center,7,Academic,United States
+2382,Miami University,7,Academic,United States
+2383,MicroPort CRM,7,Pharma,China
+2384,"Mid-Atlantic Epilepsy and Sleep Center, LLC",7,Pharma,United States
+2385,Midwestern Regional Medical Center,7,Academic,United States
+2386,Miltenyi Biotec GmbH,7,Pharma,Germany
+2387,"MyoKardia, Inc.",7,Academic,United States
+2388,Nanjing University School of Medicine,7,Academic,China
+2389,National Cerebral and Cardiovascular Center,7,Academic,Japan
+2390,"National Institute for Health and Welfare, Finland",7,Academic,Finland
+2391,New England Research Institutes,7,Academic,United States
+2392,NIZO Food Research,7,Pharma,Netherlands
+2393,North Bristol NHS Trust,7,Academic,United Kingdom
+2394,"Onconova Therapeutics, Inc.",7,Pharma,United States
+2395,Oncotherapeutics,7,Pharma,United States
+2396,Oxford Brookes University,7,Academic,United Kingdom
+2397,Palobiofarma SL,7,Pharma,Spain
+2398,PhaseBio Pharmaceuticals Inc.,7,Pharma,United States
+2399,PIQUR Therapeutics AG,7,Pharma,Switzerland
+2400,Portland VA Medical Center,7,Academic,United States
+2401,Poxel SA,7,Pharma,France
+2402,Protalix,7,Pharma,Israel
+2403,"Proteostasis Therapeutics, Inc.",7,Pharma,United States
+2404,"Public Health Foundation Enterprises, Inc.",7,Academic,United States
+2405,Pulmocide Ltd,7,Pharma,United Kingdom
+2406,Qinghai University,7,Academic,China
+2407,Reproductive Medicine Associates of New Jersey,7,Academic,United States
+2408,RHEACELL GmbH & Co. KG,7,Pharma,Germany
+2409,Rhizen Pharmaceuticals SA,7,Pharma,Switzerland
+2410,Saarland University,7,Academic,Germany
+2411,Salus University,7,Academic,United States
+2412,San Antonio Military Medical Center,7,Academic,United States
+2413,San Francisco Veterans Affairs Medical Center,7,Academic,United States
+2414,Sana Klinikum Offenbach,7,Academic,Germany
+2415,"SCARM Institute, Tabriz, Iran",7,Academic,Iran
+2416,"Shanghai Institute of Acupuncture, Moxibustion and Meridian",7,Academic,China
+2417,Shanghai Yueyang Integrated Medicine Hospital,7,Academic,China
+2418,Shanxi Medical University,7,Academic,China
+2419,"Shenyang Sunshine Pharmaceutical Co., LTD.",7,Pharma,China
+2420,SIFI SpA,7,Pharma,Italy
+2421,"Sight Sciences, Inc.",7,Pharma,United States
+2422,"Sinobioway Cell Therapy Co., Ltd.",7,Pharma,China
+2423,Spanish Cooperative Group for the Treatment of Digestive Tumours (TTD),7,Academic,Spain
+2424,Spanish Lung Cancer Group,7,Academic,Spain
+2425,Spine Centre of Southern Denmark,7,Academic,Denmark
+2426,"Spiration, Inc.",7,Pharma,United States
+2427,St Mary's University College,7,Academic,United Kingdom
+2428,St Vincent's Hospital Melbourne,7,Academic,Australia
+2429,"St. James's Hospital, Ireland",7,Academic,Ireland
+2430,Swedish Orphan Biovitrum,7,Academic,Sweden
+2431,Tabriz University of Medical Sciences,7,Academic,Iran
+2432,Taizhou Hospital,7,Academic,China
+2433,"Tetraphase Pharmaceuticals, Inc.",7,Pharma,United States
+2434,Texas Cardiac Arrhythmia Research Foundation,7,Academic,United States
+2435,Texas Christian University,7,Academic,United States
+2436,Themis Bioscience GmbH,7,Pharma,Germany
+2437,Theraclion,7,Pharma,France
+2438,"Theranova, L.L.C.",7,Pharma,United States
+2439,"Toray Industries, Inc",7,Pharma,Japan
+2440,TransMedics,7,Pharma,United States
+2441,Ufuk University,7,Academic,Turkey
+2442,Universidad de Sonora,7,Academic,Mexico
+2443,Universidad Nacional de Colombia,7,Academic,Colombia
+2444,Universidade do Vale do Sapucai,7,Academic,Brazil
+2445,Universidade Ibirapuera,7,Academic,Brazil
+2446,Université du Québec à Trois-Rivières,7,Academic,Canada
+2447,University College London Hospitals,7,Academic,United Kingdom
+2448,University Hospital Olomouc,7,Academic,Czech Republic
+2449,University Hospital Plymouth NHS Trust,7,Academic,United Kingdom
+2450,University of Central Lancashire,7,Academic,United Kingdom
+2451,University of Évora,7,Academic,Portugal
+2452,University of Genova,7,Academic,Italy
+2453,"University of Massachusetts, Boston",7,Academic,United States
+2454,University of Mogi das Cruzes,7,Academic,Brazil
+2455,University of Paris 13,7,Academic,France
+2456,University of Prince Edward Island,7,Academic,Canada
+2457,University of Rhode Island,7,Academic,United States
+2458,University of Rzeszow,7,Academic,Poland
+2459,"University of Social Sciences and Humanities, Warsaw",7,Academic,Poland
+2460,University of the Incarnate Word,7,Academic,United States
+2461,University of Witten/Herdecke,7,Academic,Germany
+2462,"University Rehabilitation Institute, Republic of Slovenia",7,Academic,Slovenia
+2463,University Women's Hospital Tübingen,7,Academic,Germany
+2464,Urovant Sciences GmbH,7,Pharma,Germany
+2465,VA Pittsburgh Healthcare System,7,Academic,United States
+2466,Vaxart,7,Pharma,United States
+2467,Verona Pharma plc,7,Pharma,United Kingdom
+2468,Vestre Viken Hospital Trust,7,Academic,Norway
+2469,Wakayama Medical University,7,Academic,Japan
+2470,Woman's,7,NA,NA
+2471,Women's Hospital School Of Medicine Zhejiang University,7,Academic,China
+2472,Wright State Physicians,7,Academic,United States
+2473,Youngstown State University,7,Academic,United States
+2474,Zhongshan Hospital Xiamen University,7,Academic,China
+2475,"Aadi, LLC",6,Pharma,United States
+2476,Abide Therapeutics,6,Pharma,United States
+2477,Abington Memorial Hospital,6,Academic,United States
+2478,Achieve Life Sciences,6,Pharma,United States
+2479,ADIR Association,6,Pharma,France
+2480,Aeglea Biotherapeutics,6,Pharma,United States
+2481,Aevi Genomic Medicine,6,Pharma,United States
+2482,"Aier School of Ophthalmology, Central South University",6,Academic,China
+2483,AKARI Therapeutics,6,Pharma,United States
+2484,Albireo,6,Pharma,United States
+2485,Allecra,6,Pharma,France
+2486,"Allist Pharmaceuticals, Inc.",6,Pharma,China
+2487,American College of Radiology Imaging Network,6,Academic,United States
+2488,Amplyx Pharmaceuticals,6,Pharma,United States
+2489,"AnaptysBio, Inc.",6,Pharma,United States
+2490,ApoPharma,6,Pharma,Canada
+2491,Aquestive Therapeutics,6,Pharma,United States
+2492,ARDEC Academy,6,Academic,United States
+2493,Ardelyx,6,Pharma,United States
+2494,ArQule,6,Pharma,United States
+2495,AryoGen Pharmed Co.,6,Pharma,Iran
+2496,Ascendis Pharma A/S,6,Pharma,Denmark
+2497,ASST Gaetano Pini-CTO,6,Pharma,Italy
+2498,Atara Biotherapeutics,6,Pharma,United States
+2499,Austin Health,6,Academic,United States
+2500,Australasian Gastro-Intestinal Trials Group,6,Academic,Australia
+2501,Beijing Hospital of Traditional Chinese Medicine,6,Academic,China
+2502,"Beijing Immunochina Medical Science & Technology Co., Ltd.",6,Academic,China
+2503,Beijing University of Chinese Medicine,6,Academic,China
+2504,Biocon Limited,6,Pharma,India
+2505,BioElectronics Corporation,6,Pharma,United States
+2506,"BioMimetix JV, LLC",6,Pharma,United States
+2507,Blokhin's Russian Cancer Research Center,6,Academic,Russia
+2508,Bone Therapeutics S.A,6,Pharma,Belgium
+2509,Bozyaka Training and Research Hospital,6,Academic,Turkey
+2510,BrainsGate,6,Pharma,Israel
+2511,"Brickell Biotech, Inc.",6,Pharma,United States
+2512,Brighton and Sussex University Hospitals NHS Trust,6,Academic,United Kingdom
+2513,Broca Hospital,6,Academic,France
+2514,Butantan Institute,6,Academic,Brazil
+2515,Cardiochirurgia E.H.,6,Academic,Italy
+2516,"Catalyst Pharmaceuticals, Inc.",6,Pharma,United States
+2517,Ceck Cap Ltd.,6,Pharma,Israel
+2518,Center for International Blood and Marrow Transplant Research,6,Academic,United States
+2519,"Center for Social Innovation, Massachusetts",6,Academic,United States
+2520,Centre for the AIDS Programme of Research in South Africa,6,Academic,South Africa
+2521,Centro de Investigación en Alimentación y Desarrollo A.C.,6,Academic,Mexico
+2522,Chelsea and Westminster NHS Foundation Trust,6,Academic,United Kingdom
+2523,ChemoCentryx,6,Pharma,United States
+2524,Chiba University,6,Academic,Japan
+2525,Children's Hospital of Chongqing Medical University,6,Academic,China
+2526,Chr Hansen,6,Pharma,Denmark
+2527,Chuncheon Sacred Heart Hospital,6,Academic,South Korea
+2528,Clear Guide Medical,6,Pharma,United States
+2529,"Clearside Biomedical, Inc.",6,Pharma,United States
+2530,Connecticut Children's Medical Center,6,Academic,United States
+2531,"Consorcio Centro de Investigación Biomédica en Red, M.P.",6,Academic,Spain
+2532,Copenhagen Academy for Medical Education and Simulation,6,Academic,Denmark
+2533,"CVRx, Inc.",6,Pharma,United States
+2534,"CymaBay Therapeutics, Inc.",6,Pharma,United States
+2535,Daegu Catholic University Medical Center,6,Academic,South Korea
+2536,"Daewon Pharmaceutical Co., Ltd.",6,Pharma,South Korea
+2537,"Derm Research, PLLC",6,Pharma,United States
+2538,Dr Cipto Mangunkusumo General Hospital,6,Pharma,Indonesia
+2539,"EddingPharm Oncology Co., LTD.",6,Pharma,China
+2540,Elisabeth-TweeSteden Ziekenhuis,6,Pharma,Netherlands
+2541,Endologix,6,Pharma,United States
+2542,Erevna Innovations Inc.,6,Pharma,Canada
+2543,European Myeloma Network,6,Academic,Germany
+2544,Evidation Health,6,Pharma,United States
+2545,Ewha Womans University Mokdong Hospital,6,Academic,South Korea
+2546,Exalenz Bioscience LTD.,6,Pharma,United States
+2547,Federal University of the Valleys of Jequitinhonha and Mucuri,6,Academic,Brazil
+2548,Flanders Medical Research Program,6,Academic,Belgium
+2549,Flatley Discovery Lab LLC,6,Pharma,United States
+2550,Flinders University,6,Academic,Australia
+2551,"Fondazione G.B. Bietti, IRCCS",6,Academic,Italy
+2552,"Foresee Pharmaceuticals Co., Ltd.",6,Pharma,China
+2553,"Forty Seven, Inc.",6,Pharma,United States
+2554,Fujian Medical University Union Hospital,6,Academic,China
+2555,Fundacao Champalimaud,6,Pharma,Portugal
+2556,Fundació Institut Germans Trias i Pujol,6,Academic,Spain
+2557,Fundacion SEIMC-GESIDA,6,Academic,Spain
+2558,GL Pharm Tech Corporation,6,Pharma,South Korea
+2559,Golden Biotechnology Corporation,6,Pharma,Taiwan
+2560,Gossamer Bio Inc.,6,Pharma,United States
+2561,Groupe Hospitalier de la Region de Mulhouse et Sud Alsace,6,Academic,France
+2562,Grupo de Investigación Clínica en Oncología Radioterapia,6,Academic,Spain
+2563,Grupo Español de Investigación en Cáncer de Ovario,6,Academic,Spain
+2564,Grupo Español de Investigación en Neurooncología,6,Academic,Spain
+2565,Guangzhou First People's Hospital,6,Academic,China
+2566,Guangzhou Women and Children's Medical Center,6,Academic,China
+2567,Harvard Pilgrim Health Care,6,Academic,United States
+2568,HeadSense Medical,6,Pharma,Israel
+2569,Hebrew University of Jerusalem,6,Academic,Israel
+2570,Heptares Therapeutics Limited,6,Pharma,United Kingdom
+2571,Home Skinovations Ltd.,6,Pharma,Canada
+2572,Hôpital du Valais,6,Academic,Switzerland
+2573,Hospital Central Dr. Ignacio Morones Prieto,6,Academic,Mexico
+2574,Hospital Mutua de Terrassa,6,Academic,Spain
+2575,Hospital of South West Jutland,6,Academic,Denmark
+2576,Hospital Son Espases,6,Academic,Spain
+2577,Hospital Universitario La Fe,6,Academic,Spain
+2578,HTL-Strefa S.A.,6,Pharma,Poland
+2579,Hubei Cancer Hospital,6,Academic,China
+2580,Hugel,6,Pharma,South Korea
+2581,Humanitas Clinical and Research Center,6,Academic,Italy
+2582,"Idera Pharmaceuticals, Inc.",6,Pharma,United States
+2583,Igenomix,6,Pharma,Mexico
+2584,"Il-Yang Pharm. Co., Ltd.",6,Pharma,South Korea
+2585,"ImmunoGen, Inc.",6,Pharma,United States
+2586,"Immunovative Therapies, Ltd.",6,Pharma,Israel
+2587,Impulse Dynamics,6,Pharma,United States
+2588,"InGeneron, Inc.",6,Pharma,United States
+2589,Inha University Hospital,6,Academic,South Korea
+2590,Inmunotek S.L.,6,Pharma,Spain
+2591,Institut de Recerca Biomèdica de Lleida,6,Academic,Spain
+2592,Institut de Recherche Biomedicale des Armees,6,Academic,Spain
+2593,Institut Guttmann,6,Academic,Spain
+2594,"Institute of Mental Health, Singapore",6,Academic,Singapore
+2595,Instituto Nacional de Enfermedades Respiratorias,6,Academic,Mexico
+2596,Integra LifeSciences Corporation,6,Pharma,United States
+2597,International Piezosurgery Academy,6,Academic,Italy
+2598,"Iovance Biotherapeutics, Inc.",6,Pharma,United States
+2599,"Islamic Azad University, Tehran",6,Academic,Iran
+2600,Jawaharlal Institute of Postgraduate Medical Education & Research,6,Academic,India
+2601,"Jiangsu T-Mab Biopharma Co.,Ltd",6,Pharma,China
+2602,"Juno Therapeutics, Inc.",6,Pharma,United States
+2603,Kansas State University,6,Academic,United States
+2604,Kaohsiung Medical University,6,Academic,Taiwan
+2605,KGK Science Inc.,6,Pharma,Canada
+2606,King Fahad Medical City,6,Academic,Saudi Arabia
+2607,KLE Society's Institute of Dental Sciences,6,Academic,India
+2608,Kocaeli Derince Education and Research Hospital,6,Academic,Turkey
+2609,"Korea Otsuka Pharmaceutical Co., Ltd.",6,Pharma,South Korea
+2610,Kwong Wah Hospital,6,Academic,China
+2611,Laboratoires URGO,6,Pharma,France
+2612,Landspitali University Hospital,6,Academic,Iceland
+2613,LanZhou University,6,Academic,China
+2614,Larissa University Hospital,6,Academic,Greece
+2615,Le Bonheur Children's Hospital,6,Academic,United States
+2616,"Leap Therapeutics, Inc.",6,Pharma,United States
+2617,Liverpool Heart and Chest Hospital NHS Foundation Trust,6,Academic,United Kingdom
+2618,Livzon Pharmaceutical Group Inc.,6,Pharma,China
+2619,Lovisenberg Diakonale Hospital,6,Academic,Norway
+2620,Marinus Pharmaceuticals,6,Pharma,United States
+2621,Masaryk University,6,Academic,Czech Republic
+2622,Medacta USA,6,Pharma,United States
+2623,Medtronic BRC,6,Pharma,Netherlands
+2624,Melbourne Health,6,Academic,Australia
+2625,Metabolic Technologies Inc.,6,Pharma,United States
+2626,"Millendo Therapeutics, Inc.",6,Pharma,United States
+2627,"Ministry of Health, Malaysia",6,Academic,Malaysia
+2628,Minneapolis Heart Institute Foundation,6,Academic,United States
+2629,"miRagen Therapeutics, Inc.",6,Pharma,United States
+2630,"Mochida Pharmaceutical Company, Ltd.",6,Pharma,Japan
+2631,MolMed S.p.A.,6,Pharma,Italy
+2632,MorphoSys AG,6,Pharma,Germany
+2633,Motus GI Medical Technologies Ltd,6,Pharma,United States
+2634,Mundipharma Korea Ltd,6,Pharma,South Korea
+2635,Mustafa Kemal University,6,Academic,Turkey
+2636,N.N. Petrov National Medical Research Center of Oncology,6,Academic,Russia
+2637,Nabriva Therapeutics AG,6,Pharma,Ireland
+2638,"NanOlogy, LLC",6,Pharma,United States
+2639,"National Development and Research Institutes, Inc.",6,Academic,United States
+2640,"National Health Promotion Associates, Inc.",6,Pharma,United States
+2641,"National Institute for Tuberculosis and Lung Diseases, Poland",6,Academic,Poland
+2642,"National Institute of Cardiology, Laranjeiras, Brazil",6,Academic,Brazil
+2643,"National Research Center for Hematology, Russia",6,Academic,Russia
+2644,National Taiwan University,6,Academic,Taiwan
+2645,Next Science TM,6,Pharma,Australia
+2646,Ningbo No. 1 Hospital,6,Academic,China
+2647,Nordic Society of Gynaecological Oncology - Clinical Trials Unit,6,Academic,Denmark
+2648,Nordlandssykehuset HF,6,Academic,Norway
+2649,Norfolk and Norwich University Hospitals NHS Foundation Trust,6,Academic,United Kingdom
+2650,"Northside Hospital, Inc.",6,Academic,United States
+2651,"Novan, Inc.",6,Pharma,United States
+2652,NYU College of Dentistry,6,Academic,United States
+2653,"OBI Pharma, Inc",6,Pharma,Taiwan
+2654,Oncopeptides AB,6,Pharma,Sweden
+2655,Orphazyme,6,Pharma,Denmark
+2656,Osaka University,6,Academic,Japan
+2657,Pacific Institute for Research and Evaluation,6,Academic,United States
+2658,Paion UK Ltd.,6,Pharma,United Kingdom
+2659,Panam Clinic,6,Academic,Canada
+2660,Paratek Pharmaceuticals Inc,6,Pharma,United States
+2661,"Peloton Therapeutics, Inc.",6,Pharma,United States
+2662,"Pharmazz, Inc.",6,Pharma,United States
+2663,PHARMENTERPRISES LLC,6,Pharma,United States
+2664,PharmEvo Pvt Ltd,6,Pharma,Pakistan
+2665,Pierre Fabre Medicament,6,Pharma,France
+2666,Pirogov Russian National Research Medical University,6,Academic,Russia
+2667,Portsmouth Hospitals NHS Trust,6,Academic,United Kingdom
+2668,PROCEPT BioRobotics,6,Pharma,United States
+2669,Professional Education and Research Institute,6,Academic,Israel
+2670,Prolong Pharmaceuticals,6,Pharma,United States
+2671,ProQR Therapeutics,6,Pharma,Netherlands
+2672,Psychiatric Centre Rigshospitalet,6,Academic,Denmark
+2673,"Psychiatric Research Unit, Region Zealand, Denmark",6,Academic,Denmark
+2674,Qingdao University,6,Academic,China
+2675,Quadram Institute Bioscience,6,Pharma,United Kingdom
+2676,Ra Pharmaceuticals,6,Pharma,Israel
+2677,Rainbow Medical,6,Academic,Israel
+2678,"Rajiv Gandhi Cancer Institute & Research Center, India",6,Academic,India
+2679,Real Fundación Victoria Eugenia,6,Academic,Spain
+2680,Rochester General Hospital,6,Academic,United States
+2681,Rocket Pharmaceuticals Inc.,6,Pharma,United States
+2682,Roger Williams Medical Center,6,Academic,United States
+2683,San Salvatore Hospital of L'Aquila,6,Academic,Italy
+2684,Sciton,6,Pharma,Ukraine
+2685,SEAMEO Regional Centre for Food and Nutrition,6,Academic,Indonesia
+2686,Seoul National University,6,Academic,South Korea
+2687,Shanghai Children's Medical Center,6,Academic,China
+2688,Shanghai Eye Disease Prevention and Treatment Center,6,Academic,China
+2689,"Shanghai GeneChem Co., Ltd.",6,Academic,China
+2690,Shanghai Institute Of Biological Products,6,Pharma,China
+2691,Shenandoah University,6,Academic,United States
+2692,Shiga University,6,Academic,Japan
+2693,"Shockwave Medical, Inc.",6,Pharma,United States
+2694,Sino Medical Sciences Technology Inc.,6,Pharma,China
+2695,Société Française d'Endoscopie Digestive,6,Academic,France
+2696,Soonchunhyang University Hospital,6,Academic,South Korea
+2697,Soul Medicine Institute,6,Academic,South Korea
+2698,"Southern Medical University, China",6,Academic,China
+2699,SPD Development Company Limited,6,Pharma,United Kingdom
+2700,"SPR Therapeutics, Inc.",6,Pharma,United States
+2701,"Spring Bank Pharmaceuticals, Inc.",6,Pharma,United States
+2702,"St Patrick's Hospital, Ireland",6,Academic,Ireland
+2703,"Stemline Therapeutics, Inc.",6,Pharma,United States
+2704,Suleyman Demirel University,6,Academic,Turkey
+2705,"Sultan Abdulhamid Han Training and Research Hospital, Istanbul, Turkey",6,Academic,Turkey
+2706,Sunnaas Rehabilitation Hospital,6,Academic,Norway
+2707,"Supplement Formulators, Inc.",6,Pharma,United States
+2708,Suven Life Sciences Limited,6,Pharma,India
+2709,SymBio Pharmaceuticals,6,Pharma,Japan
+2710,"Taiho Pharmaceutical Co., Ltd.",6,Pharma,Japan
+2711,Takara Bio Inc.,6,Pharma,Japan
+2712,Taris Biomedical LLC,6,Pharma,United States
+2713,Tartu University Hospital,6,Academic,Estonia
+2714,Tata Medical Center,6,Academic,India
+2715,Thai Red Cross AIDS Research Centre,6,Academic,Thailand
+2716,"The Adelaide and Meath Hospital, incorporating The National Children's Hospital",6,Academic,Ireland
+2717,The Hawkins Foundation,6,Academic,United States
+2718,"The Institute of Molecular and Translational Medicine, Czech Republic",6,Academic,Czech Republic
+2719,The Third Affiliated Hospital of Southern Medical University,6,Academic,China
+2720,The University of Texas Health Science Center at Tyler,6,Academic,United States
+2721,"Tianjin Hemay Pharmaceutical Co.,Ltd",6,Pharma,China
+2722,Tianjin Medical University,6,Academic,China
+2723,Tianjin Medical University Second Hospital,6,Academic,China
+2724,Toyos Clinic,6,Academic,United States
+2725,Transgene,6,Pharma,France
+2726,Translational Biosciences,6,Pharma,United States
+2727,UniQure Biopharma B.V.,6,Pharma,Netherlands
+2728,Universidad Francisco de Vitoria,6,Academic,Spain
+2729,Universidad Nacional de Educación a Distancia,6,Academic,Spain
+2730,Universidad Politecnica de Madrid,6,Academic,Spain
+2731,Universidade da Coruña,6,Academic,Spain
+2732,Universidade do Vale do Paraíba,6,Academic,Brazil
+2733,Universidade Federal de Sergipe,6,Academic,Brazil
+2734,Universidade Federal do vale do São Francisco,6,Academic,Brazil
+2735,Università degli Studi di Sassari,6,Academic,Italy
+2736,Universitat Pompeu Fabra,6,Academic,Spain
+2737,University College of Northern Denmark,6,Academic,Denmark
+2738,University Hospitals of North Midlands NHS Trust,6,Academic,United Kingdom
+2739,University Medical Center Goettingen,6,Academic,Germany
+2740,University Medical Center of Southern Nevada,6,Academic,United States
+2741,University of Adelaide,6,Academic,Australia
+2742,University of Applied Sciences and Arts of Southern Switzerland,6,Academic,Switzerland
+2743,University of Bedfordshire,6,Academic,United Kingdom
+2744,University of Cyprus,6,Academic,Cyprus
+2745,University of Erlangen-Nürnberg,6,Academic,Germany
+2746,University of Fribourg,6,Academic,Switzerland
+2747,University of Indianapolis,6,Academic,United States
+2748,University of Ljubljana,6,Academic,Slovenia
+2749,University of New Brunswick,6,Academic,United States
+2750,University of Notre Dame,6,Academic,Lebanon
+2751,"University of Novi Sad, Faculty of Sport and Physical Education",6,Academic,Serbia
+2752,University of Rostock,6,Academic,Germany
+2753,University of Tennessee Health Science Center,6,Academic,United States
+2754,University of Vienna,6,Academic,Austria
+2755,University of York,6,Academic,United States
+2756,University of Zimbabwe,6,Academic,Zimbabwe
+2757,Urotronic Inc.,6,Pharma,United States
+2758,Valneva Austria GmbH,6,Pharma,Austria
+2759,Västerbotten County Council,6,Academic,Sweden
+2760,Vendsyssel Hospital,6,Academic,Vietnam
+2761,Vinmec Healthcare System,6,Academic,Denmark
+2762,Viriom,6,Pharma,United States
+2763,Western Regional Medical Center,6,Academic,United States
+2764,William Beaumont Army Medical Center,6,Academic,United States
+2765,"Woman's Health University Hospital, Egypt",6,Academic,Egypt
+2766,X4 Pharmaceuticals,6,Pharma,United States
+2767,"XBiotech, Inc.",6,Pharma,United States
+2768,Xiamen University,6,Academic,China
+2769,Y-mAbs Therapeutics,6,Pharma,United States
+2770,Ziopharm,6,Pharma,United States
+2771,3-C Institute for Social Development,5,Pharma,United States
+2772,"3D Medicines (Sichuan) Co., Ltd.",5,Pharma,China
+2773,424 General Military Hospital,5,Academic,Greece
+2774,"AB Biotics, SA",5,Pharma,Spain
+2775,Abbott Medical Optics,5,Pharma,United States
+2776,Actinium Pharmaceuticals,5,Pharma,United States
+2777,Addiction Recovery Research Center,5,Academic,United States
+2778,Aeras,5,Pharma,France
+2779,"Akili Interactive Labs, Inc.",5,Pharma,United States
+2780,Akros Pharma Inc.,5,Pharma,United States
+2781,Alder Hey Children's NHS Foundation Trust,5,Academic,United Kingdom
+2782,Alector Inc.,5,Pharma,United States
+2783,AlloVir,5,Pharma,United States
+2784,American University,5,Academic,United States
+2785,Anavex Life Sciences Corp.,5,Pharma,United States
+2786,Anderson Orthopaedic Research Institute,5,Academic,United States
+2787,Anglia Ruskin University,5,Academic,United Kingdom
+2788,Ankara Diskapi Training and Research Hospital,5,Academic,Turkey
+2789,Anthera Pharmaceuticals,5,Pharma,United States
+2790,AntibioTx A/S,5,Pharma,Denmark
+2791,Applied Genetic Technologies Corp,5,Pharma,United States
+2792,Aprea Therapeutics AB,5,Pharma,China
+2793,Aptevo Therapeutics,5,Pharma,United States
+2794,Ark Biosciences Inc.,5,Pharma,United States
+2795,"ArmaGen, Inc",5,Pharma,United States
+2796,Asahi Kasei Pharma Corporation,5,Pharma,Japan
+2797,Asklepieion Voulas General Hospital,5,Academic,Greece
+2798,Association Pour La Recherche des Thérapeutiques Innovantes en Cancérologie,5,Academic,France
+2799,ASST Fatebenefratelli Sacco,5,Academic,Italy
+2800,Augenabteilung Allgemeines Krankenhaus Linz,5,Academic,Denmark
+2801,Aurinia Pharmaceuticals Inc.,5,Pharma,Canada
+2802,Australian and New Zealand Urogenital and Prostate Cancer Trials Group,5,Pharma,Australia
+2803,Autolus Limited,5,Pharma,United Kingdom
+2804,Avita Medical,5,Pharma,United Kingdom
+2805,Azienda di Servizi alla Persona di Pavia,5,Pharma,Italy
+2806,Azienda Ospedaliera Specializzata in Gastroenterologia Saverio de Bellis,5,Academic,Italy
+2807,Azienda Ospedaliero-Universitaria Consorziale,5,Academic,Italy
+2808,Azienda Ospedaliero-Universitaria di Parma,5,Academic,Italy
+2809,Bassett Healthcare,5,Academic,United States
+2810,Bedford Hospital NHS Trust,5,Academic,United Kingdom
+2811,"Beijing Doing Biomedical Co., Ltd.",5,Pharma,China
+2812,Beijing HuiLongGuan Hospital,5,Academic,China
+2813,Beijing Obstetrics and Gynecology Hospital,5,Academic,China
+2814,Ben-Gurion University of the Negev,5,Academic,Israel
+2815,BerGenBio ASA,5,Pharma,Norway
+2816,Bernafon AG,5,Pharma,Switzerland
+2817,"Beta Pharma, Inc.",5,Pharma,China
+2818,"BioLite, Inc.",5,Pharma,United States
+2819,"BioPharmX, Inc.",5,Pharma,United States
+2820,Bioprojet,5,Pharma,France
+2821,"Biotech Pharmaceutical Co., Ltd.",5,Pharma,China
+2822,Biotest,5,Pharma,United States
+2823,Biotie Therapies Inc.,5,Pharma,Finland
+2824,"Biotronik, Inc.",5,Pharma,United States
+2825,Birmingham Women's NHS Foundation Trust,5,Academic,United Kingdom
+2826,Bloodworks,5,Academic,United States
+2827,Blythedale Children's Hospital,5,Academic,United States
+2828,Borstkanker Onderzoek Groep,5,Academic,Netherlands
+2829,Bradley Hospital,5,Academic,United States
+2830,Braeburn Pharmaceuticals,5,Pharma,United States
+2831,Brain Sentinel,5,Pharma,United States
+2832,"Bridge Biotherapeutics, Inc.",5,Pharma,South Korea
+2833,British University In Egypt,5,Academic,Egypt
+2834,Bronx VA Medical Center,5,Academic,United States
+2835,BTG International Inc.,5,Pharma,United States
+2836,"C2 Therapeutics, Inc.",5,Pharma,United States
+2837,California Retina Consultants,5,Academic,United States
+2838,Canadian Immunization Research Network,5,Academic,Canada
+2839,Canandaigua VA Medical Center,5,Academic,United States
+2840,"Cancer Insight, LLC",5,Academic,United States
+2841,"Cancer Prevention and Research Institute, Italy",5,Academic,Italy
+2842,"Cantonal Hosptal, Baselland",5,Academic,Switzerland
+2843,"Carsgen Therapeutics, Ltd.",5,Pharma,China
+2844,Cassiopea SpA,5,Pharma,Italy
+2845,Cefaly Technology,5,Pharma,United States
+2846,Cellectis S.A.,5,Pharma,United States
+2847,Celon Pharma SA,5,Pharma,Poland
+2848,Celularity Incorporated,5,Pharma,United States
+2849,Center for Human Reproduction,5,Academic,United States
+2850,"Centre for Human Drug Research, Netherlands",5,Academic,Netherlands
+2851,Centre for Infectious Disease Research in Zambia,5,Academic,Zambia
+2852,Centre Hospitalier Annecy Genevois,5,Academic,France
+2853,Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer,5,Academic,France
+2854,Centre Hospitalier National d'Ophtalmologie des Quinze-Vingts,5,Academic,France
+2855,Centre Hospitalier René Dubos,5,Academic,France
+2856,Centro de Atenção ao Assoalho Pélvico,5,Academic,Brazil
+2857,Centro Mente Aberta de Mindfulness,5,Academic,Brazil
+2858,Cerus Corporation,5,Pharma,United States
+2859,Chestnut Health Systems,5,Academic,United States
+2860,"Children's Cancer Group, China",5,Academic,China
+2861,"Church & Dwight Company, Inc.",5,Pharma,United States
+2862,Claude Bernard University,5,Academic,France
+2863,Clementia Pharmaceuticals Inc.,5,Pharma,Canada
+2864,Clene Nanomedicine,5,Pharma,United States
+2865,Cleveland State University,5,Academic,United States
+2866,Clinical Laserthermia Systems AB,5,Pharma,Sweden
+2867,Clinique Beau Soleil,5,Academic,France
+2868,Cognition Therapeutics,5,Pharma,United States
+2869,Collaborative Medicinal Development Pty Limited,5,Pharma,United States
+2870,Complexo Hospitalario Universitario de A Coruña,5,Academic,Spain
+2871,Concentric Analgesics,5,Pharma,United States
+2872,"Concordia University, Montreal",5,Academic,Canada
+2873,CONRAD,5,Pharma,Germany
+2874,Consorci Sanitari de Terrassa,5,Academic,Spain
+2875,"ContraVir Pharmaceuticals, Inc.",5,Pharma,United States
+2876,Cook MyoSite,5,Pharma,United States
+2877,"Cooperativa de Ensino Superior, Politécnico e Universitário",5,Academic,Portugal
+2878,Corbus Pharmaceuticals Inc.,5,Pharma,United States
+2879,Corium International Inc.,5,Pharma,United States
+2880,Cornea and Laser Eye Institute,5,Academic,United States
+2881,Cortendo AB,5,Pharma,United States
+2882,"Criterium, Inc.",5,Pharma,United States
+2883,"CryoLife, Inc.",5,Pharma,United States
+2884,Cttq,5,Pharma,China
+2885,"Curis, Inc.",5,Pharma,United States
+2886,Cytokinetics,5,Pharma,United States
+2887,CytomX Therapeutics,5,Pharma,United States
+2888,"Cytrellis Biosystems, Inc.",5,Pharma,United States
+2889,"Dalarna County Council, Sweden",5,Academic,Sweden
+2890,Dalian University,5,Academic,China
+2891,Danish Breast Cancer Cooperative Group,5,Academic,Denmark
+2892,DeNova Research,5,Academic,United States
+2893,Derby Hospitals NHS Foundation Trust,5,Academic,United Kingdom
+2894,Diagram B.V.,5,Academic,United States
+2895,"Dicerna Pharmaceuticals, Inc.",5,Pharma,United States
+2896,"Dizal (Jiangsu) Pharmaceutical Co., Ltd.",5,Pharma,China
+2897,Dong-A University Hospital,5,Academic,South Korea
+2898,Douglas Mental Health University Institute,5,Academic,Canada
+2899,Dr. Negrin University Hospital,5,Academic,Spain
+2900,DS Biopharma,5,Pharma,Ireland
+2901,Endocyte,5,Pharma,United States
+2902,EndoGastric Solutions,5,Pharma,United States
+2903,Erchonia Corporation,5,Pharma,United States
+2904,Ersta Sköndal University College,5,Academic,Sweden
+2905,ERYtech Pharma,5,Pharma,France
+2906,"EuroPharma, Inc.",5,Pharma,United States
+2907,Evangelismos Hospital,5,Academic,Cyprus
+2908,Faculty Hospital Kralovske Vinohrady,5,Academic,Czech Republic
+2909,Fate Therapeutics,5,Pharma,United States
+2910,"Federal State Budgetary Institution, V. A. Almazov Federal North-West Medical Research Centre, of the Ministry of Health",5,Academic,Russia
+2911,First Affiliated Hospital of Chengdu Medical College,5,Academic,China
+2912,First Affiliated Hospital of Chongqing Medical University,5,Academic,China
+2913,"Five Eleven Pharma, Inc.",5,Pharma,United States
+2914,Florida Gulf Coast University,5,Academic,United States
+2915,Fondazione Ricerca Traslazionale,5,Academic,Italy
+2916,"Forma Therapeutics, Inc.",5,Pharma,United States
+2917,Foundation for Liver Research,5,Academic,United Kingdom
+2918,Fraunhofer Institute for Molecular Biology and Applied Ecology,5,Academic,Germany
+2919,Fresenius Kabi SwissBioSim GmbH,5,Pharma,Switzerland
+2920,"Fuji Yakuhin Co., Ltd.",5,Pharma,Japan
+2921,Fundação Educacional Serra dos Órgãos,5,Academic,Brazil
+2922,Fundación Cardiovascular de Colombia,5,Academic,Colombia
+2923,Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III,5,Academic,Spain
+2924,Fundación de investigación HM,5,Academic,Spain
+2925,Fundación Instituto de Estudios de Ciencias de la Salud de Castilla y León,5,Academic,Spain
+2926,Fundación Marques de Valdecilla,5,Academic,Spain
+2927,Fundación Universitaria CIEO,5,Academic,Colombia
+2928,Fytexia,5,Pharma,United States
+2929,"Gelesis, Inc.",5,Pharma,United States
+2930,Generon (Shanghai) Corporation Ltd.,5,Pharma,China
+2931,Genethon,5,Pharma,France
+2932,GenSight Biologics,5,Pharma,France
+2933,George Papanicolaou Hospital,5,Academic,Greece
+2934,Gesellschaft fur Medizinische Innovation – Hamatologie und Onkologie mbH,5,Academic,Germany
+2935,Glenmark Pharmaceuticals S.A.,5,Pharma,India
+2936,Globus Medical Inc,5,Pharma,United States
+2937,Greater Houston Retina Research,5,Academic,United States
+2938,"Grifols Biologicals, LLC",5,Pharma,Spain
+2939,Groupe Hospitalier Diaconesses Croix Saint-Simon,5,Academic,France
+2940,Groupe Hospitalier Mutualiste de Grenoble,5,Academic,France
+2941,Guangdong Academy of Medical Sciences,5,Academic,China
+2942,"Guangdong Zhongsheng Pharmaceutical Co., Ltd.",5,Pharma,China
+2943,Guangzhou Psychiatric Hospital,5,Academic,China
+2944,"Guilin Medical University, China",5,Academic,China
+2945,"Gwo Xi Stem Cell Applied Technology Co., Ltd.",5,Academic,Taiwan
+2946,Halozyme Therapeutics,5,Pharma,United States
+2947,Hampshire Hospitals NHS Foundation Trust,5,Academic,United Kingdom
+2948,Harvard Medical School,5,Academic,United States
+2949,Health Science Center of Xi’an Jiaotong University,5,Academic,China
+2950,Heart of England NHS Trust,5,Academic,United Kingdom
+2951,Heilongjiang University of Chinese Medicine,5,Academic,China
+2952,"Helixmith Co., Ltd.",5,Pharma,South Korea
+2953,"Henlix, Inc",5,Pharma,United States
+2954,HighTide Biopharma Pty Ltd,5,Pharma,United States
+2955,HiPP GmbH & Co. Vertrieb KG,5,Pharma,Germany
+2956,Hippocration General Hospital,5,Academic,Greece
+2957,HIV Prevention Trials Network,5,Academic,United States
+2958,HLT Inc.,5,Pharma,United States
+2959,Hoag Memorial Hospital Presbyterian,5,Academic,United States
+2960,Holbaek Sygehus,5,Academic,Denmark
+2961,Hopital du Sacre-Coeur de Montreal,5,Academic,Canada
+2962,Horizon Health Network,5,Pharma,Canada
+2963,"Horizon Pharma USA, Inc.",5,Pharma,United States
+2964,Hospital Beatriz Ângelo,5,Academic,Portugal
+2965,Hospital Clinico Universitario de Santiago,5,Academic,Spain
+2966,Hospital del Mar,5,Academic,Spain
+2967,Hospital del Río Hortega,5,Academic,Spain
+2968,Hospital District of Helsinki and Uusimaa,5,Academic,Finland
+2969,Hospital General de México Dr. Eduardo Liceaga,5,Academic,Mexico
+2970,Hospital General Naval de Alta Especialidad - Escuela Medico Naval,5,Academic,Mexico
+2971,"Hospital St. Joseph, Marseille, France",5,Academic,France
+2972,Hospital Universitario Reina Sofia de Cordoba,5,Academic,Spain
+2973,HRA Pharma,5,Pharma,United States
+2974,"Hrain Biotechnology Co., Ltd.",5,Pharma,China
+2975,"Human Development Research Foundation, Pakistan",5,Academic,Pakistan
+2976,"Immune Response BioPharma, Inc.",5,Pharma,United States
+2977,Immunocore Ltd,5,Pharma,United Kingdom
+2978,"Impact Therapeutics, Inc.",5,Pharma,China
+2979,Implicit Bioscience,5,Pharma,China
+2980,InflaRx GmbH,5,Pharma,Germany
+2981,Innate Pharma,5,Pharma,France
+2982,Innocrin Pharmaceutical,5,Pharma,United States
+2983,Innovation Research & Training,5,Academic,United States
+2984,"Insight Therapeutics, LLC",5,Pharma,United States
+2985,Institut d'Investigacions Biomèdiques August Pi i Sunyer,5,Academic,Spain
+2986,Institut für Pneumologie Hagen Ambrock eV,5,Academic,Denmark
+2987,Institute for Clinical Effectiveness and Health Policy,5,Academic,Argentina
+2988,Instituto Aragones de Ciencias de la Salud,5,Academic,Spain
+2989,Instituto Ecuatoriano de Enfermedades Digestivas,5,Academic,Ecuador
+2990,"Instituto Nacional de Cancerologia, Columbia",5,Academic,Colombia
+2991,Instituto Nacional de Perinatologia Isidro Espinosa de los Reyes,5,Academic,Mexico
+2992,Insud Pharma,5,Pharma,Spain
+2993,Iran University of Medical Sciences,5,Academic,Iran
+2994,IRCCS Centro San Giovanni di Dio Fatebenefratelli,5,Academic,Italy
+2995,IRCCS Fondazione Stella Maris,5,Academic,Italy
+2996,iSTAR Medical,5,Pharma,Belgium
+2997,"Istari Oncology, Inc.",5,Pharma,United States
+2998,Istituto Auxologico Italiano,5,Academic,Italy
+2999,Istituto per la Ricerca e l'Innovazione Biomedica,5,Academic,Italy
+3000,"JHL Biotech, Inc.",5,Pharma,Taiwan
+3001,JHSPH Center for Clinical Trials,5,Academic,United States
+3002,Jiangsu Cancer Institute & Hospital,5,Academic,China
+3003,Jimma University,5,Academic,Ethiopia
+3004,John H. Stroger Hospital,5,Academic,United States
+3005,Josip Juraj Strossmayer University of Osijek,5,Academic,Croatia
+3006,JW Pharmaceutical,5,Pharma,South Korea
+3007,Kaiser Clinic and Hospital,5,Pharma,Canada
+3008,"Kala Pharmaceuticals, Inc.",5,Pharma,United States
+3009,Kansai Hepatobiliary Oncology Group,5,Academic,Japan
+3010,"Kartos Therapeutics, Inc.",5,Pharma,United States
+3011,Kecioren Education and Training Hospital,5,Academic,Turkey
+3012,Kemin Foods LC,5,Pharma,United States
+3013,Kinderkrankenhaus auf der Bult,5,Academic,Germany
+3014,"King Hamad University Hospital, Bahrain",5,Academic,Bahrain
+3015,King Khalid University,5,Academic,Saudi Arabia
+3016,"Kiniksa Pharmaceuticals, Ltd.",5,Pharma,Bermuda
+3017,Kobe City General Hospital,5,Academic,Japan
+3018,Konya Necmettin Erbakan Üniversitesi,5,Academic,Turkey
+3019,"Kowa Company, Ltd.",5,Pharma,Japan
+3020,Laboratoires Thea,5,Pharma,France
+3021,Laboratorio Elea S.A.C.I.F. y A.,5,Pharma,Argentina
+3022,Lady Hardinge Medical College,5,Academic,India
+3023,Lebanese American University,5,Academic,Lebanon
+3024,Legacy Health System,5,Academic,United States
+3025,Leipzig Heart Institute GmbH,5,Academic,Germany
+3026,Liaocheng People's Hospital,5,Academic,China
+3027,Liaoning Tumor Hospital & Institute,5,Academic,China
+3028,LMC Diabetes & Endocrinology Ltd.,5,Pharma,Canada
+3029,Longeveron LLC,5,Pharma,Japan
+3030,Louis Stokes VA Medical Center,5,Academic,United States
+3031,LSK BioPartners Inc.,5,Pharma,United States
+3032,Lumenis Ltd.,5,Pharma,Australia
+3033,Lycera Corp.,5,Pharma,United States
+3034,MaaT Pharma,5,Pharma,France
+3035,Macfarlane Burnet Institute for Medical Research and Public Health Ltd,5,Academic,Australia
+3036,"Madrigal Pharmaceuticals, Inc.",5,Pharma,United States
+3037,Mälardalen University,5,Academic,Sweden
+3038,Manchester Metropolitan University,5,Academic,United Kingdom
+3039,Mater Misericordiae University Hospital,5,Academic,United Kingdom
+3040,Maternal and Child Health Hospital of Foshan,5,Academic,China
+3041,McMaster Children's Hospital,5,Academic,Canada
+3042,MD Stem Cells,5,Pharma,United States
+3043,"Medecins Sans Frontieres, Netherlands",5,Academic,Netherlands
+3044,Medi-Tate Ltd.,5,Pharma,Israel
+3045,Medical Centre Leeuwarden,5,Academic,Netherlands
+3046,"Medical Corps, Israel Defense Force",5,Academic,Israel
+3047,Medical Research Council,5,Academic,United Kingdom
+3048,Medivir,5,Pharma,Sweden
+3049,Medtronic Neurovascular Clinical Affairs,5,Academic,United States
+3050,Memorial Health University Medical Center,5,Academic,United States
+3051,"Mercator MedSystems, Inc.",5,Pharma,United States
+3052,Meril Life Sciences Pvt. Ltd.,5,Pharma,India
+3053,"Merit Medical Systems, Inc.",5,Pharma,United States
+3054,Merus N.V.,5,Pharma,Netherlands
+3055,Michigan Institution of Women's Health PC,5,Academic,United States
+3056,Midwest Biomedical Research Foundation,5,Academic,United States
+3057,Military Hospital of Tunis,5,Academic,Tunisia
+3058,Modra Pharmaceuticals,5,Pharma,Netherlands
+3059,Molecular NeuroImaging,5,Pharma,United States
+3060,Molecular Partners AG,5,Pharma,Switzerland
+3061,Moscow Regional Research and Clinical Institute Moniki n.a. M.F. Vladimirskiy,5,Academic,Russia
+3062,Mount Carmel Health System,5,Pharma,United States
+3063,"Mt. Sinai Medical Center, Miami",5,Academic,United States
+3064,Nanobiotix,5,Pharma,France
+3065,"NanoCarrier Co., Ltd.",5,Pharma,Japan
+3066,"National Center for Tumor Diseases, Heidelberg",5,Academic,Germany
+3067,"National Health Service, United Kingdom",5,Academic,United Kingdom
+3068,National Hepatology & Tropical Medicine Research Institute,5,Academic,Egypt
+3069,"National Liver Institute, Egypt",5,Academic,Egypt
+3070,"Near East University, Turkey",5,Academic,Turkey
+3071,Nerre Therapeutics Ltd.,5,Pharma,United Kingdom
+3072,NeuroDerm Ltd.,5,Pharma,Israel
+3073,Neurogen Brain and Spine Institute,5,Academic,India
+3074,Neurohabilitation Corporation,5,Pharma,United States
+3075,"NeuroRx, Inc.",5,Pharma,United States
+3076,Neurotech Pharmaceuticals,5,Pharma,United States
+3077,New York School of Regional Anesthesia,5,Academic,United States
+3078,NHS National Waiting Times Centre Board,5,Academic,United Kingdom
+3079,NICHD Pelvic Floor Disorders Network,5,Academic,United States
+3080,Nicklaus Children's Hospital f/k/a Miami Children's Hospital,5,Academic,United States
+3081,Ningbo Cancer Hospital,5,Academic,China
+3082,North Carolina State University,5,Academic,United States
+3083,Nottingham Trent University,5,Academic,United Kingdom
+3084,Novaliq GmbH,5,Pharma,Germany
+3085,Novavax,5,Pharma,United States
+3086,Oklahoma Medical Research Foundation,5,Academic,United States
+3087,"Oncoceutics, Inc.",5,Pharma,United States
+3088,"OncoImmune, Inc.",5,Pharma,United States
+3089,Oncology Venture,5,Pharma,Denmark
+3090,Onze Lieve Vrouw Hospital,5,Academic,Belgium
+3091,Onze Lieve Vrouwe Gasthuis,5,Academic,Netherlands
+3092,Oregon Social Learning Center,5,Academic,United States
+3093,"Orlando Health, Inc.",5,Academic,United States
+3094,Osiris Therapeutics,5,Pharma,United States
+3095,Ospedale San Donato,5,Academic,Italy
+3096,"Ostergotland County Council, Sweden",5,Academic,Sweden
+3097,Ovid Therapeutics Inc.,5,Pharma,United States
+3098,OVO R & D,5,Pharma,Canada
+3099,Oxurion,5,Pharma,Belgium
+3100,Pacific University,5,Academic,United States
+3101,"Panhandle Eye Group, LLP",5,Academic,United States
+3102,Paracelsus Medical University,5,Academic,Austria
+3103,Parker Institute for Cancer Immunotherapy,5,Academic,United States
+3104,"PaxVax, Inc.",5,Pharma,United States
+3105,Perrigo Company,5,Pharma,Ireland
+3106,"Pharmicell Co., Ltd.",5,Pharma,South Korea
+3107,Phoenix VA Health Care System,5,Academic,United States
+3108,PhytoHealth Corporation,5,Pharma,Taiwan
+3109,Pluristem Ltd.,5,Pharma,Israel
+3110,Pôle Saint Hélier,5,Academic,United Kingdom
+3111,Polichem S.A.,5,Pharma,Switzerland
+3112,PolyPid Ltd.,5,Pharma,Israel
+3113,POLYSAN Scientific & Technological Pharmaceutical Company,5,Pharma,Russia
+3114,Pontificia Universidade Católica do Rio Grande do Sul,5,Academic,Brazil
+3115,Price Vision Group,5,Pharma,United States
+3116,Prisma Health-Midlands,5,Academic,United States
+3117,Profil Institut für Stoffwechselforschung GmbH,5,Academic,Germany
+3118,Provectus Pharmaceuticals,5,Pharma,United States
+3119,Psoriasis Treatment Center of Central New Jersey,5,Pharma,United States
+3120,Public Health Foundation of India,5,Academic,India
+3121,Qingdao Central Hospital,5,Academic,China
+3122,Quanta Medical,5,Academic,France
+3123,"Queen Mary Hospital, Hong Kong",5,Academic,China
+3124,Queensland Centre for Gynaecological Cancer,5,Academic,Australia
+3125,Quiropraxia y Equilibrio,5,Academic,Chile
+3126,"Radius Pharmaceuticals, Inc.",5,Pharma,United States
+3127,Rafael Pharmaceuticals Inc.,5,Pharma,United States
+3128,Real Imaging Ltd.,5,Pharma,United Kingdom
+3129,Regina Elena Cancer Institute,5,Academic,Italy
+3130,Region Östergötland,5,Academic,Sweden
+3131,Region Västmanland,5,Academic,Sweden
+3132,ReNeuron Limited,5,Pharma,United Kingdom
+3133,Rensselaer Polytechnic Institute,5,Academic,United States
+3134,"REVA Medical, Inc.",5,Pharma,United States
+3135,"Rhythm Pharmaceuticals, Inc.",5,Pharma,United States
+3136,Rigel Pharmaceuticals,5,Pharma,United States
+3137,Robert Jones and Agnes Hunt Orthopaedic and District NHS Trust,5,Academic,United Kingdom
+3138,Rovi Pharmaceuticals Laboratories,5,Pharma,Spain
+3139,Royal Infirmary of Edinburgh,5,Academic,United Kingdom
+3140,"RTOG Foundation, Inc.",5,Academic,United States
+3141,Saint Savvas Anticancer Hospital,5,Academic,Greece
+3142,Sangath,5,Academic,India
+3143,Santa Barbara Cottage Hospital,5,Academic,China
+3144,"Santalis Pharmaceuticals, Inc.",5,Pharma,Australia
+3145,Santhera Pharmaceuticals,5,Pharma,Switzerland
+3146,"Sanwa Kagaku Kenkyusho Co., Ltd.",5,Pharma,Japan
+3147,"Sarcoma Oncology Research Center, LLC",5,Academic,United States
+3148,Savara Inc.,5,Pharma,United States
+3149,"Schneider Children's Medical Center, Israel",5,Academic,Israel
+3150,Science and Research Centre Koper,5,Academic,Slovenia
+3151,Scientific Institute San Raffaele,5,Academic,Italy
+3152,"Scilex Pharmaceuticals, Inc.",5,Pharma,United States
+3153,Scitech Produtos Medicos Ltda,5,Pharma,Brazil
+3154,Sebela Pharmaceuticals Inc.,5,Pharma,United States
+3155,Second Affiliated Hospital of Nanchang University,5,Academic,China
+3156,Second Hospital of Jilin University,5,Academic,China
+3157,Sequana Medical N.V.,5,Pharma,Belgium
+3158,"SerenaGroup, Inc.",5,Pharma,United States
+3159,"Seres Therapeutics, Inc.",5,Pharma,United States
+3160,Seton Healthcare Family,5,Pharma,United States
+3161,"Shandong Luoxin Pharmaceutical Group Stock Co., Ltd.",5,Pharma,China
+3162,Shanghai Bioray Laboratory Inc.,5,Pharma,China
+3163,Shanghai Dermatology Hospital,5,Academic,China
+3164,Shanghai Jiao Tong University Affiliated Sixth People’s Hospital,5,Academic,China
+3165,Shenzhen BinDeBio Ltd.,5,Pharma,China
+3166,"Shenzhen SiBiono GeneTech Co.,Ltd",5,Pharma,China
+3167,Shoulder & Upper Extremity Research Group of Edmonton,5,Academic,Canada
+3168,Show Chwan Memorial Hospital,5,Academic,Taiwan
+3169,Sintetica SA,5,Pharma,Switzerland
+3170,"Snyder, Robert W., M.D., Ph.D., P.C.",5,Academic,United States
+3171,SOFAR S.p.A.,5,Pharma,Italy
+3172,Soliton,5,Pharma,United States
+3173,"Sound Pharmaceuticals, Incorporated",5,Pharma,United States
+3174,South China Research Center for Stem Cell and Regenerative Medicine,5,Academic,China
+3175,South Plains Oncology Consortium,5,Academic,United States
+3176,South Tees Hospitals NHS Foundation Trust,5,Academic,United Kingdom
+3177,Southern California Institute for Research and Education,5,Academic,United States
+3178,Southern Illinois University Edwardsville,5,Academic,United States
+3179,Sport Injury Prevention Research Centre,5,Academic,Canada
+3180,Sprim Advanced Life Sciences,5,Academic,United States
+3181,"St. Luke's Hospital, Pennsylvania",5,Academic,United States
+3182,State-Financed Health Facility Samara Regional Medical Center Dinasty,5,Academic,Russia
+3183,Statens Serum Institut,5,Academic,Denmark
+3184,Stimwave Technologies,5,Pharma,United States
+3185,Stryker Neurovascular,5,Pharma,United States
+3186,Sulaiman AlRajhi Colleges,5,Academic,Saudi Arabia
+3187,Sun Life Financial Movement Disorders Research and Rehabilitation Centre,5,Academic,United States
+3188,Sun Pharmaceutical Industries Limited,5,Pharma,India
+3189,Swinburne University of Technology,5,Academic,Australia
+3190,"Sword Health, SA",5,Pharma,United States
+3191,Sykehuset Innlandet HF,5,Academic,Norway
+3192,"SynCore Biotechnology Co., Ltd.",5,Pharma,Taiwan
+3193,Taibah University,5,Academic,Saudi Arabia
+3194,Taisho Pharmaceutical R&D Inc.,5,Pharma,United States
+3195,Telemark University College,5,Academic,Norway
+3196,Terumo Europe N.V.,5,Pharma,Norway
+3197,Tetra Bio-Pharma,5,Pharma,Canada
+3198,Texas Back Institute,5,Pharma,United States
+3199,The First Affiliated Hospital of Nanchang University,5,Academic,China
+3200,The First People's Hospital of Lianyungang,5,Academic,China
+3201,The Hospital of Vestfold,5,Academic,Norway
+3202,The London Spine Centre,5,Academic,United Kingdom
+3203,The Mind Research Network,5,Pharma,United States
+3204,The Royal Bournemouth Hospital,5,Academic,United Kingdom
+3205,Theodor Bilharz Research Institute,5,Academic,Egypt
+3206,Therapeutic Advances in Childhood Leukemia Consortium,5,Pharma,United States
+3207,Tianhe Stem Cell Biotechnologies Inc.,5,Pharma,China
+3208,Tianjin SinoBiotech Ltd.,5,Pharma,China
+3209,Timmune Biotech Inc.,5,Pharma,China
+3210,Tokyo Medical University,5,Academic,Japan
+3211,Trevi Therapeutics,5,Pharma,United States
+3212,TTY Biopharm,5,Pharma,Taiwan
+3213,Universidad Autonoma de Queretaro,5,Academic,Mexico
+3214,Universidad de Córdoba,5,Academic,Spain
+3215,Universidad Nacional Andres Bello,5,Academic,Chile
+3216,Universidad Nacional Autonoma de Mexico,5,Academic,Mexico
+3217,Universidad Santo Tomas,5,Academic,Colombia
+3218,Universidade Federal do Triangulo Mineiro,5,Academic,Brazil
+3219,Universitas Padjadjaran,5,Academic,Indonesia
+3220,Universitat de Lleida,5,Academic,Spain
+3221,Universiti Tunku Abdul Rahman,5,Academic,Malaysia
+3222,University Hospital of Split,5,Academic,Croatia
+3223,University Hospital Regensburg,5,Academic,Germany
+3224,"University Hospital, Mahdia",5,Academic,Tunisia
+3225,University Hospitals Bristol NHS Foundation Trust,5,Academic,United Kingdom
+3226,University of Agder,5,Academic,Norway
+3227,"University of Alabama, Tuscaloosa",5,Academic,United States
+3228,"University of California, Merced",5,Academic,United States
+3229,University of Denver,5,Academic,United States
+3230,University of Gaziantep,5,Academic,Turkey
+3231,University of Göttingen,5,Academic,Germany
+3232,University of Heidelberg Medical Center,5,Academic,Germany
+3233,University of Ibadan,5,Academic,Nigeria
+3234,University of Ioannina,5,Academic,Greece
+3235,University of Jazan,5,Academic,Saudi Arabia
+3236,University of Magdeburg,5,Academic,Germany
+3237,University of Memphis,5,Academic,United States
+3238,University of New England,5,Academic,Australia
+3239,University of Oviedo,5,Academic,Spain
+3240,University of Padua,5,Academic,Italy
+3241,University of Patras,5,Academic,Greece
+3242,University of Portsmouth,5,Academic,United States
+3243,University of Rijeka,5,Academic,Croatia
+3244,University of Salamanca,5,Academic,Spain
+3245,University of South Wales,5,Academic,United Kingdom
+3246,University of Southern Mississippi,5,Academic,United States
+3247,University of Strathclyde,5,Academic,United Kingdom
+3248,University of Warmia and Mazury,5,Academic,Poland
+3249,University Rovira i Virgili,5,Academic,Spain
+3250,UroGen Pharma Ltd.,5,Pharma,United States
+3251,VA Boston Healthcare System,5,Academic,United States
+3252,"Vascular Dynamics, Inc.",5,Pharma,United States
+3253,VBI Vaccines Inc.,5,Pharma,United States
+3254,"VenatoRx Pharmaceuticals, Inc.",5,Pharma,United States
+3255,Verrica Pharmaceuticals Inc.,5,Pharma,United States
+3256,Versartis Inc.,5,Pharma,United States
+3257,Vibrant Ltd.,5,Pharma,United States
+3258,VieCuri Medical Centre,5,Academic,Netherlands
+3259,VIFORFRANCE,5,Pharma,France
+3260,VISUfarma SpA,5,Pharma,France
+3261,VIVE - The Danish Centre of Applied Social Science,5,Academic,Denmark
+3262,VU University of Amsterdam,5,Academic,Netherlands
+3263,Westat,5,Pharma,United States
+3264,White River Junction Veterans Affairs Medical Center,5,Academic,United States
+3265,World Bank,5,Academic,United States
+3266,Wuhan Asia Heart Hospital,5,Academic,China
+3267,Xeltis,5,Pharma,Netherlands
+3268,Xenon Pharmaceuticals Inc.,5,Pharma,Canada
+3269,Xian-Janssen Pharmaceutical Ltd.,5,Pharma,China
+3270,"Xynomic Pharmaceuticals, Inc.",5,Pharma,United States
+3271,"Zhengzhou Children's Hospital, China",5,Academic,China
+3272,"ZhuHai Cardionovum Medical Device Co., Ltd.",5,Pharma,China
+3273,Zoll Medical Corporation,5,Pharma,United States
+3274,Zydolab - Institute of Cytology and Immune Cytochemistry,5,Academic,Germany
